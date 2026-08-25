@@ -16,6 +16,11 @@
 Redirect 301 /blogs /blog
 Redirect 301 /lp /contact
 
+# The three service pages became one, per the approved navigation.
+Redirect 301 /services/performance /services
+Redirect 301 /services/creators /services
+Redirect 301 /services/ai-product /services
+
 # --- Security headers --------------------------------------------------------
 # Mirrors netlify.toml and vercel.json.
 <IfModule mod_headers.c>
