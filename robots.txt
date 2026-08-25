@@ -1,0 +1,5 @@
+# PREVIEW BUILD — not the public site.
+# This deploy exists so the site can be clicked through before driftedmarketing.com
+# points at it. It must never compete with the real domain in search results.
+User-agent: *
+Disallow: /
