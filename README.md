@@ -1,8 +1,7 @@
-# Drifted Marketing — deployed site
+# driftedmarketing.com — deployed files
 
-Built output only. **Source of record is the private repo `umer-sudo/DFTDMKTG`** —
-edit there, run `npm run build:static`, and republish this folder. Never hand-edit
-files here; the next build overwrites them.
+Generated. Do not edit here; edits are overwritten by the next publish.
 
-`CNAME` points this deploy at **driftedmarketing.com**. Deleting that file sends the
-site back to umer-sudo.github.io.
+Source of record: the private repo `umer-sudo/DFTDMKTG`. Every commit to its
+`main` rebuilds the static export and pushes it here, which is what the domain
+serves. See `.github/workflows/publish.yml` there.
