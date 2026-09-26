@@ -1,0 +1,1441 @@
+# Drifted Marketing
+
+> Drifted — a growth agency for ads, content and AI apps, founded 2026, Karachi, working New York hours. We run Meta and Google ads, make the content that feeds them and build custom AI apps, for a published monthly fee, with one number and one date written into every contract.
+
+## Key facts
+
+- Name: Drifted Marketing (short name: Drifted). Legal entity: Drifted Marketing LLC, a United States company.
+- Founded: 2026, in Karachi, Pakistan. Founder: Umer Tariq, who runs every account.
+- Team: a small Gen-Z team, led by a Gen-Z founder, in Karachi. Hours: New York business hours, worked from Karachi.
+- Serves: brands in the United States and Pakistan.
+- Services: performance media (Meta and Google ads), creator growth and content, custom AI apps.
+- Price: Starter $2,000 a month; Standard $4,000 a month; Tailored (priced to the number). Advertising spend is separate, stays in the client's own account, and is never charged as a percentage.
+- First call: thirty minutes, no deck. Notice to leave: thirty days; the client keeps the accounts and the work.
+- Contact: umer@driftedmarketing.com · (346) 716-2948 · https://driftedmarketing.com/contact/
+- Instagram: https://instagram.com/drifted.marketing
+- Not to be confused with: Drift, the chat software company (part of Salesloft), or drifted.com, a motorsport publisher. Drifted Marketing is an agency in Karachi.
+
+## Services
+
+- [Performance media](https://driftedmarketing.com/services/#performance-media): Paid advertising on Meta (Instagram and Facebook) and Google, where the creative, the campaign structure and the budget are run by one team and judged against one agreed number — revenue, orders or cost per customer — by one agreed date.
+- [Creator growth](https://driftedmarketing.com/services/#creator-growth): Short-form video, carousels and posts made for the stranger scrolling past rather than the follower who already knows the brand — and, for creators, turning an audience into a business with products priced to margin before anything is designed.
+- [AI product](https://driftedmarketing.com/services/#ai-product): Custom AI apps built for one business's real workload — for example writing auction listings from photographs — scoped against how the tool saves time or makes money before any code is written, and checked by a person where judgement matters.
+- [All services](https://driftedmarketing.com/services/): sold together, one team, one monthly fee.
+
+## Pricing
+
+Drifted publishes its price: $2,000 a month for one discipline, $4,000 a month for the full content and findability loop, or a tailored fee for paid media at scale and AI builds. Advertising spend is separate, stays in your own account, and we never take a percentage of it. Full page: https://driftedmarketing.com/pricing/
+
+### Starter — $2,000 a month
+
+One channel, one number, a brand testing whether any of this works.
+
+Includes:
+- One discipline: performance media, content, or a build — not all three
+- A monthly written report and a monthly call
+- The scope is set out loud on the first call and written into the contract
+
+Excludes:
+- Advertising spend, which is yours and stays in your account
+
+### Standard — $4,000 a month
+
+A brand that wants the whole loop running — content, findability and counsel.
+
+Includes:
+- Three to five short videos and three to four carousels a month
+- Two static posters a month
+- Four page optimisations a month
+- One researched article a month, eight hundred to twelve hundred words
+- Answer-engine entries, so the brand is quotable to an assistant
+- Google Business Profile maintained, with two posts a month
+- One email campaign a month
+- A visibility report, a written monthly report and a monthly call
+- Two consultation hours a month
+
+Excludes:
+- Paid advertising management and advertising spend
+- On-site photography and videography
+- Website development
+
+### Tailored — priced to the number
+
+Paid media at scale, a product build, a shoot — or all three at once.
+
+Includes:
+- Paid media management across Meta and Google
+- Custom AI product, scoped against how it earns before it is built
+- Photography, video and production
+- Everything in Standard
+
+Excludes:
+- Nothing, by definition — the scope is written to your number
+
+We are the wrong choice if:
+- You want the cheapest possible price. There is always someone cheaper, and at some point that person is a person with a template.
+- You want a team of ten names on a slide. There is a small team here and the person who pitches the work does the work.
+- You want us to promise a number before we have seen the account. We will give you a number on the first call, out loud — but not before we have looked.
+- You need the whole thing done by Friday. Work starts in week one; numbers land around week four.
+- You want to own none of it. The advertising account, the pages and the creative stay yours, and that means you have to hold the keys.
+
+## Work — every figure named to its client
+
+Current clients: The Gallery and Frank Zoller Authentic History. Every number below is one we can produce the account for; where a result is not measured yet, the page says pending.
+
+### Frank Zoller Authentic History — https://driftedmarketing.com/work/zoller/
+
+Current client. Frank Zoller Authentic History — Adam Lewis's militaria auction operation.
+Case study: an AI app that writes auction listings from photographs for Frank Zoller Authentic History — 1,250 lots per auction, 400+ hours off the desk.
+
+- 400+ hours saved.
+- 1,250 lots per auction, previously typed by hand, now filled from photographs.
+- Trained on a reference corpus of 32,000 items.
+- Inventory Watch monitors 21 dealer sites for new listings.
+- Three builds for this client: the listing platform, Inventory Watch and the zollerhistory.com rebuild.
+
+Every auction meant 1,250 lots entered by hand. Photograph, edit, renumber, then type a title, a description, a start price and an estimate range — one lot at a time, to lot 1,250.
+The work was not hard. It was long, and it happened before anything could be sold, on every single auction.
+- Ingestion: 32,000 past items — titles, descriptions, estimates and realized prices — ingested into a hosted backend as the model’s reference set.
+- The engine: Photographs in, complete listing rows out. Repeat items pull their own history; new items get identified and described from the image.
+- Review triage: Confidence-scored output. Only uncertain items are flagged for a human; everything else passes straight through.
+- The handoff: The filled template uploads straight to LiveAuctioneers, and existing automation cross-posts to BidSpirit and the direct bidding site.
+
+What we found: Realized prices sat consistently below estimates across the historical set — systematic estimate inflation, invisible until 32,000 records were in one place.
+
+### Noted. — https://driftedmarketing.com/work/noted/
+
+Past work. A creator's merch brand (@theonlycanadianbacon).
+Past work: a merch brand built for a creator with 115K followers — brand identity on a red-pen concept, an eight-product line priced to margin, a launch.
+
+- 115K followers at launch.
+- 3K new followers a month.
+- 8 products, priced to margin.
+
+115K people, consistent attention, and no product. Brand deals paid inconsistently and every merch idea died at the question nobody had answered: what does it cost to make, what does it sell for, and what is left.
+- The concept: A full identity built on a red-pen annotation idea — a brand, not a logo on a shirt.
+- Margin first: An eight-product line priced against real production costs, with the margin table built before anything was designed.
+- Production: Printful and Tapstitch hybrid, so quality and turnaround both hold at volume.
+- The launch: Instagram launch strategy, content calendar, and a handoff package so the cycle runs without us.
+
+What we found: The audience was already there. Nothing had ever been sold to it — the constraint was structural, not creative.
+
+### Ehsaan — https://driftedmarketing.com/work/ehsaan/
+
+Client work. A person-to-person thrift marketplace app for Pakistan; in production.
+Case study: a person-to-person thrift marketplace app for Pakistan — the app, the brand system and the launch campaign, with a first build in 23 prompts.
+
+- 23 prompts to first build.
+- A 19-section knowledge base behind the build.
+
+Second-hand clothing in Pakistan moved through comment sections, WhatsApp groups and DM negotiations. No listings, no search, no trust layer, nothing built for the people actually using it.
+- Twenty-three prompts to first build: React, Vite, TypeScript and Supabase through Lovable, then moved to Claude Code against a nineteen-section knowledge base so the product keeps its own rules as it grows.
+- A Gen-Z-native brand: Identity, type system and product design built for the audience that already trades this way — fast, visual, unembarrassed about second-hand.
+- The launch system: Social content, video and launch assets produced alongside the build, so the product and the campaign ship as one thing.
+
+What we found: Trust is the product. Every design decision routed back to whether a stranger would send money for a stranger’s jacket.
+
+### The Gallery — https://driftedmarketing.com/work/gallery/
+
+Current client. Personalised newborn brand, Pakistan (@thegallery.bytg).
+Meta ads case study: Instagram DM-first campaigns for a personalised newborn brand. $5.20–$6 back per $1 of ad spend, every campaign to July 2026.
+
+- $5.20–$6 back per $1 of ad spend, every campaign to July 2026.
+- Ten creatives in the campaign; the sale closes in Instagram DMs.
+
+Personalised newborn gifts sell through conversation — sizing, spelling, dates, photos. The checkout was already the DM, so a campaign built to push traffic at a product page would have been measuring the wrong thing.
+- Ten creatives, one job: A tight creative set built to start a conversation rather than close a cart.
+- DM-native buying: Campaigns optimised toward the inbox, with the sale tracked where it actually happens.
+- Weekly iteration: The losers get cut, the winners get rebuilt. The number is reported every week against what was agreed.
+
+### Legacy Blinds — https://driftedmarketing.com/work/blinds/
+
+Client work. Paid social creative for a window-treatments brand.
+Case study: a six-frame comparison carousel for a window-treatments brand, opening on the price question buyers actually ask. Built for paid social.
+
+- A six-frame comparison carousel; reach and sales not yet published.
+
+Linen roller shades and faux wood blinds photograph similarly and sell to the same room, so a scrolling buyer reads them as interchangeable and sorts on price alone. An ad that simply shows the product loses that comparison before it starts.
+- Ask, don’t tell: The carousel opens on a question — which of these costs more — so the first frame buys a swipe instead of asking for a click.
+- One product per frame: A, then A in detail, then B. Each frame carries a single claim about make and material, so the comparison is legible at thumb speed.
+- Land on craft, not price: The payoff frame reframes the question it opened with: style is one thing, craftsmanship is another. The buyer arrives at the link having already argued themselves out of sorting on price.
+
+What we found: Answering the price question directly is what earns the swipe. A carousel that opens on a claim gets scrolled past; one that opens on a question gets finished.
+
+### Seyr — https://driftedmarketing.com/work/seyr/
+
+Client work. Ecommerce storefront design and build.
+Case study: an ecommerce storefront designed and built for Seyr — product pages, checkout path and brand, made to convert rather than to win awards.
+
+- Conversion-built: Structure, product presentation and checkout flow designed around the purchase, not the portfolio shot.
+- Handover: Client-run from day one, with the build documented.
+
+### Multi-brand social — https://driftedmarketing.com/work/social/
+
+Client work. Strategy, production and client communication across four brand accounts; two run directly, two early freelance work.
+Strategy, production and client communication across four brand accounts. The Poster Project reached 2.2M views in 90 days, 80% of it organic.
+
+- The Poster Project: 2.2M views in 90 days, 80% organic, from an account with 811 followers at the time.
+- The Poster Project: 199,392 accounts reached, up 174.5%.
+- The Poster Project: 80K accounts reached in 30 days.
+- BamBam NYC, early freelance work: $0.25 per landing page view.
+
+Four brands, small follower counts, and a category where reach is normally bought. The work was to make content that travels on its own and only pay where paying is efficient.
+- One operator, four accounts: Strategy, production and client communication in one pair of hands — no coordination layer. Two of the four ran under Drifted; two are early freelance work, from before Drifted had a name.
+- Organic first, paid where it pays: 80% of the Poster Project’s 2.2M views were organic. BamBam’s paid traffic, early freelance work, ran at $0.25 per landing page view.
+
+What we found: Reach beats followers. The Poster Project reached 199,392 accounts in 90 days — up 174.5% — from what was then an 811-follower base.
+
+## How an engagement works
+
+1. A thirty-minute call, no deck. You bring the number you need to hit and the date; you get a yes or a no on the call.
+2. The whole plan on one page, with the target written into the contract.
+3. Work in week one. Numbers by week four, reported against the agreed number.
+4. A written report and a call every month. Thirty days' notice to leave; the accounts, pages and creative are yours throughout.
+
+## Questions buyers ask
+
+### What does a growth agency in Karachi do?
+
+Drifted is a growth agency for ads, content and AI apps, founded 2026 in Karachi and working New York hours. We run Meta and Google ads, make the content that feeds them, and build custom AI apps — one team and one monthly fee, with one number and one date written into the contract.
+
+### How much does a performance marketing agency cost?
+
+Drifted publishes its price: $2,000 a month for one discipline, $4,000 a month for the full content and findability loop, or a tailored fee for paid media at scale and AI builds. Advertising spend is separate, stays in your own account, and we never take a percentage of it.
+
+### Who runs Drifted?
+
+Umer Tariq, the founder, runs every account. Drifted is a growth agency for ads, content and AI apps, founded 2026 in Karachi and working New York hours — a small Gen-Z team, led by a Gen-Z founder. The person who pitches your work writes the strategy, sits the calls and ships it.
+
+### What is Drifted Marketing?
+
+Drifted Marketing is a growth agency for ads, content and AI apps, founded 2026 in Karachi and working New York hours. We run Meta and Google ads, produce the content and build custom AI apps for a published fee of $2,000 or $4,000 a month, with one agreed number and date in every contract.
+
+### What does it actually cost?
+
+Two published monthly fees — $2,000 for one discipline, $4,000 for the full content and findability loop — or a tailored fee priced to your revenue target on the first call, out loud, before any contract exists. Advertising spend is separate. If the maths does not work for you, we will say so and point you somewhere cheaper.
+
+### How fast until we see anything?
+
+Work in week one. Numbers by week four. We publish the check-in cadence in the contract, and a month with nothing to point at is treated as a failure — ours, not yours.
+
+### How do we know it is working?
+
+Every figure we report names its client and carries a receipt. The Gallery gets $5.20–$6 back per $1 of ad spend, every campaign to July 2026. That is published, not claimed — and where a number is not measured yet, the page says pending rather than guessing.
+
+### Is the AI work snake oil?
+
+Sometimes, elsewhere. Here it is a typist with perfect stamina: 1,250 auction listings written from photographs, 400+ hours returned to a real team, every listing checked by a person. The machine does volume; people do judgement.
+
+### What if we want out?
+
+Thirty days’ notice. You keep everything we made — files, accounts, ad history, the lot. If the work does not hold you, a clause should not have to.
+
+### Are we too small for you?
+
+The Poster Project had 811 followers at the time and reached 2.2M views in ninety days, 80% of it organic. The Gallery is a family business. Small means the founder is in the room and decisions happen the same day — we actively prefer it.
+
+### Who actually does the work?
+
+The people in the studio photograph. There is no account layer and no handoff to someone junior at signature. When you call, a person who touched your work answers — that is structural, not a promise.
+
+### Why “Drifted”?
+
+Because we drifted from how agencies are supposed to run — the theatre, the bloat, the invented metrics — and kept only the craft. The name is the pitch; the site is the evidence.
+
+### Can a Karachi agency work New York hours?
+
+Yes — it is how we work. Drifted's team is in Karachi and works the New York business day, so you message during your day and hear back during your day. You never wait for Karachi to wake up, and the calls sit in your calendar, not ours.
+
+### Who builds AI apps for small businesses in Pakistan?
+
+We do. Drifted builds custom AI apps scoped to one business's real workload. Ehsaan, a person-to-person thrift marketplace app for Pakistan, reached its first build in 23 prompts; the listing platform we built for Frank Zoller Authentic History writes auction listings from photographs and has saved 400+ hours. How a tool earns is decided before any code is written.
+
+### Do you work with brands in the United States?
+
+Yes. Drifted Marketing LLC is a United States company, and the team keeps New York hours from Karachi, so a US brand gets a same-day partner rather than an overnight one. We work with brands in Pakistan too — The Gallery, a personalised newborn brand, is one of them.
+
+### What happens on the first call?
+
+Thirty minutes, no deck. You bring the number you need to hit and the date; we tell you on the call whether we can, what it would cost and what we would do first. If the answer is no, you hear that too, along with where we would go instead.
+
+## Key pages
+
+- [Home](https://driftedmarketing.com/)
+- [Services](https://driftedmarketing.com/services/)
+- [Pricing](https://driftedmarketing.com/pricing/)
+- [Work — case studies](https://driftedmarketing.com/work/)
+- [Journal](https://driftedmarketing.com/blog/)
+- [FAQ](https://driftedmarketing.com/faq/)
+- [About the studio](https://driftedmarketing.com/about/)
+- [Umer Tariq, founder](https://driftedmarketing.com/about/umer/)
+- [Contact](https://driftedmarketing.com/contact/)
+
+## Optional
+
+- [llms-full.txt — everything on this site, including every journal piece in full](https://driftedmarketing.com/llms-full.txt)
+- [Sitemap](https://driftedmarketing.com/sitemap.xml)
+- [Journal RSS](https://driftedmarketing.com/blog/rss.xml)
+- [Work RSS](https://driftedmarketing.com/work/rss.xml)
+
+## Things we will not say
+
+- No invented client, number, testimonial or case study. A figure that has not been measured is marked pending on the page.
+- No manufactured scarcity. No countdown, no closing seats.
+- No guaranteed results. Nobody who guarantees a result is telling you the truth.
+
+# The journal, in full — written by Umer Tariq
+
+## Custom AI tool, or off the shelf
+
+https://driftedmarketing.com/blog/custom-ai-tool-or-off-the-shelf/ · AI product · by Umer Tariq · published 2026-09-04
+
+Three questions that settle the decision, an honest two-year cost comparison, and the reason buying wins more often than a studio will tell you.
+
+We build custom artificial intelligence tools for a living, so treat what follows accordingly. Most brands asking us this question should buy something instead, and the ones who should build usually already know why.
+
+**The short version.** Buy unless the process is the thing you actually compete on, nothing on the market fits without changing how you work, and somebody in your business will own the tool for years. If any one of those three is missing, buy. The two-year cost of a custom build is roughly twice its build price.
+
+The decision is usually made emotionally and then justified with a spreadsheet. Building feels like ownership and buying feels like renting, so people build. Two years later the person who understood it has left and the tool is a liability nobody will touch.
+
+### Is this the thing you actually compete on?
+
+First question, and it disqualifies most projects on its own. Is the process you want to automate part of why customers choose you, or is it administration that happens to be annoying?
+
+Invoicing is not your edge. Neither is scheduling, email, bookkeeping or customer support ticketing. Those are solved, at scale, by companies whose entire business is solving them, and your version will be worse. Building there buys you a slightly better fit and a permanent maintenance obligation.
+
+The auction work we do clears this bar precisely because the process is the business. The value is not that photographs become listings — it is that they become listings informed by 32,000 of that client’s own past items, including what each one actually sold for. No product on the market has that history, and a competitor could licence identical software tomorrow without getting any closer.
+
+### Does anything on the market fit without bending?
+
+Second question, and it requires actually looking rather than assuming. Spend a fortnight properly trialling the two or three closest products, with your real data, doing your real task. Not the demo. Your data.
+
+The honest bar is eighty per cent. If a product does eighty per cent of the job, buy it and adapt to the missing fifth. The instinct to reject software over a missing feature is almost always wrong, because the missing feature costs less to work around than the whole build costs to maintain.
+
+Reject a product when it forces you to change something you cannot change — a legal requirement, a way your suppliers work, or a step your customers see. That is a genuine reason to build. Disliking the interface is not.
+
+### Who owns it in two years?
+
+Third question, and the one that kills more custom tools than any technical problem. Name the person. Not a company, not “the studio”, a person who will still be reachable when it breaks in eighteen months.
+
+If the answer is that the agency who built it will maintain it, that is a valid answer, and it is a recurring cost you should write into the comparison rather than discovering later. If the answer is that nobody has thought about it, you have your decision. Buy.
+
+**The one-question filter.** “What happens to this tool if the person who commissioned it leaves?” If the answer is that it stops being used, do not build it.
+
+### What is the real two-year cost?
+
+Compare like with like, over twenty-four months, with every line that will actually be invoiced or salaried. The pattern below is what the comparison looks like once the invisible costs are written down.
+
+| Cost line | Buying | Building |
+| --- | --- | --- |
+| Up front | Setup and data migration, usually modest | The build, in full, before any value arrives |
+| Monthly | Per-seat or per-usage fee, rising at renewal | Hosting and model usage, rising with volume |
+| Your people’s time | Configuration and training | Specification, review, testing, then support forever |
+| When it breaks | Their problem, with an agreement behind it | Yours, at whatever a developer costs that week |
+| When the market moves | Included, usually, whether you wanted it or not | A project, every time |
+| When you outgrow it | You migrate, painfully | You extend it, if anyone still understands it |
+
+A rough planning figure that has held up for us: over two years, a custom tool costs about twice its build price once maintenance, hosting, model usage and internal time are counted. If a build only wins on a two-year comparison at its build price alone, it loses.
+
+The other side of that comparison deserves the same scepticism. Buying is only cheap if you actually use what you buy. Vertice’s research on software wastage finds roughly 15% of purchased applications showing zero activity at all, with a majority used at under half their purchased capacity, and Productiv’s analysis of nearly 100 million licences over three years found around 40% of licences unused. Subscriptions are not free just because they are small — they are the easiest cost in a business to stop noticing.
+
+### What does the lock-in trade look like?
+
+Both options lock you in. People only count one of them.
+
+Buying locks you into a company: their pricing at renewal, their choices about what to build, their decision to be acquired or to shut down. The defence is boring and effective — check you can export your own data, in a usable format, before you sign anything.
+
+Building locks you into knowledge. The tool depends on people understanding it, and that understanding leaves the building when they do. It also locks you into whichever model provider you built against, whose pricing and deprecation schedule are no more within your control than a vendor’s renewal notice. Writing things down is the entire defence, and it is why we build against a knowledge base rather than a pile of prompts.
+
+### Where do hybrids actually work?
+
+The best outcome in this decision is usually not either column. It is buying the boring nine-tenths and building the narrow piece that is genuinely yours.
+
+- Keep the bought platform as the system of record — the store, the inbox, the accounting, the place your data lives.
+- Build one small thing that reads from it, does the judgement your business is actually good at, and writes the result back.
+- Keep that thing narrow enough that one person can hold it in their head and a replacement could read it in a day.
+- Never let the custom piece become the thing everything else depends on. It should be removable.
+
+That pattern is what our auction client actually has. The listing platform, the bidding sites and the cross-posting are all bought and already worked. The custom build sits in the middle doing the one job nobody sells — turning photographs into 1,250 filled listing rows an auction, and it hands the finished template straight back to the platform that was always there.
+
+### What is the rule of thumb?
+
+Buy by default. Build only when all three questions clear: the process is why customers choose you, nothing available fits without changing something you cannot change, and a named person will own it for years. Two out of three is a no.
+
+And if you do build, build the smallest useful version, in the narrowest possible scope, and measure what it removes before adding anything. The 400+ hours we took off a client’s desk came from a tool that does one job. Not from a platform.
+
+A studio that only ever recommends building is not giving you advice, it is quoting. Most of the time the honest answer here is buy the software, and we would rather you heard it from us before the invoice than from yourself after it.
+
+## What a custom AI app for a brand really costs
+
+https://driftedmarketing.com/blog/what-a-custom-ai-app-costs/ · AI product · by Umer Tariq · published 2026-09-04
+
+Why the same brief gets quoted at five thousand and at five hundred thousand, what actually moves the number, and the running costs nobody puts in the proposal.
+
+Ask four studios to build the same artificial intelligence tool and the quotes will not be within an order of magnitude of each other. That is not four different prices for one thing. It is four different things, and the brief was vague enough to permit all of them.
+
+**The short version.** Cost is driven by how wrong the tool is allowed to be, how much of your existing mess it has to touch, and who maintains it afterwards. A narrow tool doing one job for one team is a few weeks of work. Anything with accounts, permissions and other people’s data is a different category of project entirely.
+
+For scale, GoodFirms’ custom software development cost survey puts most small and medium custom software projects between $30,000 and $100,000 — and adding a model to a product does not so much add a line to that budget as change which parts of it are hard.
+
+### Why do quotes vary by ten times?
+
+Because “an artificial intelligence app” describes at least three unrelated products, and a brief that does not distinguish them gets priced by whichever one the studio assumed.
+
+The first is a wrapper: a form, a well-designed prompt, an output. Real value, genuinely quick, and completely dependent on the model behind it. The second is a tool with judgement — it knows your specific business, refers to your own data, and has to be right often enough to be trusted unattended. The third is a product with users: accounts, permissions, payments, other people’s data, and a duty of care that arrives the moment a stranger logs in.
+
+| Shape | What it is | What drives its cost |
+| --- | --- | --- |
+| Wrapper | One input, one output, no memory | Almost nothing. Design and copy dominate |
+| Internal tool | Does a real job for one team, on your data | Getting the data in, and the review step for when it is wrong |
+| Product with users | Strangers sign in and trust it with something | Accounts, permissions, payments, support, and every rule that applies to holding data |
+
+A studio quoting the first shape and a studio quoting the third are both being honest. Deciding which one you are buying is the single highest-value hour you will spend on the project, and it happens before anyone writes code.
+
+### What actually drives the cost?
+
+Four things, in roughly this order of impact. None of them is the model, which is the part everyone asks about.
+
+First, how expensive a mistake is. A tool that drafts social captions can be wrong all day; a person reads it before anything ships. A tool that sets a price, or writes something a customer pays against, needs a review step, a confidence score, and a way for a human to intervene. That review layer is often more work than the part that produces the answer.
+
+Our own auction work is the clearest example we have. The reference corpus behind it is 32,000 past items, and the reason it can replace typing roughly 1,250 lots by hand for each auction is not the description-writing — it is that the output is confidence-scored, so only uncertain items are flagged for a person and everything else passes straight through. That triage is what turned it into 400+ hours saved rather than a demo.
+
+Second, where your data lives. If it is in one clean export, you are days from a working prototype. If it is spread across a supplier portal, an inbox and somebody’s spreadsheet, the integration is the project and the model is a small part at the end. This is where most budgets actually go, and almost no proposal says so plainly.
+
+Third, whether other people log in. The moment a stranger has an account, you have acquired password resets, permissions, abuse handling, support and obligations about their data. It is a real threshold, not a feature. Ehsaan, the person-to-person marketplace we build for Suleman Farooqui, sits on the far side of it — a whole product on React, Vite, TypeScript and Supabase, where trust between two strangers is the actual thing being designed.
+
+Fourth, who owns it in six months. A build handed over with no documentation is cheaper on the invoice and considerably more expensive the first time it breaks. On Ehsaan the first build took 23 prompts, and then the work moved to a 19-section knowledge base so the product keeps its own rules as it grows. That knowledge base is a cost item that looks optional and is not.
+
+### What scope fits a small budget?
+
+If the budget is genuinely small, the right answer is not a smaller version of the big product. It is one job, for one team, with no accounts.
+
+- Pick the task somebody currently does by hand, every week, that they hate. Not the most valuable one — the most repetitive one.
+- Give it one input and one output. No dashboard, no settings, no user management.
+- Let it run somewhere internal, where being wrong is embarrassing rather than expensive.
+- Measure the hours it removes for a month before adding a single feature.
+- If it does not remove hours, stop. You have learned something cheaply, which was the point.
+
+The reason to be this strict is that most of the value in these tools is concentrated in one narrow task, and most of the cost is in everything built around that task to make it feel like a product. Our own Inventory Watch build for the same auction client is deliberately narrow in exactly this way: it monitors 21 dealer sites for new listings, in 16 Python modules, and does nothing else at all.
+
+### What does it cost to run, every month?
+
+This is where budgets are quietly broken, because the proposal covers the build and the running costs arrive afterwards.
+
+| Recurring cost | Why people forget it | How to size it early |
+| --- | --- | --- |
+| Model usage | The demo cost pennies at ten uses a day | Estimate real daily volume, then multiply by three for retries and mistakes |
+| Hosting and storage | It is small until the data set is not | Ask what happens at ten times today’s volume |
+| Model changes underneath you | Providers deprecate and reprice on their own schedule | Budget a maintenance day per quarter, permanently |
+| The human in the loop | Review time is real work and rarely counted | Count it as a salaried cost from day one |
+| Fixes and small changes | Everyone assumes the build is finished | Agree a monthly amount, or agree there is none and mean it |
+
+The one people underestimate most is the third. The model you build on this quarter will change, and something that worked will quietly stop working in a way no error message reports. A tool with nobody responsible for it degrades silently, which is worse than breaking.
+
+### When does off-the-shelf software win?
+
+Most of the time, and we would rather say that than sell you a build you will regret. If software already exists that does eighty per cent of the job, buying it is almost always correct, and the twenty per cent you compromise on is cheaper than the maintenance you avoid.
+
+Build when the process is genuinely yours — when the reason it works is knowledge nobody else has, or when the existing product forces you to change how you operate in a way that costs more than the licence saves. The auction build cleared that bar because the reference set was the client’s own history, and no product on the market has that history.
+
+It is worth knowing how often this goes wrong at much larger companies. MIT’s Project NANDA reported in its 2025 “GenAI Divide” study that around 95% of enterprise generative artificial intelligence pilots produced no measurable return, with the failures attributed to workflow integration and undefined outcomes rather than to the models themselves. Those organisations were not short of budget. They were short of a decision about what the thing was for.
+
+So the question to answer before asking anyone for a price is not what it costs. It is what it replaces, measured in hours or in money, and who will still be responsible for it a year from now. Bring those two answers and the quotes stop varying by ten times, because everyone is finally pricing the same thing.
+
+> Software without a price is a hobby with a repo. Decide how it pays before deciding what it costs.
+
+## Your cost per thousand went up. Check these, in order.
+
+https://driftedmarketing.com/blog/your-cost-per-thousand-went-up/ · Performance media · by Umer Tariq · published 2026-09-04
+
+A diagnostic order for a rising cost per thousand impressions, ending with the case where the right move is to do nothing.
+
+The cost to show your advert to a thousand people went up, and the account feels broken. Before you change anything, work out which of four things happened, because the fixes are different and three of them are commonly applied to the wrong problem.
+
+**The short version.** Check in this order: is the whole market up, have you run out of new people, is the creative tired, did something change in the account. Only the last two are yours to fix. And a rising cost per thousand impressions with rising sales is not a problem — it is you buying better people.
+
+Cost per thousand impressions is a price, not a performance metric. It tells you what the auction charged to put your advert in front of a thousand pairs of eyes. It says nothing about whether those were the right eyes, and treating it as a scorecard is how accounts get optimised into cheap, worthless reach.
+
+### Is it the market, or is it you?
+
+Start here, because it is the cheapest question to answer and it stops you from fixing something that is not broken. Every advertiser in your auction is bidding for the same attention, and when more of them arrive with more money, the price goes up for everyone including you.
+
+Seasonality is the biggest version of this. Gupta Media’s tracker of social media advertising costs reports seasonal rises of as much as 66% during the holiday shopping period, with competition around Black Friday and Cyber Monday doing most of the work. If your price rose in the second week of November, the market raised it, not your creative.
+
+How to tell the difference in your own account, without buying a benchmarking tool: look at a campaign you have not touched in weeks, ideally a slow retargeting one. If its cost per thousand impressions rose by roughly the same proportion as everything else, the movement is external. If it held steady while a specific campaign spiked, the problem is that campaign.
+
+**Do this first.** Pull twelve months of cost per thousand impressions by week and look at last year’s same week. Most accounts have their answer sitting in that chart and nobody has ever plotted it.
+
+### Have you run out of new people?
+
+The second cause is audience exhaustion, and it looks like a pricing problem because it is one. When a defined audience has mostly seen your advert already, the platform has to work harder to find someone who has not, and hard work costs money.
+
+Two numbers tell you. Frequency is the average number of times each person has seen you. First-time impression ratio is the share of today’s impressions that reached somebody new. Triple Whale’s creative fatigue framework puts the warning line at frequency drifting past about 3.0 on a seven-day window with first-time impression ratio falling under roughly 50%, and notes that prospecting fatigues far earlier than retargeting does.
+
+The fix is size, not cleverness. Broaden the targeting, remove interest layers that were never doing much, or add a country. A narrow audience is a comfort blanket — it makes early results look precise and then it runs out of people, at which point the price rises with nothing to show for it.
+
+### Is the creative tired, or was it never that good?
+
+Creative fatigue and audience exhaustion feel identical from the dashboard and need opposite responses, so separate them properly. Fatigue means the same people are ignoring something they used to react to. Exhaustion means there are no new people left to react at all.
+
+Test it directly. Put a genuinely new piece of creative into the same audience with the same budget. If its price to reach a thousand people comes back down, the creative was tired. If the new piece prices the same as the old one, the audience is finished and no amount of production fixes it.
+
+The uncomfortable version of this diagnosis: sometimes the advert was never strong and it was cheap for a while because the audience was fresh. New creative that immediately performs the same as the old creative is not always fatigue. Occasionally it is a message problem that reach was hiding.
+
+### What in the account could be doing this?
+
+The fourth category is self-inflicted, and it is the most common one in accounts run by people who care. Every item below raises the price of reaching a thousand people, and every one of them is something an advertiser did on purpose.
+
+| What changed | Why the price rises | What to do |
+| --- | --- | --- |
+| Budget raised sharply | Delivery restarts learning and buys less efficiently while it settles | Raise by around a fifth at a time and wait a few days |
+| Audiences overlapping | Your own campaigns bid against each other for the same person | Consolidate into fewer, larger ad sets |
+| Placements narrowed by hand | You removed the cheap inventory the platform used to balance the price | Return to automatic placements unless you can prove the exclusion pays |
+| Optimising for a rarer event | Purchases cost more to find than clicks, so the price of reach goes up with them | Judge against sales, not against reach |
+| Ad quality flagged | Penalised delivery is charged more for the same audience | Read the account quality page before rebuilding anything |
+| Video swapped for still images | Different inventory carries a different price entirely | Compare like with like, or the comparison means nothing |
+
+Work down that list before rebuilding a campaign. Most accounts we open have at least two of these active simultaneously, and the owner has spent the month blaming the creative.
+
+### When should you leave a rising cost alone?
+
+Here is the case nobody writes about, because it does not sell an audit. Sometimes the price to reach a thousand people rises, and the correct action is nothing.
+
+If your cost to reach a thousand people is up and your cost to acquire a customer is flat or down, you are buying more expensive attention that converts better. That is a good trade and every instinct to optimise it away is wrong. It happens routinely when you move from cheap, distracted inventory towards places where people are actually paying attention, and it happens whenever you start optimising for purchases instead of clicks.
+
+- Reach price up, cost per customer down: leave it. You are buying better people.
+- Reach price up, cost per customer up, sales flat: this is a real problem — go back to the top of this list.
+- Reach price down, cost per customer up: the worst pattern of the four, and the one people celebrate. You have found cheap reach that does not buy.
+- Both down: something changed for the better. Find out what, and write it down before you lose it.
+
+The test is always the same. A price is only bad relative to what it buys. An account managed to the cheapest possible reach will reliably find the cheapest possible audience, which is usually the one least interested in paying you.
+
+### What this order costs you when it is wrong
+
+We will concede the weakness of this method: it is sequential, and real accounts break in several places at once. A seasonal rise, tired creative and a budget increase in the same fortnight will each partly explain the others, and working down a list will make you confident about the first cause you find. The discipline that saves you is changing one thing at a time and giving it a few days, which is slower than everybody wants to be.
+
+The one thing not to do is rebuild the account. It resets everything the platform has learned, it destroys the comparison you needed to diagnose the problem, and it feels like progress for about a week. Diagnose, change one thing, wait, measure. Boring, and it works.
+
+## Why Meta and Shopify never agree
+
+https://driftedmarketing.com/blog/why-meta-and-shopify-disagree/ · Performance media · by Umer Tariq · published 2026-09-04
+
+How to read two contradictory sales numbers without believing either one, and the monthly reconciliation that tells you which to trust.
+
+Every month, somebody opens two tabs and finds two different businesses. The ad platform says it drove ninety sales. The store says it took fifty orders in total. Nobody is lying, and the difference is not a bug you can file.
+
+**The short version.** Two systems count different things. The ad platform counts people it showed an ad to who later bought. Your store counts the last link clicked before checkout. Neither is the truth. Bank deposits are the truth, so measure at that level and use the platform for direction, not for arithmetic.
+
+This matters more than it sounds. Almost every bad budget decision we see starts with somebody treating one of these numbers as fact and cutting or scaling against it. Understanding the mechanism takes about ten minutes and it permanently changes how you argue about spend.
+
+### Why do the two numbers differ at all?
+
+Because they are answering different questions. The ad platform is answering “of the people I showed this ad to, how many bought something afterwards?” Your store is answering “what was the last thing this person clicked before they paid?” Those questions have different answers for the same customer, and the same customer can be counted by both, by one, or by neither.
+
+Consider one buyer. She sees a reel on Tuesday, does not tap, searches your brand name on Friday, clicks the top result and buys. The ad platform sees an impression followed by a purchase and claims it. Your store sees a search engine and credits that. One sale, two claims, and both systems are working exactly as designed.
+
+|  | The ad platform | Your store |
+| --- | --- | --- |
+| Question it answers | Did someone I advertised to buy? | What did they click last? |
+| Evidence it uses | Its own record of who saw the ad, plus a signal from your site | The referring link on the visit that converted |
+| Counts views with no click | Yes, inside its view window | Never |
+| Credit for one sale | Can be claimed by several campaigns at once | Goes to exactly one source |
+| Blind to | Anyone it could not match back | Everything that happened before the final click |
+
+### What is an attribution window, in plain English?
+
+A window is how long a platform is willing to take credit for something after the person saw or clicked an ad. Jon Loomer’s 2026 guide to Meta ads attribution notes that Meta’s default is a seven-day click and a one-day view — so a click today and a purchase six days from now is still a Meta sale in Meta’s report.
+
+Your store keeps a longer memory but a stricter rule. Shopify’s own marketing reports documentation describes crediting an order to the most recent non-direct click within the past thirty days, with no setting to change that period. So the store looks back further and still hands the whole sale to one link.
+
+Read those two rules together and the overlap gets ugly. A person who clicks an ad, leaves, and returns eleven days later through an email is a Meta sale for six of those days and an email sale in your store forever. Same money. Two owners.
+
+### Does a view really count as a sale?
+
+It counts as a claim, which is not the same thing. A view-through conversion means someone was shown your ad, did not touch it, and bought within a day. Sometimes the ad genuinely did the work — a reminder is a real thing. Sometimes the person was going to buy anyway and the platform happened to be in the room.
+
+The practical rule: view-through credit is most believable when you are advertising to strangers who had never heard of you, and least believable on retargeting, where you are showing ads to people already halfway to the checkout. If your reported sales collapse when you switch the report to clicks only, most of your credit was proximity rather than persuasion.
+
+**Watch out.** A retargeting campaign taking view-through credit for people who already had the item in their basket is the single most flattering line in most ad accounts. Turn views off, look at the number that survives, then decide.
+
+### What does blended measurement actually fix?
+
+Blended measurement stops the argument by refusing to have it. You take total revenue for the period, divide by total advertising spend for the period, and ignore who claimed what. No windows, no matching, no per-campaign credit. One number, checkable against your bank.
+
+It fixes the thing that matters — whether the business made money — and it is deliberately useless at the thing everyone wants, which is knowing which advert did it. That trade is correct at the level where budget decisions actually happen. You do not need to know which of five creatives earned a specific order. You need to know whether last month’s spend produced more money than the month before at a similar cost.
+
+Then you use the platform for what it is genuinely good at: comparing its own things against each other. Within one account, over one week, one creative beating another is real information, because both were measured by the same instrument. Comparing across instruments is where people go wrong.
+
+### How do I run a monthly reconciliation?
+
+This takes about twenty minutes and it is the single most useful recurring habit we install with a new client. Do it on the same day every month, in a sheet you keep, so the trend is visible.
+
+1. Write down total revenue for the calendar month from your store’s own orders report. Not the ad platform. The store.
+2. Write down total advertising spend across every platform, including anything paid to creators, and any fee you pay us or anyone else to run it.
+3. Divide revenue by spend. That ratio is your blended return. Compare it only to your own previous months.
+4. Now write down what each ad platform claimed for the month, added together.
+5. Divide the total claimed by the actual revenue. Call that the overclaim ratio. It will be above one.
+6. Track the overclaim ratio month to month. Its level does not matter. Its stability does.
+
+A stable overclaim ratio means your measurement is behaving consistently, so month-on-month comparisons inside the platform are trustworthy even though the absolute numbers are not. A ratio that lurches means something structural changed — a tracking break, a new channel, a checkout change, a consent banner — and you should find out what before you act on any campaign report.
+
+One more habit worth the trouble: ask new customers, at checkout, where they heard about you. The answers are messy and people misremember. They are still the only evidence in your business that comes from a human rather than from a company with an interest in the answer.
+
+### When is the gap fraud rather than attribution?
+
+Attribution explains a gap. It does not explain every gap, and there is a point where the honest answer is that somebody is stealing from you. The pattern to watch for is not size, it is shape.
+
+- Claimed sales rise smoothly while store revenue is flat or falling, month after month, with no seasonal explanation.
+- A single placement or publisher accounts for most of the claimed sales and almost none of the sessions your store recorded.
+- Clicks arrive in even quantities across every hour including the middle of the night, which real shopping never does.
+- Sessions from the traffic last a second or two, at scale, with a bounce rate close to total.
+- The claimed sales are overwhelmingly view-through, from a partner network rather than the main feed.
+
+One of those is noise. Three together, holding for a month, is a spend problem rather than a measurement problem. Exclude the placement, watch whether real revenue changes, and take the answer seriously either way. If revenue does not move when you cut it, you were paying for a report.
+
+### What we cannot fix, and will not pretend to
+
+Our own reporting carries this gap too. When we tell a client what came back per pound, that figure is measured where the sale actually closes and reported against the target we agreed — and it is still an estimate built on instruments that disagree with each other. Anybody selling you exact, sale-by-sale attribution across platforms is selling you a feeling.
+
+What is available is discipline: one number you can check against your bank, a platform used only to compare its own things, a reconciliation you actually run, and a rule agreed in advance about what makes you cut. That is less satisfying than a dashboard. It is considerably harder to be wrong with.
+
+> Neither tab is the truth. The bank is the truth. Everything else is a hypothesis with a logo on it.
+
+## Hiring an offshore agency, objections answered
+
+https://driftedmarketing.com/blog/hiring-an-offshore-agency/ · How we work · by Umer Tariq · published 2026-09-04
+
+The four real risks of hiring an agency in another country, how to test for each one before you sign, and when the answer is simply not to.
+
+We are in Karachi. A large share of the people who read this page are in the United States. That gap is the first thing on the mind of anyone considering us, and pretending otherwise would be a strange way to start a relationship built on saying the number.
+
+**The short version.** Four risks are real: overlap hours, turnover, cultural fluency in the copy, and accountability across borders. Each one is testable before you sign. Test them on us as hard as on anyone. If your work needs same-hour presence all day, hire locally.
+
+Some context worth having, because the market has changed and most advice about it has not. Deloitte’s 2024 Global Outsourcing Survey found cost had fallen sharply as the reason organisations work with external providers — cited as the primary driver by 70% of respondents in 2020, against 34% now. And the State Bank of Pakistan’s balance of payments data recorded telecommunications, computer and information services exports of $4.6 billion in the 2025-26 fiscal year, up 21% from $3.814 billion the year before. Neither figure tells you anything about a specific agency. Both tell you that the category is no longer a discount aisle.
+
+### How many hours actually overlap?
+
+This is the objection that is entirely legitimate and most often waved away. Karachi runs at coordinated universal time plus five. The United States eastern time zone runs at minus four or minus five depending on the season, and the Pacific coast is three hours behind that. Do the arithmetic and a standard working day in Karachi finishes roughly when a working day on the east coast is starting.
+
+That gap is not fatal. It is only fatal when it is unmanaged. Somebody has to deliberately shift their hours, and the honest question is not whether an agency can overlap but whose evenings pay for it and whether that is sustainable past month two.
+
+How to test it. Ask for the guaranteed overlap window in writing, as specific hours in your time zone, on your contract, with the days it applies. Then ask what happens outside it: who can approve an emergency pause on a campaign at four in the afternoon your time, and how long a message sent then waits. Then run the test rather than trusting the answer — send a non-urgent question at the edge of the stated window during the pitch process and see what comes back and when. An agency that misses its own stated window while it is still trying to win you will not improve after signing.
+
+### What happens when the person on your account leaves?
+
+Turnover is a genuine structural risk in fast-growing export sectors, and it is worse in outsourcing arrangements than people admit, because the person who understands your business can be reassigned internally without you being consulted.
+
+The mistake is testing for this by asking about retention rates, which nobody answers unfavourably. Test for it by asking what exists outside people’s heads. Where is the account documented? Who else has read it? What would a replacement receive on their first morning, and can you see a redacted example of that document from another account?
+
+Ask one more: has anyone on our proposed team changed since the first call? Silent substitution between pitch and delivery is the version of turnover that costs you most, because it happens before you have any relationship to lose.
+
+### Will the copy sound like it came from your market?
+
+This is the objection we take most seriously, because it is the one that cannot be fixed with a process. Fluent English is common. Fluency in a specific American market is not the same skill, and the failures are small rather than obvious: a price framed in a way that reads as cheap rather than fair, a holiday calendar half a beat off, humour that is technically correct and lands nowhere, a phrase that carries a class signal the writer could not have known about.
+
+How to test it properly. Do not ask for a portfolio; ask for a paid test. Give a real brief for a real product with a real audience, pay for it, and read the output as a customer rather than as a buyer of marketing. Then ask the question that actually separates the two kinds of agency: who reviews the copy, and are they from the market it is aimed at? An honest answer is either a named reviewer inside that market or an admission that there is not one.
+
+Our position, stated plainly and against our own interest: on work where the writing has to carry deep local cultural specificity — regional American humour, political or religious nuance, the internal language of a profession we have not worked inside — a local writer is a better instrument than we are, and the right structure is for us to run the media, the production and the measurement while a writer from that market handles the words. We would rather propose that than take the whole scope and hope.
+
+### Who is accountable when something goes wrong?
+
+Cross-border accountability is weaker than domestic accountability, and no clause fully fixes it. Realistically, a small dispute across two legal systems is not going to court, because the cost of pursuing it exceeds the amount in question. What replaces the legal remedy is structural exposure — how much you can lose before you can stop.
+
+So reduce the exposure rather than relying on the recourse. Hold every asset in your own accounts. Keep the advertising spend on your own card, paid to the platform directly, never routed through the agency. Insist on a short notice period. Pay monthly rather than in advance. Do all four and the worst outcome of a bad hire is one wasted month, which is a survivable number in any jurisdiction.
+
+| The risk | How it actually shows up | Test for it before signing | Contract term that limits it |
+| --- | --- | --- | --- |
+| Overlap hours | Decisions wait a day, then two | Message at the edge of the stated window and time the reply | Named overlap window, in your time zone |
+| Turnover | A new name appears with no handover | Ask to see a redacted account document | Named team, notice on any change |
+| Copy fluency | Adverts are correct and land flat | A paid test brief, judged as a customer | Named reviewer from your market |
+| Accountability | A dispute you cannot economically pursue | Ask who holds the spend and the assets | Monthly billing, thirty days’ notice, assets yours |
+| Cost framing | A price that is only about being cheaper | Ask what the fee buys that a local shop’s would not | Flat fee, not a share of your advertising spend |
+
+### When is offshore the wrong call?
+
+There are cases where the answer is straightforwardly no, and an agency that will not name them is selling rather than advising.
+
+- Your work needs someone physically present — retail activations, shoots on your premises, in-person sales support, anything where being in the room is the deliverable.
+- Your decisions are hourly rather than daily. Live commerce, ticketing and breaking-news reaction all need someone awake at the moment, and an overlap window does not cover it.
+- Regulated categories where the compliance knowledge is local and the penalty for getting it wrong is legal rather than commercial.
+- The copy is the entire product and it depends on cultural nuance we have already said we would not be the best instrument for.
+- Your only reason for looking offshore is price. Cost as the sole driver produces the cheapest bid, and the cheapest bid is not the constraint your growth is actually under.
+
+If none of those describe you, the geography is a logistics question rather than a quality question, and it should be tested the same way you would test any other agency claim. Ask for the overlap in writing. Pay for a test. Hold your own assets. Keep the notice period short.
+
+> We’re not the cheap option and we don’t pretend to be.
+
+Being in Karachi is not the argument for hiring us, and it is not the argument against. The argument is the same one we would make from anywhere: tell us the number, and we will tell you if we can.
+
+## Marketing contract red flags
+
+https://driftedmarketing.com/blog/marketing-contract-red-flags/ · How we work · by Umer Tariq · published 2026-09-04
+
+Six clauses that decide what happens when the relationship ends, read one at a time, with the ones we refuse to use named.
+
+Nobody reads a marketing services agreement carefully at the point of signing, because at the point of signing everybody likes each other. The clauses in it are not written for that moment. They are written for the moment eleven months later when somebody wants out, and they are almost always drafted by the side that will not be leaving.
+
+**The short version.** Six clauses decide everything: notice period, ad account and page ownership, intellectual property assignment, auto-renewal, exclusivity, minimum term. Read those six and you have read the contract. The rest is administration.
+
+What follows is each of the six, what a fair version looks like, and where we sit on it. Read this alongside your own agreement rather than instead of it, and take proper legal advice before signing anything — we run an agency, not a law firm.
+
+### How long is the notice period, really?
+
+Notice periods hide in two places. There is the stated length, and there is the form the notice has to take. A ninety-day notice period that also requires written notice served before the anniversary date is, in practice, a single week each year in which you are permitted to leave.
+
+Check three things: the length, the accepted method, and whether notice can be served at any point or only in a defined window. If email is not explicitly accepted, assume it is not accepted. Then check whether the agency’s own notice period matches yours. Asymmetric notice, where they can leave in thirty days and you need ninety, tells you exactly how the relationship is valued.
+
+Where we sit: our retainers are cancellable at thirty days’ notice, in writing, at any time. That is on our contact page already, so this is a promise you can hold us to rather than a position we are taking in an article.
+
+### Whose advertising account is it?
+
+This is the clause with the largest gap between what people assume and what is true. Meta’s own business documentation provides no self-serve route to transfer an advertising account from one business portfolio to another. The supported arrangement is partner access, where the account lives permanently in your portfolio and the agency is granted defined permissions on it.
+
+So when an agency sets up your advertising inside its own portfolio, the practical position is that your advertising history — the pixel data, the conversion history, the account’s learning, the ad archive — sits inside an asset you cannot unilaterally take with you. The same applies to the page. The same applies to the analytics property and to the domain, and the domain is the one people lose most often.
+
+A fair contract names the assets, states that you own them, and says access is returned or revoked on termination. If the agreement is silent on this, it is not neutral. Silence favours whoever holds the login.
+
+### Who owns the creative afterwards?
+
+The common assumption is that paying for creative means owning it. In the United States it does not, automatically. The Copyright Office’s Circular 30 sets out that a commissioned work by an independent contractor is only a work made for hire when there is a signed written agreement saying so and the work falls within one of nine listed categories. Plenty of advertising creative sits outside those categories, which means that without an explicit assignment clause the copyright can remain with the creator.
+
+So look for the word assignment, not just the phrase work made for hire, and look for what is carved out of it. Two carve-outs are common and only one is reasonable. An agency retaining a licence to show the work in its own portfolio is normal and fine. An agency retaining ownership of the underlying concept, the templates, or the editing project files while granting you a licence to use the finished exports is a different arrangement entirely, and it means the files you paid to produce cannot be handed to your next agency.
+
+The concession we owe here: an assignment clause that transfers everything on day one is not always in your interest either, because it can price the work higher than it needs to be. If you genuinely only need the finished assets and the right to use them everywhere, a broad perpetual licence may cost you less than full ownership. What matters is that you chose, rather than discovered it at the end.
+
+### What triggers the auto-renewal?
+
+Auto-renewal is not inherently unfair. Auto-renewal into a fresh minimum term is. The version to refuse is the one where a twelve-month agreement, if not cancelled inside a narrow window, renews for another twelve months rather than continuing month to month.
+
+Ask whether the contract renews into the same term or into a rolling one, whether the fee can rise on renewal without agreement, and whether the agency is obliged to notify you before the window opens. A clause requiring the agency to remind you in writing thirty days before the deadline costs an honest agency nothing and removes the trap entirely.
+
+### What is the exclusivity clause actually stopping?
+
+Exclusivity runs in both directions and each direction has a fair form. On your side, a clause preventing you from engaging another agency for the same channel while the retainer runs is defensible; a clause preventing you from hiring anyone in-house is not, because it makes your own capability a breach.
+
+On the agency’s side, a category exclusivity clause — they will not take your direct competitor — is worth asking for and is often granted for a defined market and a defined period. The related one to check is non-solicitation, which frequently reads as a ban on hiring anyone who has worked on your account, including people who left the agency months ago.
+
+### What does a minimum term buy you?
+
+Agencies argue for minimum terms on the grounds that the first months are heavily loaded with setup and the payback comes later. That argument is honest, and there is a fair way to honour it: charge a setup fee for the setup. What a minimum term does instead is convert the agency’s investment risk into your lock-in, which is a different thing wearing the same clothes.
+
+If a minimum term is unavoidable, negotiate for a break clause tied to something reviewable, and make sure the review point sits inside the term rather than at the end of it.
+
+| Clause | The version to refuse | The version to ask for | Drifted |
+| --- | --- | --- | --- |
+| Notice | Ninety days, window only, asymmetric | Thirty days, in writing, either side, any time | Thirty days |
+| Advertising account | Held in the agency’s business portfolio | Held in yours, agency on partner access | Yours, always |
+| Creative ownership | Agency keeps sources, you licence exports | Written assignment, agency keeps portfolio rights | Assigned to you |
+| Auto-renewal | Renews into a fresh minimum term | Rolls monthly, with written reminder before the date | No auto-renewal |
+| Exclusivity | Bans you from hiring in-house | Category exclusivity on the agency’s side | No client exclusivity |
+| Minimum term | Twelve months, no break | None, or a setup fee instead | None |
+
+### What should you do before the pen comes out?
+
+1. Log in and confirm you are an administrator on every account named in the agreement, in your own business portfolio, before the first invoice is paid.
+2. Search the document for the words assignment, renew, notice, exclusive and term, and read every paragraph those five words appear in.
+3. Ask for one sentence in writing: on termination, here is exactly what you receive and when.
+4. Check that the agency’s obligations are as specific as yours. If your payment terms are precise and their deliverables are described as ongoing support, the document is one-sided.
+5. Have a lawyer read it. It is the cheapest line item in the entire engagement.
+
+A contract that is easy to leave is a contract an agency has to keep earning. That is not generosity on our part. It is the arrangement that makes both sides pay attention every month.
+
+> Retainers should be losable.
+
+## Signs your agency is coasting
+
+https://driftedmarketing.com/blog/signs-your-agency-is-coasting/ · How we work · by Umer Tariq · published 2026-09-04
+
+Five tests that tell you whether the agency on your retainer is still working on your account or merely still invoicing for it.
+
+Coasting rarely looks like failure. The reports keep arriving, the calls stay pleasant, the deck is well designed, and nobody can point at the week it stopped being real work. That is exactly what makes it expensive: it is the one failure mode with no visible failure.
+
+**The short version.** Count new creative concepts shipped in the last sixty days. Ask what was killed and why. Ask what the agency would do with half the budget. If reporting grows while creative output shrinks, you are paying for maintenance and being invoiced for growth.
+
+The structural reason to check is that these relationships run long. The 2025 ANA and 4As tenure study put average client-agency tenure at roughly seven years, more than double the 3.2 years it measured in 2016. Long tenure is not a problem in itself. Long tenure with nobody testing it is.
+
+### What does reporting theatre look like?
+
+Reporting theatre is a document that grows in length as the work shrinks in ambition. The signature is a report where the numbers that went up are on page two and the number you actually hired for is somewhere after page nine, in a smaller font, next to a paragraph about market conditions.
+
+The tell is not the presence of soft metrics. It is the substitution of them. Impressions, reach and engagement rate all rise with spend, which means they can be produced on demand and cannot fall while the budget holds. When a report leads with metrics that cannot go down, it has been designed to be survivable rather than to be read.
+
+A second tell: the report never contains a decision. A working report says what was turned off, what was scaled, and what will be tried next, each with a name and a date. A theatrical one describes what happened as though nobody made it happen.
+
+### How do you run the creative-cadence test?
+
+This is the fastest diagnostic there is and it takes about ten minutes. Open the ad library for your own account. Count the distinct creative concepts that first ran in the last sixty days. Not variations of an existing concept with a new headline or a different crop. Distinct ideas, with a different argument or a different format.
+
+On any paid social account of consequence, that number should not be zero, and it should not be one. Creative is the variable that still moves performance most; targeting has been progressively automated away by the platforms, which means the lever left on the table is what the advert actually says and shows. An agency producing no new concepts has stopped pulling the only lever it has.
+
+Then ask the follow-up that separates a slow month from a coasting quarter: what did you kill, and what did you learn from it? An agency doing real work has a graveyard and can describe it. An agency coasting has only survivors, because nothing was ever risked.
+
+### Which question reveals that a junior is running the account?
+
+There is nothing wrong with a junior doing the work. There is something wrong with a senior being sold and a junior being staffed. The question that separates the two is not about seniority at all, and that is why it works.
+
+Ask this: if we cut the budget in half tomorrow, what would you turn off first, and what would you protect? A junior answers with the platform’s own language, describing which campaigns have the worst efficiency and would therefore be paused. A senior answers with your business, describing which part of the demand is being created and which part is merely being harvested, and protects the first because the second will decline three months later without it.
+
+The second version of the same question: what is our advertising doing that we could stop doing entirely with no effect for ninety days? Anyone genuinely inside the account knows at least one answer. Nobody managing it from a dashboard does.
+
+### What should be true by month three?
+
+Month one is setup and observation. Month two is where hypotheses get tested. By the end of month three there should be findings you did not have before, and they should be written down in a form you could hand to a different agency tomorrow.
+
+| By the end of | What should exist | What coasting looks like instead |
+| --- | --- | --- |
+| Month one | Measurement agreed, the target number written down, access in your own accounts | A kickoff deck and a shared folder |
+| Month two | At least two creative concepts tested against each other, with a result | The same advert running with a new headline |
+| Month three | A written view of which audience and which message works, and why | A report describing what the platform did |
+| Month six | A repeatable production rhythm, and a list of things that failed | A quarterly business review with no decisions in it |
+| Any month | One page you could hand to a replacement agency | Knowledge that only exists inside the agency |
+
+That final row is the honest test of the whole relationship. If your agency disappeared this evening, how much of what has been learned about your customers would leave with it? A good agency deliberately writes itself out of that dependency, because it intends to be kept for the work rather than for the hostage.
+
+### What are we willing to admit about our own side?
+
+Two things, both uncomfortable. The first is that the creative-cadence test is not free to pass. Shipping new concepts every month costs the agency real production hours, and there are months where the honest answer is that the existing winner is still working and the right move is to leave it alone. An agency that ships new concepts purely to look busy is failing the test in the other direction, and clients who count concepts without asking why will get exactly that behaviour.
+
+The second is that plenty of agency coasting is client-produced. Approvals that take three weeks, feedback delivered as taste rather than as a decision, and a brief that changes at month four all reliably convert an ambitious team into a maintenance team. If the last four ideas you were shown were all rejected without a reason, the current absence of ideas is partly yours.
+
+### How do you leave cleanly?
+
+Decide before you tell them. The conversation is much easier when the outcome is already settled and the meeting is about logistics rather than persuasion. Then work in this order.
+
+1. Confirm you hold administrator rights on the advertising account, the page and the analytics property, in your own business portfolio, before you give notice.
+2. Request the asset list in writing: raw video, layered design sources, audience definitions, conversion and pixel setup, and the reporting sheet with its formulas intact.
+3. Read the notice clause and the auto-renewal date, and send notice in the exact form the contract requires, in writing, with the date on it.
+4. Ask for a written handover of what was learned — what worked, what failed, and what they would do next. A good agency will write it. A coasting one will discover there was never very much.
+5. Pay the final invoice promptly and say why you are leaving, plainly and once. The industry is small and the honest version costs you nothing.
+
+The point of a notice period is not the notice. It is that an agency which can be left in thirty days has to be worth keeping every month, which is a healthier arrangement for both sides than a twelve-month lock and an annual argument.
+
+> Retainers should be losable.
+
+## Thirteen questions to ask before you sign
+
+https://driftedmarketing.com/blog/questions-to-ask-an-ads-agency/ · How we work · by Umer Tariq · published 2026-09-04 · updated 2026-09-25
+
+The thirteen questions that would hurt us most to answer badly, each one answered for Drifted, including the two answers that should end the call.
+
+Most agency calls are structured so that you never get to the difficult part. Forty minutes of discovery, ten minutes of case studies, five minutes of pricing, and the questions that would have told you something get pushed into an email you never send. So here is the list, written by an agency, with our own answers attached to each one.
+
+**The short version.** Ask who opens the file, who owns the ad account, what happens if the number is missed, and how fast you can leave. Vague answers on ownership and exit are the two that should end the call. Everything else is negotiable.
+
+The reason this matters more than the pitch deck is that the relationship is long by default. Focus Digital’s 2025 study of agency churn put the average client lifespan on retainer contracts at fifty-six months, against twenty-four months for project work, and the 2025 ANA and 4As tenure study found average client-agency tenure now sits at roughly seven years, up from 3.2 years in 2016. You are not buying a quarter. You are choosing who is inside your advertising account for years.
+
+### Who actually does the work?
+
+One. Name the person who will open the design file and write the ads. Not the team. The person. If the answer is a role rather than a name, the name exists and you are not being given it.
+
+Two. Who is on this call who will not be on any other call? Pitch teams and delivery teams are frequently different people, and nobody will tell you that unless you ask it directly.
+
+Three. How many other accounts does that person carry? A media buyer holding a dozen accounts is a person who checks yours on a schedule, not a person who notices it.
+
+Our answers. Drifted is founder-led, not founder-fronted, which in practice means the person who sells the work is in the work. We are a small Gen-Z team led by a Gen-Z founder, and small is the product rather than a stage we are trying to grow out of. The honest cost of that is the next section.
+
+### What happens when you are the small agency?
+
+Four. What is your capacity limit, and what happens when you hit it? Every agency has one. The ones that pretend otherwise are the ones that quietly thin your account when a bigger client signs.
+
+Five. What is your holiday, illness and single-point-of-failure plan? A studio built around a handful of people is faster and more accountable, and it is also more exposed when one of them is unavailable for a fortnight.
+
+Our answer, against our own interest: a small studio genuinely has less redundancy than a large one. If you need round-the-clock cover across many markets and a named backup for every role, a bigger shop is a better fit and you should hire one. What we trade for that is that nothing is handed to a junior you never met.
+
+### How is the money actually structured?
+
+Six. Is the fee a flat retainer, a percentage of advertising spend, or a mix? A percentage of spend pays the agency more for spending more, whether or not spending more is the right call. That is not automatically disqualifying, but you should know it is the incentive you are buying.
+
+Seven. What is billed separately? Creative production, editing, landing pages, tooling, and reporting software are the usual four. Ask for the list in writing before signing, not after the first invoice.
+
+Eight. Do you take commission, rebates or kickbacks from any platform or vendor on our account? The answer should be a flat no, and it should be in the contract.
+
+Our answer: retainers should be losable, so ours are flat and cancellable at thirty days’ notice. We are not the cheap option and we do not pretend to be.
+
+### Who owns what when it ends?
+
+Nine. Whose business portfolio holds the advertising account, and whose name is on the page? Meta’s own documentation offers no self-serve way to hand an advertising account from one business portfolio to another. The workable route is partner access, where the account stays yours and the agency is granted permissions on it. If an agency creates the account inside its own portfolio, getting it back later is a negotiation rather than a setting.
+
+Ten. Who owns the creative after we part? In the United States, the Copyright Office’s Circular 30 is unambiguous that a commissioned work only becomes a work made for hire when there is a signed written agreement and the work falls inside one of nine listed categories. Advertising creative frequently does not. Without an explicit assignment clause, the agency may still own the files you paid for.
+
+Eleven. What do we get on the last day? Ask for the specific list: raw video files, layered design sources, ad account admin, pixel and conversion setup, audience definitions, the reporting sheet.
+
+### How will we know whether it is working?
+
+Twelve. What number are we being held to, and what happens if we miss it? This is the single most revealing question on the list. Watch whether the answer contains a consequence or a paragraph.
+
+Thirteen. Which client does each figure in your deck belong to, and will they take a phone call about it? Any number an agency shows you should name its owner and survive that call.
+
+Our answer: every published Drifted figure names its client. Between $5.20 and $6 back for every $1 of ad spend, on every campaign to July 2026, belongs to The Gallery. 400+ hours saved belongs to Adam Lewis’s auction operation. Where we do not have a measured number yet, the page says so rather than rounding one into existence. We also do not guarantee a result, because nobody who guarantees a result is telling you the truth.
+
+### What do bad answers sound like?
+
+| The question | The answer that should worry you | What you are owed instead |
+| --- | --- | --- |
+| Who opens the file? | “Our team handles it end to end.” | A name, and that person on the next call |
+| Whose advertising account is it? | “We set all that up for you.” | Your portfolio, agency on partner access |
+| Who owns the creative? | “You own everything, obviously.” | A written assignment clause you can read |
+| How do we leave? | “Nobody has ever wanted to.” | A notice period measured in days |
+| What if we miss the number? | “Marketing takes time to compound.” | A stated review point and a stated consequence |
+| Which client is that figure? | “We can’t say, it’s confidential.” | A named client, or the figure withdrawn |
+
+### Which two answers should end the call?
+
+The first is any refusal to put the advertising account and the page in your own business portfolio. There is no legitimate operational reason for an agency to hold the asset rather than hold access to it. When ownership sits on the agency side, every later disagreement is negotiated with your own advertising history as the hostage.
+
+The second is a minimum term with no exit for cause. A twelve-month lock with no performance break means the agency is paid the same whether the work is good, and you have no lever until the renewal date. If an agency will not put a notice period in writing, it has told you what it expects the work to be worth.
+
+Everything else on this list is a conversation. Those two are structural, and no amount of chemistry on a call fixes a structure that is built to make leaving expensive.
+
+> Tell us the number. We’ll tell you if we can.
+
+If we squirm at any of these thirteen, hold us to it in the same way. The list is only useful if it points at everyone, including the people who wrote it.
+
+## The minimum ad spend worth managing
+
+https://driftedmarketing.com/blog/the-minimum-ad-spend-worth-managing/ · Performance media · by Umer Tariq · published 2026-09-04
+
+Why agencies have spend floors, the platform arithmetic underneath them, and what to do with your money on either side of the line.
+
+Ask an agency for its minimum and you usually get a number with no reason attached. The number is real. The reason is more useful than the number, because the reason also tells you what to do while you are below it.
+
+**The short version.** Floors exist because Meta needs about fifty conversions a week per ad set to optimise, and because a fee has to be a small share of media to pay for itself. Below roughly $5,000 a month, spend on creative and your product page instead.
+
+### Why do agencies have a minimum ad spend?
+
+Two reasons, and only one of them is about the agency.
+
+The self-interested one first, so it is out of the way. Managing a small account costs an agency almost as much as managing a large one. The same weekly review, the same creative production, the same reporting. If the fee that a small budget can support does not cover a senior person's time, the account is either loss-making or quietly handed to someone junior. Floors are how a shop avoids doing the second thing while claiming the first.
+
+The reason that is actually about you is the platform. Meta's delivery system needs data to learn from, and below a certain volume there is not enough of it for anyone's skill to matter.
+
+### What is the learning-phase arithmetic?
+
+Meta's own published guidance on the learning phase is specific: an ad set needs roughly fifty optimisation events in a rolling seven-day window before delivery stabilises and the ad set exits learning. Only the event you optimised for counts — if you optimise for purchases, adds to basket do not help.
+
+Work that backwards and the floor appears on its own. Fifty purchases a week is two hundred a month, per ad set. If your ads convert visitors to buyers at two per cent, that is ten thousand landing page visits a month. LocaliQ and WordStream's benchmark analysis of 1,180 United States campaigns run between April 2024 and June 2025 puts the average Facebook cost per click at $0.70 on traffic campaigns and $1.92 on lead campaigns. Ten thousand visits is somewhere between $7,000 and $19,000 of media, for one ad set, to reach the point where the platform is optimising properly rather than guessing.
+
+| Conversion rate (ILLUSTRATIVE) | Visits needed for 200 events a month | Media at $0.70 a click | Media at $1.92 a click |
+| --- | --- | --- | --- |
+| 1% | 20,000 | $14,000 | $38,400 |
+| 2% | 10,000 | $7,000 | $19,200 |
+| 3% | 6,667 | $4,667 | $12,800 |
+| 5% | 4,000 | $2,800 | $7,680 |
+
+The conversion rates in that table are inputs, not measured results — put your own in. What the table shows is not a target. It shows why the answer to “what is the minimum” is never one number: it moves with how well your page converts and how expensive your audience is. A brand converting at five per cent on cheap clicks is properly manageable at a budget that would be hopeless for a brand converting at one per cent on expensive ones.
+
+There is a softer version of the threshold worth knowing. You do not need fifty events per ad set to run ads at all — plenty of accounts spend usefully below it. You need it before optimisation, testing and the whole apparatus of professional management start producing signal rather than noise. Below it, an expensive operator and a careful amateur produce statistically similar results, and only one of them sends an invoice.
+
+### So what is the practical floor?
+
+Around $5,000 a month of media is where most of the arithmetic starts working, and there is a second reason for that number beyond the learning phase. Stackmatix's 2026 guide puts market fees at 10 to 20 per cent of spend, or flat retainers from roughly $1,500 upward. At $5,000 of media a $1,500 fee is already 30 per cent of the total. Below that, you are paying more to manage the money than the money can plausibly return.
+
+Add the cost trend and the case gets sharper. The same LocaliQ and WordStream analysis found the average Facebook cost per lead at $27.66, up 20.94 per cent year on year. Small budgets get squeezed hardest by rising costs, because they have the least room to absorb a worse month before the whole test becomes unreadable.
+
+### What should you do below the floor?
+
+Spend the money on the two things that make the eventual media work better, both of which you can buy in small amounts.
+
+1. Creative. Pay someone to make ten genuinely different pieces rather than paying someone to manage a budget that cannot test them. Creative is the input with the largest remaining effect on Meta, and it does not expire.
+2. The page. Improving conversion from one and a half per cent to three per cent halves every future cost per customer, permanently, and costs less than a month of management.
+3. Run the ads yourself, simply. One campaign, broad targeting, your best creative, optimised for the event you actually want. Do not build a structure you do not have the volume to fill.
+4. Collect email addresses from every visitor who does not buy. At small budgets, owned audience is worth more per pound than any targeting decision.
+5. Write down your margin and your break-even return before you scale. The number you will need later is easier to establish now, on small money.
+
+If you want an outside pair of hands at this stage, hire a freelancer for a fixed piece of work rather than a retainer. A one-off account audit and a creative brief costs a fraction of a monthly fee and gives you most of the value a small account can absorb.
+
+### What should you do just above it?
+
+The mistake at the bottom of the manageable range is building the account you will need at ten times the budget. Six campaigns, twenty ad sets, tight audience splits — all of it dividing your fifty weekly events into fragments that each learn nothing.
+
+- Consolidate. Fewer ad sets, more budget each, so events accumulate somewhere rather than everywhere.
+- Test creative, not audiences. Creative differences are large and legible at low volume. Audience differences at this budget are mostly noise wearing a label.
+- Optimise for the deepest event you can actually hit fifty of. If purchases are too rare, optimise one step earlier and watch the real number behind it.
+- Give a change two full weeks. Reading a three-day result at this spend is reading weather, not climate.
+- Increase budget in steps rather than jumps, so you do not reset learning on the day you finally got out of it.
+
+And be honest about what management is buying at this level. It is buying discipline and creative volume, not exotic platform technique. Any agency selling you sophistication at $6,000 a month of media is selling you the wrong thing, expensively.
+
+### When is hiring us the wrong call?
+
+Below the floor, plainly. If you are spending $2,000 a month, our fee is a larger line than your media and we will tell you so rather than take it. The same is true if your budget is above the floor but seasonal — an account that spends heavily for two months and nothing for ten is better served by a project engagement than a retainer that idles.
+
+There is a third case worth naming because it is the one people argue with. If you are just above the floor and the account is already well run, the honest gain from switching agencies is small. Moving an account costs you a learning reset and a month of ramp. If your current arrangement is boring and works, boring and works is a good outcome.
+
+Floors are not a judgement about your business. They are a statement about when money starts being able to buy an improvement, and it is a better conversation to have before an invoice than after one.
+
+## Agency, freelancer, or in-house
+
+https://driftedmarketing.com/blog/agency-freelancer-or-in-house/ · Performance media · by Umer Tariq · published 2026-09-04
+
+The fully-loaded monthly cost of all three, including the management time nobody puts in the spreadsheet, and a rule for choosing.
+
+The comparison is usually made wrong, because it compares an invoice to a salary and stops there. An invoice is a complete number. A salary is about two thirds of one.
+
+**The short version.** A freelancer is cheapest and thinnest. In-house is most expensive and most controllable, and only pays back above serious spend. An agency sits between them and buys creative volume. Add your own management hours to all three before comparing.
+
+### What does a freelancer actually cost?
+
+A competent Meta freelancer runs somewhere between a few hundred and around two thousand pounds a month, depending on whether they are managing your account or also making things for it. That is the invoice. It is not the cost.
+
+The cost includes the creative you now have to produce, because most freelancers buy media and do not make ads. It includes the briefing, because a freelancer with eight clients works from what you send. And it includes the risk premium of one person: no cover during holidays, no second opinion, and a hard stop if they take a full-time role.
+
+In our experience the freelancer arrangement fails in one specific way. It works well for a year, the account plateaus, and nobody in the arrangement is responsible for the ideas that would break the plateau. Maintenance is not a strategy failure. It is just what you bought.
+
+### What does an agency actually cost?
+
+Stackmatix's 2026 guide to Facebook ads agency pricing puts flat retainers in a band that runs from roughly $1,500 to $10,000 a month, with percentage-of-spend arrangements at 10 to 20 per cent. The 2026 Agency Pricing Survey reported by Ryze found roughly 42 per cent of agencies on flat fees, 31 per cent on a percentage of spend, and 27 per cent on a hybrid.
+
+What you are buying at that price is not hours. It is a bench: someone who buys media, someone who makes the creative, someone who has seen your category fail before. What you give up is exclusivity of attention — you are one of several accounts, and on a bad month you will feel it.
+
+The hidden cost is the approval loop. Every agency arrangement has one, and a slow one destroys the value of the fast bench you just hired. If creative waits nine days for your feedback, you are paying agency rates for freelancer output.
+
+### What does in-house actually cost?
+
+Here is where the spreadsheet usually lies. Glassdoor's 2026 United States figures put the average paid media specialist at $70,850 a year and the average performance marketing manager at $108,179, with a typical range of $81,676 to $144,900. Those are salaries, not costs.
+
+As a planning rule, add roughly a quarter to a third on top for employer taxes, benefits, equipment, software and the share of recruitment cost the hire has to carry. Then add the ramp: a new hire is not fully productive for a quarter, and a bad hire costs you two before you know. Then remember that one person in-house is still one person, so you have bought the freelancer's single-point risk at four times the price — with the added feature that it takes months to replace rather than a week.
+
+What in-house genuinely buys is context. Someone who sits in your business learns your customers, your margins and your seasonality in a way no external party does. That is worth a great deal. It is worth it later than most founders think.
+
+### What does it cost to manage each option?
+
+The line nobody prices. Every arrangement consumes hours of a senior person — usually the founder — in briefing, approving, chasing and reading reports. Those hours have a cost, and it is the highest hourly rate in the building.
+
+|  | Freelancer | Agency | In-house hire |
+| --- | --- | --- | --- |
+| Direct monthly cost | Roughly $500–$2,000 | Roughly $1,500–$10,000 flat, or 10–20% of spend | $70,850–$108,179 a year in salary alone |
+| Loaded monthly cost | Same, plus creative you produce | Same as invoice — the bench is inside it | Add about 25–30% for tax, benefits, tools and equipment |
+| Your hours per week | 3–5, briefing and making creative | 1–2, approvals and one weekly read | 4–6 at first, 2–3 once they know the business |
+| Creative produced | Usually none — you supply it | A stated monthly count, if you wrote it into scope | As much as one person can make, which is not much |
+| Ramp to useful | Days | Two to four weeks | One quarter, sometimes two |
+| Cover if they vanish | None | Another person on the bench | None, for months |
+| Category experience | Whatever they happen to have | Several accounts, several failures | Yours only, learned on your budget |
+| Notice to stop | Usually immediate | Thirty days, if the contract is honest | Redundancy process and cost |
+| Best at | Keeping a working account working | Producing new ideas at volume | Deep context and long-horizon work |
+
+Put your own hourly cost against the third row before you decide anything. A freelancer at $800 a month who takes four hours of your week is not cheaper than an agency at $3,000 that takes one, if your hour is worth anything at all.
+
+### Can you combine them?
+
+Yes, and the best-run accounts we see do. The pattern that works is an in-house owner and an external maker: one person inside who holds the number, the margins and the calendar, and an external team producing creative volume against it.
+
+The pattern that does not work is two parties who both think they own the account. It ends in an ad set nobody will admit to editing, and a monthly meeting about who paused what.
+
+### When is an agency the wrong answer?
+
+When the work is genuinely maintenance. If your creative wins have been stable for months, your offer is not changing, and the account only needs someone to watch budgets and swap in a seasonal image, an agency fee buys you capability you will not use. Hire a freelancer and keep the difference.
+
+It is also the wrong answer when the knowledge you need is knowledge about your own business rather than about advertising. A complicated pricing model, a long sales cycle with a human at the end, a category with real regulation — those reward someone sitting inside the company. We would rather tell you that on the first call than bill you for a year of learning your industry.
+
+### The decision rule
+
+One question, asked in order, and stop at the first yes.
+
+1. Is the account mostly being maintained rather than changed? Hire a freelancer.
+2. Is the constraint the number of good new ideas that reach market each month? Hire an agency, on a flat fee, against an agreed number.
+3. Is the constraint knowledge of your own business — pricing, margin, cycle, regulation — rather than knowledge of the platform? Hire in-house, and pay properly.
+4. Are you spending enough that a full-time salary is a small share of media, and do you have the ideas problem too? Hire in-house to own it, and an external team to make things.
+
+The rule is deliberately not about company size. We have seen small companies where the ideas problem was acute and large ones where the account only needed watching. Size predicts your budget. It does not predict your constraint, and the constraint is what you are buying against.
+
+## Is an ads agency worth it under ten thousand a month
+
+https://driftedmarketing.com/blog/is-an-ads-agency-worth-it/ · Performance media · by Umer Tariq · published 2026-09-04
+
+The arithmetic that tells you whether a management fee can pay for itself yet — and the three cases where the honest answer is no.
+
+Most of the pages answering this question are written by agencies, which makes them a strange place to look for a no. So here is the no first, then the arithmetic that tells you when it turns into a yes.
+
+**The short version.** Below roughly $5,000 a month in ad spend, a full agency fee usually costs more than it can recover. Work out the extra profit a fee has to produce to break even. If that number needs an unlikely improvement, hire a freelancer instead, or nobody yet.
+
+### When is an ads agency not worth it?
+
+Three cases, and they are common enough that we turn work away on them.
+
+The first is thin margin. If you keep 20 per cent of a sale after everything, every pound of fee has to generate five pounds of new revenue before it has paid for itself. Not five pounds of revenue in total — five pounds of new revenue that would not have happened. That is a hard test, and most accounts under moderate spend fail it.
+
+The second is a broken step further down. If your product page converts at a fraction of what it should, or your offer only sells to people who already know you, media buys you more visits to the same problem. Fix the page, then buy traffic to it. An agency that takes the retainer without saying this is selling you activity.
+
+The third is not enough data for the platform to learn from. Meta's own delivery guidance is explicit that an ad set needs roughly fifty optimisation events in a rolling seven-day window before it leaves the learning phase and delivery stabilises. If your budget and your price mean five purchases a week, no operator on earth gets the algorithm out of learning. You are paying a specialist to wait.
+
+### What does the fee have to earn to break even?
+
+This is a one-line calculation and almost nobody does it before signing. Take the monthly fee. Divide it by your gross margin. That is the extra revenue the arrangement has to produce every month just to arrive at zero.
+
+A worked example, using your numbers not ours. A $3,000 monthly fee at 40 per cent gross margin needs $7,500 of additional monthly revenue to break even. At 25 per cent margin the same fee needs $12,000. If your whole business is doing $30,000 a month, you have just asked an agency to lift you 40 per cent before anybody profits.
+
+| Monthly fee | Gross margin | Extra revenue needed to break even | Extra revenue needed to be clearly worth it |
+| --- | --- | --- | --- |
+| $1,500 | 25% | $6,000 | $12,000 |
+| $1,500 | 50% | $3,000 | $6,000 |
+| $3,000 | 25% | $12,000 | $24,000 |
+| $3,000 | 50% | $6,000 | $12,000 |
+| $5,000 | 25% | $20,000 | $40,000 |
+| $5,000 | 50% | $10,000 | $20,000 |
+
+The fourth column doubles the third, and that is deliberate. Breaking even on a fee is not a reason to pay it — you did the work of managing an agency and got nothing. A fee is worth paying when it returns roughly twice what it costs, because that is where the arrangement survives a bad quarter.
+
+Now compare the break-even number to your ad spend. If you are spending $3,000 a month on media, the fee is asking for improvement of a size that the media itself cannot produce. That is the real reason floors exist. It is not snobbery about small clients. It is arithmetic that does not care how much anyone wants the deal.
+
+### What changes above the threshold?
+
+Somewhere around $5,000 to $10,000 a month of spend, three things change at once, and they compound.
+
+1. The account produces enough conversions each week to clear Meta's learning threshold, so testing produces signal rather than noise.
+2. The fee becomes a smaller share of total media, so a modest percentage improvement in efficiency can actually cover it.
+3. The number of decisions per week exceeds what a founder can make well between everything else — which is the point where expertise starts saving money rather than costing it.
+
+Against Stackmatix's 2026 market bands — 10 to 20 per cent of spend, or flat retainers running from roughly $1,500 to $10,000 a month — a $10,000 media budget carrying a $2,000 fee means the operator has to find a fifth more efficiency to be free. That is a plausible ask on a neglected account. On a $2,000 budget carrying the same fee, it is not.
+
+The cost trend matters too. LocaliQ and WordStream's analysis of 1,180 United States campaigns run between April 2024 and June 2025 found the average Facebook cost per lead at $27.66, up 20.94 per cent year on year. Standing still gets more expensive every year. Below the threshold that trend is a reason to be careful; above it, it is a reason to have someone whose job is fighting it.
+
+### What about a freelancer instead?
+
+This is the middle path and it is underrated, including by us. A good freelancer at a few hundred pounds a month will keep an account tidy, catch the obvious waste, and tell you when the budget is too small for what you want.
+
+What you give up is real, though, and it is mostly creative volume. One person managing eight accounts does not produce ten new pieces of creative a month for any of them, and creative is where most of the remaining upside on Meta lives. You also carry the single-point risk: freelancers get busy, get a full-time offer, or go quiet in the week your campaign breaks.
+
+The honest split is this. If the account mostly needs maintaining, hire a freelancer. If it needs new ideas produced at volume, that is an agency-shaped problem, and it is worth waiting until you can afford one rather than buying half of one.
+
+### How do you test an agency for one month?
+
+You do not need a year to find out. You need one month structured so that the answer is unambiguous.
+
+1. Agree the single number before anything starts, and write it into the contract. One number, with a date.
+2. Give them the account and the budget you already spend — not more. A test funded by a budget increase cannot tell you who caused the change.
+3. Require the creative count in writing. Ten new pieces, or three, but a number, delivered in the month.
+4. Take a screenshot of the account's last ninety days on day zero. Agencies rarely change the past, but memories of the baseline get generous.
+5. Ask for one weekly note against the number, in writing, and read whether it reports problems as well as wins. A month of only good news is a reporting problem.
+6. At day thirty, compare against the baseline, not against the pitch.
+
+One month will not prove a full return, especially on a considered purchase with a long buying cycle. It will prove the things that predict one: whether creative actually shipped, whether the account got cleaner, whether the person you met is the person doing the work, and whether they tell you the truth when a week goes badly.
+
+**Watch out.** A first month that spends most of its budget on tracking setup and “strategy” has not been tested. If nothing was in market by week two, you bought a month of admin.
+
+### So what is the answer?
+
+Under roughly $5,000 a month of spend, on thin margin, with a page that does not convert: no, and any agency that tells you otherwise is telling you what you want to hear. Under that number with fat margin and a product that sells: a freelancer, and revisit in six months.
+
+Above it, with margin that survives the arithmetic above and a real appetite to spend more: yes, on a flat fee, against a number you agreed, reported weekly, and cancellable when it stops working. Retainers should be losable. If cancelling yours would be awkward rather than obvious, the terms were written for the wrong person.
+
+## What a Meta ads agency actually costs
+
+https://driftedmarketing.com/blog/what-a-meta-ads-agency-costs/ · Performance media · by Umer Tariq · published 2026-09-04
+
+The three ways agencies charge for Meta ads, what each model quietly hides, and the market bands to measure any quote against.
+
+Nobody publishes this, which is the first thing worth noticing. Search for what a Meta ads agency costs and you will find a hundred pages that end in “it depends” and a contact form. It does depend. It also has bands, and the bands are knowable.
+
+**The short version.** Agencies charge one of three ways: a flat monthly fee, a percentage of your ad spend, or both. The market sits around 10 to 20 per cent of spend, or roughly $1,500 to $10,000 a month flat. We charge one flat monthly fee, priced on the first call.
+
+What follows is the actual structure of the money, including the parts that are structured to be uncomfortable to ask about. If you read nothing else, read the section on what should be inside the fee — that is where quotes that look identical stop being identical.
+
+### How much does a Meta ads agency cost?
+
+Three models, and almost every agency uses one of them. Stackmatix's 2026 guide to Facebook ads agency pricing puts the percentage-of-spend norm at 10 to 20 per cent, falling toward single digits as budgets get large, and flat retainers in a wide band that starts around $500 and runs past $5,000 a month. The 2026 Agency Pricing Survey reported by Ryze found roughly 42 per cent of agencies on flat fees, 31 per cent on percentage of spend, and 27 per cent on a hybrid of the two.
+
+| Model | Typical market band | Who it suits | What it quietly does |
+| --- | --- | --- | --- |
+| Flat monthly retainer | About $1,500–$10,000 a month | Budgets that are stable, or growing on purpose | Caps your cost as you scale — and caps the agency's upside, so scope has to be written down |
+| Percentage of ad spend | 10–20%, falling under 10% on very large budgets | Accounts already spending heavily | Pays the agency more the more it spends. The advice and the invoice point the same way |
+| Hybrid: base fee plus a percentage | A smaller base, plus roughly 4–7% of spend | Agencies protecting a floor on small accounts | Looks cheap at signature and grows every month you succeed |
+
+Read that last column again. The model is not an accounting detail. It decides what your agency is rewarded for on the day it recommends something.
+
+### What does a flat monthly retainer hide?
+
+A flat fee is the cleanest of the three, and it hides one thing: scope. Because the number does not move, everything the agency wants to protect has to live in the words around it. Two agencies can quote $4,000 a month where one includes ten new pieces of creative and the other includes none, and the quotes will look the same in a spreadsheet.
+
+The second thing it hides is attention. A flat fee that is comfortable for the agency at a low workload is comfortable for the agency when it stops working on you. This is why the fee has to be attached to a number and a reporting rhythm, not to a list of activities. Activities can be performed without moving anything.
+
+### What does a percentage of ad spend hide?
+
+The percentage model is sold as alignment. The pitch is that when you win, we win. What actually happens is that when you spend, we win, and those are not the same sentence.
+
+Consider the advice you will never get from an agency on a percentage. You will not be told to pause a campaign for a month while the offer is fixed. You will not be told that your account is at its efficient ceiling and the next thousand pounds buys worse customers than the last thousand. You will not be told to move budget out of Meta and into email. Every one of those is a pay cut for the person saying it.
+
+The percentage also does something arithmetically odd at the bottom end. At 15 per cent of a $3,000 budget the agency earns $450 a month, which does not pay for a senior person to open the account, so a junior opens it — or nobody does. At the top end it inverts: at 15 per cent of $200,000 the agency earns $30,000 a month for work that is not twenty times harder than the work at $10,000. The model overcharges scale and underserves small.
+
+**The question to ask.** “What would you tell me to do if it cost you money to say it?” The answer, or the pause before it, is the whole due diligence.
+
+### What does the hybrid model hide?
+
+The hybrid is the percentage model wearing a smaller number. A base fee plus 4 to 7 per cent of spend reads as modest at signature, because at signature the spend is small. It is a fee that grows automatically with a variable you control and the agency advises on. That is not evil, but it should be priced with your eyes open: model the invoice at three times your current budget before you sign, because that is the budget you are hiring someone to reach.
+
+### What should be inside the fee?
+
+Here is where quotes stop being comparable. Meta account management, on its own, is a few hours a week of work. Almost none of the outcome lives there. The outcome lives in creative, in the offer, and in what happens after the click — and every agency draws its scope line in a different place.
+
+- New creative, and how much of it per month, in writing. An account that gets no new creative decays on a schedule.
+- Who writes the ads and who edits the video. If the answer is “our team”, ask for the name of the person who opens the file.
+- Whether tracking setup, server-side events and audience plumbing are included or billed separately.
+- Whether landing page work is in scope, or whether you will be told the page is the problem and then charged to fix it.
+- The reporting rhythm, and the metric it reports against — agreed before the first invoice, not after the first bad month.
+- What happens to the ad account, the pixel and the creative files if you leave. If you do not own them, you are renting your own business.
+
+One more line item nobody prices: your time. Every arrangement costs you internal hours in approvals, feedback and asset gathering. An agency that needs six hours of your week is more expensive than one that needs two, whatever the invoice says.
+
+### What is the fee actually buying?
+
+Not access to Meta. You already have that, free, this afternoon. The fee buys judgement about where money stops working, and it buys enough creative volume that the platform has something to choose between.
+
+The market context helps here. LocaliQ and WordStream's benchmark analysis of 1,180 United States campaigns run between April 2024 and June 2025 puts the average cost per lead on Facebook at $27.66, up 20.94 per cent year on year, with the average cost per click at $0.70 on traffic campaigns and $1.92 on lead campaigns. Costs are rising. A fee is worth paying when the person charging it moves your cost against that trend, and worth cancelling when they do not.
+
+### What do we charge?
+
+One flat monthly fee. No percentage of your ad spend, no media commission, no rebate we do not tell you about. The number is priced on the first call, once we know what the account needs, and it does not move because you had a good month.
+
+We do it that way for a self-interested reason as much as a moral one. A flat fee means we can say “stop spending on this” without it costing us anything, which is the only condition under which that sentence is trustworthy. The offer and the scope are on /pricing. The first call, where the number gets said out loud, is at /contact.
+
+### When should you not hire us?
+
+If your budget is a few hundred pounds a month, our fee will be larger than your media and you should not pay it. Learn the account yourself, or find a freelancer at an hourly rate. We would rather say that on a first call than take a retainer that cannot mathematically pay for itself.
+
+The same applies if the problem is not the ads. If your product has no margin, or your offer does not convert warm traffic, no fee model fixes it. Media multiplies whatever is already there, including a zero. Anyone who tells you otherwise is pricing hope, and hope is expensive at 15 per cent of spend.
+
+## DM-first selling, explained
+
+https://driftedmarketing.com/blog/dm-first-selling-explained/ · Performance media · by Umer Tariq · published 2026-08-21 · updated 2026-09-25
+
+Some products do not get bought. They get discussed into being bought — and selling those through a checkout is measuring the wrong door.
+
+Some products do not get bought. They get discussed into being bought. Selling those through a website checkout is measuring the wrong door.
+
+**The short version.** If the sale closes in a conversation, the conversation is the funnel. Point the creative at a message rather than a click, optimise toward the inbox, and measure where the sale actually happens.
+
+The Gallery sells personalised newborn gifts — names, dates, embroidery. Every order needs a conversation: spelling, sizing, a photograph of the nursery. The message is not friction before the sale. The message is the sale.
+
+### The creative's job changes
+
+It does not push toward a product page — it starts a conversation. Ten creatives, each one engineered to earn a message rather than a click.
+
+### The optimisation changes
+
+Campaigns optimise toward the inbox. Paying for website clicks when your buyers buy in chat is paying, very efficiently, for the wrong thing.
+
+### The measurement changes
+
+The number is tracked where the sale actually closes, and reported weekly against what was agreed. For The Gallery that is $5.20–$6 back per $1 of ad spend, every campaign to July 2026 — not an average across one good quarter. The spend figure behind it is not published.
+
+**The quick test.** If your best customers ever open with “quick question”, stop optimising for the cart and optimise for the conversation.
+
+## How to brief an agency without getting robbed
+
+https://driftedmarketing.com/blog/brief-an-agency-without-getting-robbed/ · How we work · by Umer Tariq · published 2026-08-18
+
+Five questions that separate an agency that will move your number from one that will bill you for workshops. Written by an agency.
+
+Yes, we are an agency writing this. Consider it a confession with a checklist.
+
+**The short version.** Bring a number and a date. Ask who opens the file. Refuse discovery theatre. Demand receipts that name their client. Get weekly reporting against the target you agreed.
+
+### One: bring a number and a date, not a vibe
+
+“More brand awareness” is how retainers live forever without consequence. A number with a month attached to it is a brief. If you cannot name the number, the first working session should exist to find it — and nothing else should be billed before that.
+
+### Two: ask who touches the work
+
+Not who attends the calls — who opens the design file, and who writes the ads. If the answer contains the word “team” but no names, the names are people you will never meet.
+
+### Three: refuse discovery theatre
+
+Six weeks of workshops that end in a deck about your own company is you paying to be interviewed. Real discovery happens inside week one of actual work.
+
+**The one-question filter.** “What happens if we miss the number?” Then watch them answer.
+
+### Four: demand receipts, not case-study poetry
+
+Any figure an agency shows you should name its client and survive a phone call to that client. Ours are on the work index, each one attached to the client it belongs to, and the ones we have not measured yet say so instead of guessing.
+
+### Five: weekly reporting against the agreed number
+
+Not a monthly document full of impressions. The metric you hired for, reported against the target you agreed, every week, in writing.
+
+If an agency squirms at any of these five, you have learned something worth more than the pitch deck. If we squirm, hold us to it — the number goes in our contract too.
+
+## Reach beats followers
+
+https://driftedmarketing.com/blog/reach-beats-followers/ · Creator growth · by Umer Tariq · published 2026-08-14 · updated 2026-09-25
+
+The Poster Project had 811 followers at the time and did 2.2M views in ninety days. Those two numbers in one sentence are the whole lesson.
+
+The Poster Project had 811 followers at the time. Its content did 2.2M views in ninety days. Those two numbers in the same sentence are the whole lesson.
+
+**The short version.** Follower count is a subscription-era metric. Every platform now shows people what they will probably watch, whoever made it — so a small account competes on the same field as a big one. Make things strangers finish.
+
+Follower count is a vanity metric from an era when the feed showed you what you had subscribed to. It does not work that way any more. Which means the job is not growing an audience. It is making content that travels without one.
+
+### Make it for the stranger, not the follower
+
+If a post only makes sense to people who already know you, it cannot travel. The Poster Project's posts work cold — you do not need any context to enjoy a good poster.
+
+### Volume, with a spine
+
+Forty-odd pieces in a month beats four perfect ones — but only if every piece carries the same recognisable taste. Volume without a spine is just noise, and noise is what the feed is already full of.
+
+### Pay only where paying is efficient
+
+Organic finds your winners for free. Then, and only then, money goes behind what has already proved it travels. Of The Poster Project's 2.2M views in ninety days, 80% were organic, reaching 199,392 accounts — up 174.5%.
+
+> Stop buying followers. Start making things strangers finish.
+
+## What AI-native delivery actually means
+
+https://driftedmarketing.com/blog/what-ai-native-delivery-actually-means/ · AI product · by Umer Tariq · published 2026-08-10
+
+Not a chatbot on your website. A different shape of team, and a different set of things that are cheap.
+
+Every agency now says it is AI-powered, which has made the phrase useless. Here is what it means in practice when it means anything: the cost of certain kinds of work has collapsed, and a team built around that fact looks different from a team that bolted it on.
+
+### What actually got cheap
+
+Not thinking. Not judgement. Not knowing which problem is worth solving. What got cheap is the long, structured, repetitive middle of a project — the part that used to be measured in weeks of somebody's attention and no cleverness at all.
+
+- Turning thirty thousand messy historical records into a usable reference set.
+- Producing the twelfth variation of a layout that is identical except for one constraint.
+- Writing the first draft of every description, then having a person fix the ones that matter.
+- Watching twenty-one competitor sites every day and telling you only when something changed.
+
+None of that is creative work. All of it used to consume the calendar before creative work could start.
+
+### Why that changes the team, not just the tooling
+
+A traditional agency is shaped around handoffs, because the middle of a project is long and has to be passed between specialists. Strategy writes a document. Creative interprets it. Media buys against it. An account layer exists to carry meaning between the three.
+
+Take the long middle out and the handoffs stop paying for themselves. What is left is a smaller number of senior people who each carry a project from the question to the thing, which is why our answer to how we ship this much is not a tool, it is that there is nobody in the middle.
+
+**The short version.** AI-native does not mean the work is automated. It means the boring middle is, so the same people can hold the whole project — and a small team stops being a constraint.
+
+### The part nobody advertises
+
+Generated output is confidently wrong at a steady, predictable rate. Any honest system built on it has an explicit place where a human decides, and the interesting engineering is in making that place small.
+
+On the listing platform we built for a militaria auction operation, the model scores its own confidence and only uncertain items get flagged for review. Everything else passes through. The value is not that the machine is right — it is that it knows which of its answers to distrust, so a person spends their day on the hundred hard ones instead of all of them.
+
+### How to tell whether someone means it
+
+Three questions. They are quick and they are hard to bluff.
+
+1. Where does a human check the output, and what happens to the things that fail the check?
+2. What did this let you stop doing? A real answer names a task that no longer exists.
+3. What did you build that you would not have attempted before, because it was too long rather than too hard?
+
+An agency that has genuinely changed how it works answers all three immediately and with specifics. An agency that has added a chatbot will answer the first one with a description of the tool.
+
+### What it does not fix
+
+It does not tell you what to build, whether anyone will pay for it, or what the thing should feel like. It does not make a bad offer good. And it does not remove the need to decide how a product earns before you build it — if anything it makes that discipline more important, because the build is no longer slow enough to force the question.
+
+## How to price a creator product line
+
+https://driftedmarketing.com/blog/price-a-creator-product-line/ · Creator growth · by Umer Tariq · published 2026-08-10
+
+Margin first, design second. The table that decides whether a merch drop is a business or an expensive hobby.
+
+Almost every creator product line dies at the same question, and it is never a creative question. It is: what does this cost to make, what does it sell for, and what is actually left.
+
+People skip it because it is boring and because answering it sometimes kills an idea you like. Answer it first anyway. A margin table takes an afternoon and it is the difference between a brand and a very well-designed way to lose money.
+
+**The short version.** Build the margin table before anything is designed. If the product does not clear roughly half its retail price after everything, change the product, the supplier or the price — do not launch and hope volume fixes it.
+
+### What actually comes out of the price
+
+The mistake is subtracting the manufacturing cost and calling the rest profit. Here is the full list, and most of it is invisible until money moves.
+
+| Cost | Typically | Notes |
+| --- | --- | --- |
+| Make the thing | Known | The only number most people write down |
+| Ship it to the customer | Varies | The single biggest killer on heavy or bulky items |
+| Payment processing | A small percentage plus a flat fee | The flat fee is what hurts on low-priced items |
+| Platform fee | A percentage of the sale | Check whether it applies to shipping too |
+| Returns and replacements | A few percent | Higher on apparel, much higher if sizing is unclear |
+| Samples and photography | One-off | Real, and always forgotten |
+
+Write those into a spreadsheet with one row per product and one column per cost. The number you care about is what is left as a share of the retail price.
+
+### The number to aim at
+
+As a working rule, aim to keep around half of the retail price after everything above. Not because fifty is magic, but because it leaves room for the two things that always happen: something costs more than quoted, and you eventually want to pay for reach.
+
+If you are at 20%, you are one shipping increase from working for free. If you are somehow at 70%, either you have found a genuinely good supplier or you have forgotten a cost. It is usually the second.
+
+### Fix the margin, not the price
+
+When the table comes out badly, the instinct is to raise the price. That is the last lever, not the first. Try these in order.
+
+1. Change the product. A heavy item with expensive shipping becomes a light item with the same idea on it.
+2. Change the supplier or the production method. Two suppliers for one line is normal — one for quality, one for speed.
+3. Change the size of the run. Per-unit costs move a lot at the first real quantity break.
+4. Change what is in the box. Cutting the printed insert nobody keeps is free money.
+5. Then, and only then, change the price.
+
+### Price to the audience you have
+
+An audience is not a market until it has been asked for money. The number of people who follow you tells you very little about the number who will pay, and the ratio is smaller than anyone expects the first time.
+
+Which is an argument for a small, tight line rather than a catalogue. Fewer products, priced properly, sold to people who already trust you. The line we built for Noted. was eight products, and the margin table existed before a single thing was designed.
+
+**Watch out.** Do not price against other creators. They are guessing too, and you cannot see their supplier costs. Price against your own table.
+
+### What good looks like
+
+A line where every product clears the target, where you could explain any price to a customer in one sentence, and where you know before launch how many units make the launch worth having done. That last number is the one that tells you whether to spend on reach, and almost nobody has it.
+
+## How to read an ad account in ten minutes
+
+https://driftedmarketing.com/blog/read-an-ad-account-in-ten-minutes/ · Performance media · by Umer Tariq · published 2026-08-10
+
+The four screens that tell you whether money is working, and the vanity numbers that will waste your afternoon.
+
+Most people open an ad account and start at the top, which is the worst place to start. The top of the screen is where the platform puts the numbers that make you feel good. Reach. Impressions. Engagement rate. None of them tell you whether you made money.
+
+Here is the order we actually use, and why. It takes about ten minutes and it works whether you are spending $500 a month or $50,000.
+
+**The short version.** Start at the money and walk backwards. Revenue, then cost to get it, then which creative earned it, then what the landing page did with it. Anything that does not sit on that path is context, not a decision.
+
+### One: what came back per pound spent
+
+The only opening question is how much money came back for each pound or dollar you put in. Every platform has a name for this and most of the names are jargon. Ignore the name and find the ratio.
+
+If you spent $1,000 and the campaign is credited with $4,000, you got $4 back for every $1. Whether that is good depends entirely on your margin, which is the part almost nobody checks. A brand making 70% gross margin is comfortable at $2 back per $1. A brand making 20% is losing money at $4.
+
+**Do this first.** Work out the number you break even at before you look at a single campaign. Divide 1 by your gross margin. At 40% margin your break-even is $2.50 back per $1. Below that you are buying revenue with your own money.
+
+### Two: what it cost to get one customer
+
+The ratio hides volume. A campaign returning $8 per $1 on eleven orders is a rounding error. Look at the cost to acquire one paying customer, then compare it to what that customer is worth over a year.
+
+If it costs $40 to win a customer who spends $60 once and never returns, you have a $20 business with a lot of admin. If that customer spends $60 four times a year, you should be spending far more than you are.
+
+### Three: which creative actually earned it
+
+Sort by spend, not by performance. The platform will happily show you a beautiful result on an ad that received $30. What you want is the handful of pieces carrying most of the budget, because those are the only ones with enough data to mean anything.
+
+- Anything under a few hundred pounds of spend is a rumour, not a result.
+- If one piece is carrying 80% of spend, you do not have a creative strategy, you have one lucky ad and a countdown.
+- Look at what the winners have in common. Usually it is the first two seconds, not the offer.
+
+### Four: what the landing page did with the click
+
+This is where most accounts are actually broken, and it is the last place people look. Compare how many people arrived with how many reached the checkout. If the ads are doing their job and the page is not, no amount of budget fixes it — you are just buying more visits to a leaking bucket.
+
+One caveat worth knowing: on some businesses the sale never happens on the page at all. We have run campaigns for a personalised-goods brand where the entire transaction happened in an Instagram inbox. Measuring page conversions there would have shown a broken account and a healthy business.
+
+### What to ignore
+
+| The number | Why it is on the screen | What to look at instead |
+| --- | --- | --- |
+| Impressions | It is always big and always rises with spend | Cost to reach one thousand people, tracked over time |
+| Engagement rate | It measures whether people liked the post | Whether they clicked, and then whether they bought |
+| Reach | It is the easiest number to grow and the easiest to buy | New customers, counted |
+| Clicks | It counts a lot of accidents | Sessions that lasted longer than a bounce |
+
+### The ten-minute version
+
+1. Work out your break-even return from your margin. Write it down.
+2. Find what came back per pound. Compare it to that number, not to zero.
+3. Check the cost to win one customer against what a customer is worth over a year.
+4. Sort creative by spend and read only the top few.
+5. Compare arrivals to checkouts, unless your sale closes somewhere else.
+
+If the account fails at step two, the problem is the offer or the margin, and no creative will save it. If it fails at step four, the problem is the page. Knowing which of those you have is most of the work.

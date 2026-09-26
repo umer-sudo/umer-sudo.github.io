@@ -1,3 +1,30 @@
+User-Agent: Googlebot
+User-Agent: Googlebot-Image
+User-Agent: Bingbot
+User-Agent: DuckDuckBot
+User-Agent: Applebot
+User-Agent: YandexBot
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: GPTBot
+User-Agent: Claude-SearchBot
+User-Agent: Claude-User
+User-Agent: ClaudeBot
+User-Agent: anthropic-ai
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: Google-Extended
+User-Agent: Applebot-Extended
+User-Agent: MicrosoftPreview
+User-Agent: meta-externalagent
+User-Agent: Meta-ExternalFetcher
+User-Agent: Amazonbot
+User-Agent: MistralAI-User
+User-Agent: DuckAssistBot
+User-Agent: YouBot
+User-Agent: CCBot
+Allow: /
+
 User-Agent: *
 Allow: /
 

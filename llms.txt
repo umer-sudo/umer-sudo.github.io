@@ -1,106 +1,133 @@
 # Drifted Marketing
 
-A growth agency — ads, content and AI apps. A small Gen-Z team, led by a Gen-Z founder, working out of Karachi for brands in the United States and beyond. Three disciplines under one monthly fee: performance media, creator growth, and custom AI product. No account layer between the client and the people doing the work.
+> Drifted — a growth agency for ads, content and AI apps, founded 2026, Karachi, working New York hours. We run Meta and Google ads, make the content that feeds them and build custom AI apps, for a published monthly fee, with one number and one date written into every contract.
 
-- Contact: operations@driftedmarketing.com · (346) 716-2948
-- Based: Karachi, Pakistan. Founded 2026.
-- Site: https://driftedmarketing.com
+## Key facts
 
-## What we do
+- Name: Drifted Marketing (short name: Drifted). Legal entity: Drifted Marketing LLC, a United States company.
+- Founded: 2026, in Karachi, Pakistan. Founder: Umer Tariq, who runs every account.
+- Team: a small Gen-Z team, led by a Gen-Z founder, in Karachi. Hours: New York business hours, worked from Karachi.
+- Serves: brands in the United States and Pakistan.
+- Services: performance media (Meta and Google ads), creator growth and content, custom AI apps.
+- Price: Starter $2,000 a month; Standard $4,000 a month; Tailored (priced to the number). Advertising spend is separate, stays in the client's own account, and is never charged as a percentage.
+- First call: thirty minutes, no deck. Notice to leave: thirty days; the client keeps the accounts and the work.
+- Contact: umer@driftedmarketing.com · (346) 716-2948 · https://driftedmarketing.com/contact/
+- Instagram: https://instagram.com/drifted.marketing
+- Not to be confused with: Drift, the chat software company (part of Salesloft), or drifted.com, a motorsport publisher. Drifted Marketing is an agency in Karachi.
 
-- [Services](https://driftedmarketing.com/services): performance media (Meta and Google), creator growth and content, and AI product built for the brand rather than bought off a shelf. Sold together, under one fee.
-- [How we work](https://driftedmarketing.com/about): founder-led. The person in the pitch is the person doing the work. One number and one date go in the contract.
-- [Start a project](https://driftedmarketing.com/contact)
+## Services
 
-## Work — the figures, each named to its client
+- [Performance media](https://driftedmarketing.com/services/#performance-media): Paid media on Meta and Google, run by the people who pitched it. Creative, structure and spend in one loop, reported against one number.
+- [Creator growth](https://driftedmarketing.com/services/#creator-growth): Content and creator-led growth: volume with a spine, made for the stranger scrolling rather than the follower who already knows you.
+- [AI product](https://driftedmarketing.com/services/#ai-product): Custom AI tools built for a brand rather than bought off a shelf — how the tool earns is decided before it is built.
+- [All services](https://driftedmarketing.com/services/): sold together, one team, one monthly fee.
 
-Every number below is one we can produce the account for. Where a result has not been measured yet, the page says so rather than estimating.
+## Pricing
 
-### Frank Zoller Authentic History — https://driftedmarketing.com/work/zoller
+Drifted publishes its price: $2,000 a month for one discipline, $4,000 a month for the full content and findability loop, or a tailored fee for paid media at scale and AI builds. Advertising spend is separate, stays in your own account, and we never take a percentage of it. Full page: https://driftedmarketing.com/pricing/
 
-Now filled from photographs — 400+ hours off the client’s desk.
+### Starter — $2,000 a month
 
-- 400+ — Hours saved
-- 32,000 — Items in the reference corpus
-- 1,250 — Lots per auction, previously by hand
-- 21 — Dealer sites watched by Inventory Watch
-- 3 — Builds for this client, and counting
+One channel, one number, a brand testing whether any of this works.
 
-### Noted. — https://driftedmarketing.com/work/noted
+### Standard — $4,000 a month
 
-A merch brand built from a red pen and an annotation concept.
+A brand that wants the whole loop running — content, findability and counsel.
 
-- 3K — New followers per month
-- 115K — Followers at launch
-- 8 — Products, priced to margin
-- 7 mo — Consistent monthly revenue
+### Tailored — priced to the number
 
-### Ehsaan — https://driftedmarketing.com/work/ehsaan
+Paid media at scale, a product build, a shoot — or all three at once.
 
-A person-to-person marketplace app, brand system and launch campaign.
+## Work — every figure named to its client
 
-- 23 — Prompts to first build
-- 19 — Sections in the knowledge base
-- 4 — Disciplines in one contract
+Current clients: The Gallery and Frank Zoller Authentic History. Every number below is one we can produce the account for; where a result is not measured yet, the page says pending.
 
-### The Gallery — https://driftedmarketing.com/work/gallery
+### Frank Zoller Authentic History — https://driftedmarketing.com/work/zoller/
 
-A DM-first campaign for a personalised newborn brand.
+Current client. Frank Zoller Authentic History — Adam Lewis's militaria auction operation.
+Case study: an AI app that writes auction listings from photographs for Frank Zoller Authentic History — 1,250 lots per auction, 400+ hours off the desk.
 
-- 5.2–6× — Back for every $1 of ads, every campaign
-- 10 — Creatives in the campaign
-- DM — Where the sale closes
+- 400+ hours saved.
+- 1,250 lots per auction, previously typed by hand, now filled from photographs.
+- Trained on a reference corpus of 32,000 items.
+- Inventory Watch monitors 21 dealer sites for new listings.
+- Three builds for this client: the listing platform, Inventory Watch and the zollerhistory.com rebuild.
 
-### Legacy Blinds — https://driftedmarketing.com/work/blinds
+### Noted. — https://driftedmarketing.com/work/noted/
 
-A six-frame comparison carousel for a window-treatments brand.
+Past work. A creator's merch brand (@theonlycanadianbacon).
+Past work: a merch brand built for a creator with 115K followers — brand identity on a red-pen concept, an eight-product line priced to margin, a launch.
 
-- 6 — Frames in the carousel
-- 2 — Products compared
+- 115K followers at launch.
+- 3K new followers a month.
+- 8 products, priced to margin.
 
-### Seyr — https://driftedmarketing.com/work/seyr
+### Ehsaan — https://driftedmarketing.com/work/ehsaan/
 
-An ecommerce storefront you can open in a new tab right now.
+Client work. A person-to-person thrift marketplace app for Pakistan; in production.
+Case study: a person-to-person thrift marketplace app for Pakistan — the app, the brand system and the launch campaign, with a first build in 23 prompts.
 
-- Live — seyr.shop
+- 23 prompts to first build.
+- A 19-section knowledge base behind the build.
 
-### Multi-brand social — https://driftedmarketing.com/work/social
+### The Gallery — https://driftedmarketing.com/work/gallery/
 
-Strategy, production and client communication — two accounts run direct, two early freelance work.
+Current client. Personalised newborn brand, Pakistan (@thegallery.bytg).
+Meta ads case study: Instagram DM-first campaigns for a personalised newborn brand. $5.20–$6 back per $1 of ad spend, every campaign to July 2026.
 
-- 2.2M — Views in 90 days, 80% organic
-- 199,392 — Accounts reached, up 174.5%
-- 80K — Accounts reached in 30 days
-- $0.25 — Per landing page view — BamBam, early freelance work
+- $5.20–$6 back per $1 of ad spend, every campaign to July 2026.
+- Ten creatives in the campaign; the sale closes in Instagram DMs.
 
-## Journal
+### Legacy Blinds — https://driftedmarketing.com/work/blinds/
 
-The method, given away. Written by the founder.
+Client work. Paid social creative for a window-treatments brand.
+Case study: a six-frame comparison carousel for a window-treatments brand, opening on the price question buyers actually ask. Built for paid social.
 
-- [Custom AI tool, or off the shelf](https://driftedmarketing.com/blog/custom-ai-tool-or-off-the-shelf) — AI product, 2026-09-04. Three questions that settle the decision, an honest two-year cost comparison, and the reason buying wins more often than a studio will tell you.
-- [What a custom AI app for a brand really costs](https://driftedmarketing.com/blog/what-a-custom-ai-app-costs) — AI product, 2026-09-04. Why the same brief gets quoted at five thousand and at five hundred thousand, what actually moves the number, and the running costs nobody puts in the proposal.
-- [Your cost per thousand went up. Check these, in order.](https://driftedmarketing.com/blog/your-cost-per-thousand-went-up) — Performance media, 2026-09-04. A diagnostic order for a rising cost per thousand impressions, ending with the case where the right move is to do nothing.
-- [Why Meta and Shopify never agree](https://driftedmarketing.com/blog/why-meta-and-shopify-disagree) — Performance media, 2026-09-04. How to read two contradictory sales numbers without believing either one, and the monthly reconciliation that tells you which to trust.
-- [Hiring an offshore agency, objections answered](https://driftedmarketing.com/blog/hiring-an-offshore-agency) — How we work, 2026-09-04. The four real risks of hiring an agency in another country, how to test for each one before you sign, and when the answer is simply not to.
-- [Marketing contract red flags](https://driftedmarketing.com/blog/marketing-contract-red-flags) — How we work, 2026-09-04. Six clauses that decide what happens when the relationship ends, read one at a time, with the ones we refuse to use named.
-- [Signs your agency is coasting](https://driftedmarketing.com/blog/signs-your-agency-is-coasting) — How we work, 2026-09-04. Five tests that tell you whether the agency on your retainer is still working on your account or merely still invoicing for it.
-- [Thirteen questions to ask before you sign](https://driftedmarketing.com/blog/questions-to-ask-an-ads-agency) — How we work, 2026-09-04. The thirteen questions that would hurt us most to answer badly, each one answered for Drifted, including the two answers that should end the call.
-- [The minimum ad spend worth managing](https://driftedmarketing.com/blog/the-minimum-ad-spend-worth-managing) — Performance media, 2026-09-04. Why agencies have spend floors, the platform arithmetic underneath them, and what to do with your money on either side of the line.
-- [Agency, freelancer, or in-house](https://driftedmarketing.com/blog/agency-freelancer-or-in-house) — Performance media, 2026-09-04. The fully-loaded monthly cost of all three, including the management time nobody puts in the spreadsheet, and a rule for choosing.
-- [Is an ads agency worth it under ten thousand a month](https://driftedmarketing.com/blog/is-an-ads-agency-worth-it) — Performance media, 2026-09-04. The arithmetic that tells you whether a management fee can pay for itself yet — and the three cases where the honest answer is no.
-- [What a Meta ads agency actually costs](https://driftedmarketing.com/blog/what-a-meta-ads-agency-costs) — Performance media, 2026-09-04. The three ways agencies charge for Meta ads, what each model quietly hides, and the market bands to measure any quote against.
-- [DM-first selling, explained](https://driftedmarketing.com/blog/dm-first-selling-explained) — Performance media, 2026-08-21. Some products do not get bought. They get discussed into being bought — and selling those through a checkout is measuring the wrong door.
-- [How to brief an agency without getting robbed](https://driftedmarketing.com/blog/brief-an-agency-without-getting-robbed) — How we work, 2026-08-18. Five questions that separate an agency that will move your number from one that will bill you for workshops. Written by an agency.
-- [Reach beats followers](https://driftedmarketing.com/blog/reach-beats-followers) — Creator growth, 2026-08-14. The Poster Project has 811 followers and did 2.2M views in ninety days. Those two numbers in one sentence are the whole lesson.
-- [What AI-native delivery actually means](https://driftedmarketing.com/blog/what-ai-native-delivery-actually-means) — AI product, 2026-08-10. Not a chatbot on your website. A different shape of team, and a different set of things that are cheap.
-- [How to price a creator product line](https://driftedmarketing.com/blog/price-a-creator-product-line) — Creator growth, 2026-08-10. Margin first, design second. The table that decides whether a merch drop is a business or an expensive hobby.
-- [How to read an ad account in ten minutes](https://driftedmarketing.com/blog/read-an-ad-account-in-ten-minutes) — Performance media, 2026-08-10. The four screens that tell you whether money is working, and the vanity numbers that will waste your afternoon.
+- A six-frame comparison carousel; reach and sales not yet published.
 
-## Questions we get asked
+### Seyr — https://driftedmarketing.com/work/seyr/
+
+Client work. Ecommerce storefront design and build.
+Case study: an ecommerce storefront designed and built for Seyr — product pages, checkout path and brand, made to convert rather than to win awards.
+
+### Multi-brand social — https://driftedmarketing.com/work/social/
+
+Client work. Strategy, production and client communication across four brand accounts; two run directly, two early freelance work.
+Strategy, production and client communication across four brand accounts. The Poster Project reached 2.2M views in 90 days, 80% of it organic.
+
+- The Poster Project: 2.2M views in 90 days, 80% organic, from an account with 811 followers at the time.
+- The Poster Project: 199,392 accounts reached, up 174.5%.
+- The Poster Project: 80K accounts reached in 30 days.
+- BamBam NYC, early freelance work: $0.25 per landing page view.
+
+## How an engagement works
+
+1. A thirty-minute call, no deck. You bring the number you need to hit and the date; you get a yes or a no on the call.
+2. The whole plan on one page, with the target written into the contract.
+3. Work in week one. Numbers by week four, reported against the agreed number.
+4. A written report and a call every month. Thirty days' notice to leave; the accounts, pages and creative are yours throughout.
+
+## Questions buyers ask
+
+### What does a growth agency in Karachi do?
+
+Drifted is a growth agency for ads, content and AI apps, founded 2026 in Karachi and working New York hours. We run Meta and Google ads, make the content that feeds them, and build custom AI apps — one team and one monthly fee, with one number and one date written into the contract.
+
+### How much does a performance marketing agency cost?
+
+Drifted publishes its price: $2,000 a month for one discipline, $4,000 a month for the full content and findability loop, or a tailored fee for paid media at scale and AI builds. Advertising spend is separate, stays in your own account, and we never take a percentage of it.
+
+### Who runs Drifted?
+
+Umer Tariq, the founder, runs every account. Drifted is a growth agency for ads, content and AI apps, founded 2026 in Karachi and working New York hours — a small Gen-Z team, led by a Gen-Z founder. The person who pitches your work writes the strategy, sits the calls and ships it.
+
+### What is Drifted Marketing?
+
+Drifted Marketing is a growth agency for ads, content and AI apps, founded 2026 in Karachi and working New York hours. We run Meta and Google ads, produce the content and build custom AI apps for a published fee of $2,000 or $4,000 a month, with one agreed number and date in every contract.
 
 ### What does it actually cost?
 
-One monthly fee that covers performance, creative, build and counsel. We price it to your revenue target on the first call — out loud, with a number, before any contract exists. If the maths does not work for you, we will say so and point you somewhere cheaper.
+Two published monthly fees — $2,000 for one discipline, $4,000 for the full content and findability loop — or a tailored fee priced to your revenue target on the first call, out loud, before any contract exists. Advertising spend is separate. If the maths does not work for you, we will say so and point you somewhere cheaper.
 
 ### How fast until we see anything?
 
@@ -108,7 +135,7 @@ Work in week one. Numbers by week four. We publish the check-in cadence in the c
 
 ### How do we know it is working?
 
-Every figure we report names its client and carries a receipt. The Gallery gets $5.20–$6 back per $1 of ads, every campaign. That is published, not claimed — and where a number is not measured yet, the page says pending rather than guessing.
+Every figure we report names its client and carries a receipt. The Gallery gets $5.20–$6 back per $1 of ad spend, every campaign to July 2026. That is published, not claimed — and where a number is not measured yet, the page says pending rather than guessing.
 
 ### Is the AI work snake oil?
 
@@ -120,7 +147,7 @@ Thirty days’ notice. You keep everything we made — files, accounts, ad histo
 
 ### Are we too small for you?
 
-The Poster Project started from an 811-follower base and reached 2.2M views in ninety days, 80% of it organic. The Gallery is a family business. Small means the founder is in the room and decisions happen the same day — we actively prefer it.
+The Poster Project had 811 followers at the time and reached 2.2M views in ninety days, 80% of it organic. The Gallery is a family business. Small means the founder is in the room and decisions happen the same day — we actively prefer it.
 
 ### Who actually does the work?
 
@@ -130,8 +157,64 @@ The people in the studio photograph. There is no account layer and no handoff to
 
 Because we drifted from how agencies are supposed to run — the theatre, the bloat, the invented metrics — and kept only the craft. The name is the pitch; the site is the evidence.
 
+### Can a Karachi agency work New York hours?
+
+Yes — it is how we work. Drifted's team is in Karachi and works the New York business day, so you message during your day and hear back during your day. You never wait for Karachi to wake up, and the calls sit in your calendar, not ours.
+
+### Who builds AI apps for small businesses in Pakistan?
+
+We do. Drifted builds custom AI apps scoped to one business's real workload. Ehsaan, a person-to-person thrift marketplace app for Pakistan, reached its first build in 23 prompts; the listing platform we built for Frank Zoller Authentic History writes auction listings from photographs and has saved 400+ hours. How a tool earns is decided before any code is written.
+
+### Do you work with brands in the United States?
+
+Yes. Drifted Marketing LLC is a United States company, and the team keeps New York hours from Karachi, so a US brand gets a same-day partner rather than an overnight one. We work with brands in Pakistan too — The Gallery, a personalised newborn brand, is one of them.
+
+### What happens on the first call?
+
+Thirty minutes, no deck. You bring the number you need to hit and the date; we tell you on the call whether we can, what it would cost and what we would do first. If the answer is no, you hear that too, along with where we would go instead.
+
+## Journal — written by Umer Tariq
+
+- [Custom AI tool, or off the shelf](https://driftedmarketing.com/blog/custom-ai-tool-or-off-the-shelf/): AI product, 2026-09-04. Three questions that settle build versus buy for an AI tool, an honest two-year cost comparison, and why buying wins more often than studios admit.
+- [What a custom AI app for a brand really costs](https://driftedmarketing.com/blog/what-a-custom-ai-app-costs/): AI product, 2026-09-04. Why the same AI app brief gets quoted at five thousand and five hundred thousand, what actually moves the price, and the running costs proposals leave out.
+- [Your cost per thousand went up. Check these, in order.](https://driftedmarketing.com/blog/your-cost-per-thousand-went-up/): Performance media, 2026-09-04. A diagnostic order for a rising Meta ads cost per thousand impressions — market, audience, creative, account — ending with when to do nothing at all.
+- [Why Meta and Shopify never agree](https://driftedmarketing.com/blog/why-meta-and-shopify-disagree/): Performance media, 2026-09-04. Why Meta Ads Manager and Shopify report different sales, what attribution windows mean in plain English, and a monthly reconciliation to trust instead.
+- [Hiring an offshore agency, objections answered](https://driftedmarketing.com/blog/hiring-an-offshore-agency/): How we work, 2026-09-04. The four real risks of hiring a marketing agency in another country — time zones, turnover, voice, accountability — and how to test each before you sign.
+- [Marketing contract red flags](https://driftedmarketing.com/blog/marketing-contract-red-flags/): How we work, 2026-09-04. Six agency contract clauses that decide what happens when it ends — notice, ad account ownership, creative rights, auto-renewal, exclusivity, minimums.
+- [Signs your agency is coasting](https://driftedmarketing.com/blog/signs-your-agency-is-coasting/): How we work, 2026-09-04. Five tests that show whether the marketing agency on your retainer is still working on your account or merely still invoicing for it, and how to leave.
+- [Thirteen questions to ask before you sign](https://driftedmarketing.com/blog/questions-to-ask-an-ads-agency/): How we work, 2026-09-25. Thirteen questions to ask a marketing agency before signing, each answered for Drifted, including the two answers that should end the sales call.
+- [The minimum ad spend worth managing](https://driftedmarketing.com/blog/the-minimum-ad-spend-worth-managing/): Performance media, 2026-09-04. Why ads agencies set spend floors, the Meta learning-phase arithmetic underneath them, and what to do with your budget on either side of the line.
+- [Agency, freelancer, or in-house](https://driftedmarketing.com/blog/agency-freelancer-or-in-house/): Performance media, 2026-09-04. The fully-loaded monthly cost of a marketing agency, a freelancer and an in-house hire — including the management time nobody puts in the spreadsheet.
+- [Is an ads agency worth it under ten thousand a month](https://driftedmarketing.com/blog/is-an-ads-agency-worth-it/): Performance media, 2026-09-04. The arithmetic that tells you whether an ads agency's management fee can pay for itself yet — and the three cases where the honest answer is no.
+- [What a Meta ads agency actually costs](https://driftedmarketing.com/blog/what-a-meta-ads-agency-costs/): Performance media, 2026-09-04. The three ways agencies charge for Meta ads — flat retainer, percentage of spend, hybrid — what each quietly hides, and how to measure any quote you get.
+- [DM-first selling, explained](https://driftedmarketing.com/blog/dm-first-selling-explained/): Performance media, 2026-09-25. Some products get discussed into being bought. How DM-first selling on Instagram changes the ad creative, the optimisation and what you should measure.
+- [How to brief an agency without getting robbed](https://driftedmarketing.com/blog/brief-an-agency-without-getting-robbed/): How we work, 2026-08-18. Five questions that separate a marketing agency that will move your number from one that will bill you for workshops. Written by an agency, honestly.
+- [Reach beats followers](https://driftedmarketing.com/blog/reach-beats-followers/): Creator growth, 2026-09-25. The Poster Project had 811 followers at the time and reached 2.2M views in ninety days. What that says about making content for the stranger scrolling.
+- [What AI-native delivery actually means](https://driftedmarketing.com/blog/what-ai-native-delivery-actually-means/): AI product, 2026-08-10. Not a chatbot on your website: what an AI-native marketing agency does differently, what got cheap, what it does not fix, and how to tell who means it.
+- [How to price a creator product line](https://driftedmarketing.com/blog/price-a-creator-product-line/): Creator growth, 2026-08-10. Margin first, design second: the pricing table that decides whether a creator's merch drop is a real business or an expensive hobby, and how to fix it.
+- [How to read an ad account in ten minutes](https://driftedmarketing.com/blog/read-an-ad-account-in-ten-minutes/): Performance media, 2026-08-10. The four screens in a Meta ad account that tell you whether the money is working — return, customer cost, creative, landing page — and what to ignore.
+
+## Key pages
+
+- [Home](https://driftedmarketing.com/)
+- [Services](https://driftedmarketing.com/services/)
+- [Pricing](https://driftedmarketing.com/pricing/)
+- [Work — case studies](https://driftedmarketing.com/work/)
+- [Journal](https://driftedmarketing.com/blog/)
+- [FAQ](https://driftedmarketing.com/faq/)
+- [About the studio](https://driftedmarketing.com/about/)
+- [Umer Tariq, founder](https://driftedmarketing.com/about/umer/)
+- [Contact](https://driftedmarketing.com/contact/)
+
+## Optional
+
+- [llms-full.txt — everything on this site, including every journal piece in full](https://driftedmarketing.com/llms-full.txt)
+- [Sitemap](https://driftedmarketing.com/sitemap.xml)
+- [Journal RSS](https://driftedmarketing.com/blog/rss.xml)
+- [Work RSS](https://driftedmarketing.com/work/rss.xml)
+
 ## Things we will not say
 
-- No invented client, number, testimonial or case study. A figure that has not been measured is marked pending, in capitals, on the page.
+- No invented client, number, testimonial or case study. A figure that has not been measured is marked pending on the page.
 - No manufactured scarcity. No countdown, no closing seats.
-- No unexpanded acronyms. We write “every $1 of ads brought back $5.20–$6”, not a three-letter abbreviation.
+- No guaranteed results. Nobody who guarantees a result is telling you the truth.
