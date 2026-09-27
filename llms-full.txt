@@ -85,7 +85,7 @@ Current clients: The Gallery (Pakistan) — a personalised newborn brand; Meta a
 
 ### Frank Zoller Authentic History — https://driftedmarketing.com/work/zoller/
 
-Current client. Frank Zoller Authentic History — Adam Lewis's militaria auction operation.
+Current client. Frank Zoller Authentic History, a militaria auction operation.
 Case study: an AI app that writes auction listings from photographs for Frank Zoller Authentic History — 1,250 lots per auction, 400+ hours off the desk.
 
 - 400+ hours saved.
@@ -192,6 +192,7 @@ What we found: Reach beats followers. The Poster Project reached 199,392 account
 2. The whole plan on one page, with the target written into the contract.
 3. Work in week one. Numbers by week four, reported against the agreed number.
 4. A written report and a call every month. Thirty days' notice to leave; the accounts, pages and creative are yours throughout.
+The whole method, week by week, with the rules that do not change: https://driftedmarketing.com/process/
 
 ## Questions buyers ask
 
@@ -206,6 +207,14 @@ Drifted publishes its price: $2,000 a month for one discipline, $4,000 a month f
 ### Who runs Drifted?
 
 Umer Tariq, the founder, runs every account. Drifted is a growth agency for ads, content and AI apps, founded 2026 in Karachi and working New York hours — a small Gen-Z team, led by a Gen-Z founder. The person who pitches your work writes the strategy, sits the calls and ships it.
+
+### How does an engagement with a growth agency work?
+
+Drifted, a growth agency in Karachi working New York hours, runs every engagement the same way. A thirty-minute call sets the number and the date. The plan goes on one page and into the contract. Work is live in week three, and numbers are reported against the target by week four.
+
+### Can a Karachi agency run marketing for a US brand?
+
+Yes. Drifted is a growth agency in Karachi that works the New York business day, so a US brand messages during its day and hears back during its day. Fees are published in US dollars, ad spend stays in the brand's own account, and US clients include Frank Zoller Authentic History and the Gettysburg Museum of History.
 
 ### What is Drifted Marketing?
 
@@ -264,6 +273,8 @@ Thirty minutes, no deck. You bring the number you need to hit and the date; we t
 - [Home](https://driftedmarketing.com/)
 - [Services](https://driftedmarketing.com/services/)
 - [Pricing](https://driftedmarketing.com/pricing/)
+- [How we work — the first month, week by week](https://driftedmarketing.com/process/)
+- [For US brands — New York hours from Karachi](https://driftedmarketing.com/us-brands/)
 - [Work — case studies](https://driftedmarketing.com/work/)
 - [Journal](https://driftedmarketing.com/blog/)
 - [FAQ](https://driftedmarketing.com/faq/)
@@ -402,7 +413,7 @@ Our own auction work is the clearest example we have. The reference corpus behin
 
 Second, where your data lives. If it is in one clean export, you are days from a working prototype. If it is spread across a supplier portal, an inbox and somebody’s spreadsheet, the integration is the project and the model is a small part at the end. This is where most budgets actually go, and almost no proposal says so plainly.
 
-Third, whether other people log in. The moment a stranger has an account, you have acquired password resets, permissions, abuse handling, support and obligations about their data. It is a real threshold, not a feature. Ehsaan, the person-to-person marketplace we build for Suleman Farooqui, sits on the far side of it — a whole product on React, Vite, TypeScript and Supabase, where trust between two strangers is the actual thing being designed.
+Third, whether other people log in. The moment a stranger has an account, you have acquired password resets, permissions, abuse handling, support and obligations about their data. It is a real threshold, not a feature. Ehsaan, the person-to-person marketplace we are building, sits on the far side of it — a whole product on React, Vite, TypeScript and Supabase, where trust between two strangers is the actual thing being designed.
 
 Fourth, who owns it in six months. A build handed over with no documentation is cheaper on the invoice and considerably more expensive the first time it breaks. On Ehsaan the first build took 23 prompts, and then the work moved to a 19-section knowledge base so the product keeps its own rules as it grows. That knowledge base is a cost item that looks optional and is not.
 
@@ -866,7 +877,7 @@ Twelve. What number are we being held to, and what happens if we miss it? This i
 
 Thirteen. Which client does each figure in your deck belong to, and will they take a phone call about it? Any number an agency shows you should name its owner and survive that call.
 
-Our answer: every published Drifted figure names its client. Between $5.20 and $6 back for every $1 of ad spend, on every campaign to July 2026, belongs to The Gallery. 400+ hours saved belongs to Adam Lewis’s auction operation. Where we do not have a measured number yet, the page says so rather than rounding one into existence. We also do not guarantee a result, because nobody who guarantees a result is telling you the truth.
+Our answer: every published Drifted figure names its client. Between $5.20 and $6 back for every $1 of ad spend, on every campaign to July 2026, belongs to The Gallery. 400+ hours saved belongs to Frank Zoller Authentic History’s auction operation. Where we do not have a measured number yet, the page says so rather than rounding one into existence. We also do not guarantee a result, because nobody who guarantees a result is telling you the truth.
 
 ### What do bad answers sound like?
 
