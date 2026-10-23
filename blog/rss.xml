@@ -2,153 +2,329 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drifted Marketing — Paper trail</title>
-    <link>https://driftedmarketing.com/blog</link>
+    <link>https://driftedmarketing.com/blog/</link>
     <atom:link href="https://driftedmarketing.com/blog/rss.xml" rel="self" type="application/rss+xml"/>
     <description>How to read an ad account, how to price a creator product line, what AI-native delivery actually means. The method, given away.</description>
     <language>en</language>
     <item>
+      <title>AI search for a Karachi business</title>
+      <link>https://driftedmarketing.com/blog/ai-search-for-a-karachi-business/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/ai-search-for-a-karachi-business/</guid>
+      <description>Where a Karachi customer actually looks, why the Business Profile comes first, the one-name-one-address rule, the pages an assistant will quote, and what to do if you sell in DMs and take cash at the door.</description>
+      <category>How we work</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to brief a video editor</title>
+      <link>https://driftedmarketing.com/blog/how-to-brief-a-video-editor/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/how-to-brief-a-video-editor/</guid>
+      <description>One idea per beat, the hook, captions for the muted viewer, the cut process, the date, what a good brief contains and what a bad one does to the edit, written from the desk where we cut.</description>
+      <category>Creator growth</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What a website redesign costs</title>
+      <link>https://driftedmarketing.com/blog/what-a-website-redesign-costs/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-a-website-redesign-costs/</guid>
+      <description>The three things that set the price, what a redesign should be judged on, who keeps the code, and when the right answer is not to redesign at all. No figures, on purpose.</description>
+      <category>AI product</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why we publish our prices</title>
+      <link>https://driftedmarketing.com/blog/why-we-publish-our-prices/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/why-we-publish-our-prices/</guid>
+      <description>What hiding the fee costs the buyer, what a published number does to the first call, the two fees and the tailored tier, why ad spend is never a percentage, and what we give up by saying it.</description>
+      <category>How we work</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marketing a small museum</title>
+      <link>https://driftedmarketing.com/blog/marketing-a-small-museum/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/marketing-a-small-museum/</guid>
+      <description>The whole plan for a museum with a collection, a calendar and a staff of a few: the films, the event campaign, the event page that has to rank, the weekly rhythm, and what to count.</description>
+      <category>Creator growth</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Selling on Instagram in Pakistan</title>
+      <link>https://driftedmarketing.com/blog/selling-on-instagram-in-pakistan/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/selling-on-instagram-in-pakistan/</guid>
+      <description>The inbox is the checkout, cash on delivery is the payment, and the ad's only job is to start a conversation. The operator's version, with The Gallery's result.</description>
+      <category>Performance media</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writing auction lots from photographs</title>
+      <link>https://driftedmarketing.com/blog/writing-auction-lots-from-photographs/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/writing-auction-lots-from-photographs/</guid>
+      <description>The build in public: how an auction house that typed 1,250 lots by hand before every sale now fills them from photographs, and what it took to trust the machine.</description>
+      <category>AI product</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What email marketing should cost</title>
+      <link>https://driftedmarketing.com/blog/what-email-marketing-should-cost/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-email-marketing-should-cost/</guid>
+      <description>Flows versus campaigns, the platform's fee versus the agency's, two things to refuse outright, and where the two emails a month in our Standard tier fit.</description>
+      <category>Performance media</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How a small brand shows up in AI search</title>
+      <link>https://driftedmarketing.com/blog/how-a-small-brand-shows-up-in-ai-search/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/how-a-small-brand-shows-up-in-ai-search/</guid>
+      <description>The five things an answer engine needs before it will name a small business, in the order to do them, with this site as the worked example.</description>
+      <category>How we work</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What a Google Ads agency costs</title>
+      <link>https://driftedmarketing.com/blog/what-a-google-ads-agency-costs/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-a-google-ads-agency-costs/</guid>
+      <description>The three ways agencies charge for Google search, what each one pays them to do, where the money hides inside the account, and when Google is the wrong channel entirely.</description>
+      <category>Performance media</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Website speed, in plain English</title>
+      <link>https://driftedmarketing.com/blog/website-speed-in-plain-english/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/website-speed-in-plain-english/</guid>
+      <description>Why a slow page wastes ad money, the four things that make a site slow, what fast feels like to a visitor, and what we do about it on every build.</description>
+      <category>AI product</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The object is the content</title>
+      <link>https://driftedmarketing.com/blog/a-museums-social-media-the-object-is-the-content/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/a-museums-social-media-the-object-is-the-content/</guid>
+      <description>How a museum collection becomes a feed — the short films we make for the Gettysburg Museum of History, the October campaign, why the event needs its own page, and what to post every week.</description>
+      <category>Creator growth</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hiring an agency in Pakistan: what protects you</title>
+      <link>https://driftedmarketing.com/blog/hiring-an-agency-in-pakistan-the-questions-that-protect-you/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/hiring-an-agency-in-pakistan-the-questions-that-protect-you/</guid>
+      <description>Five questions that separate a good agency here from a bad one — who owns the ad account, where the money goes, the notice period, who you will talk to, and what a published fee tells you.</description>
+      <category>How we work</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The DM-first funnel: selling on Instagram in Pakistan</title>
+      <link>https://driftedmarketing.com/blog/the-dm-first-funnel-selling-on-instagram-in-pakistan/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/the-dm-first-funnel-selling-on-instagram-in-pakistan/</guid>
+      <description>Why the sale closes in the inbox here, what cash on delivery does to your numbers, the reply script that holds the order, and what to measure instead of likes.</description>
+      <category>Performance media</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Read your own Search Console in ten minutes</title>
+      <link>https://driftedmarketing.com/blog/read-your-own-search-console-in-ten-minutes/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/read-your-own-search-console-in-ten-minutes/</guid>
+      <description>Google’s free report tells you exactly how people find your site. Three screens are worth your time and the rest is noise — what a drop means, what to fix first, and when to ask for help.</description>
+      <category>How we work</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>An AI app that pays its rent</title>
+      <link>https://driftedmarketing.com/blog/what-an-ai-app-for-a-small-business-looks-like/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-an-ai-app-for-a-small-business-looks-like/</guid>
+      <description>Not a chatbot on the website. One narrow tool that removes one long job — what that looks like in practice, what it costs to own, and when buying beats building.</description>
+      <category>AI product</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shopify store or custom site?</title>
+      <link>https://driftedmarketing.com/blog/shopify-store-or-custom-site/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/shopify-store-or-custom-site/</guid>
+      <description>How to decide, why the checkout matters more than the award, when a custom build pays, what speed costs, and who keeps the code when it is done.</description>
+      <category>AI product</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Getting your brand cited by AI search</title>
+      <link>https://driftedmarketing.com/blog/how-to-get-your-brand-cited-by-ai-search/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/how-to-get-your-brand-cited-by-ai-search/</guid>
+      <description>What an answer engine reads, how to write a page it will quote, the summary file, entity consistency, why listicles stopped being cited, and what this site does itself.</description>
+      <category>How we work</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Short-form video when you have never filmed</title>
+      <link>https://driftedmarketing.com/blog/short-form-video-for-a-brand-that-has-never-filmed/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/short-form-video-for-a-brand-that-has-never-filmed/</guid>
+      <description>The object is the content, one idea per beat, captions for muted viewing, what a shoot day looks like, and what a month of eight videos comes to.</description>
+      <category>Creator growth</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta ads: the first thirty days</title>
+      <link>https://driftedmarketing.com/blog/meta-ads-the-first-thirty-days/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/meta-ads-the-first-thirty-days/</guid>
+      <description>What we do in each of the first four weeks of a Meta ads engagement, why we start with ten creatives, and what the numbers can and cannot tell you by week four.</description>
+      <category>Performance media</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Email marketing: the three emails that pay</title>
+      <link>https://driftedmarketing.com/blog/email-marketing-the-three-emails-that-pay/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/email-marketing-the-three-emails-that-pay/</guid>
+      <description>A welcome, an abandoned checkout and a monthly note do most of the work email can do, and the open rate is not how you will know.</description>
+      <category>Performance media</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why US brands hire a Karachi agency</title>
+      <link>https://driftedmarketing.com/blog/why-us-brands-hire-a-karachi-agency/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/why-us-brands-hire-a-karachi-agency/</guid>
+      <description>The hours, the published fee, the three things to check before you sign, and the ways offshore work goes wrong that you can see coming.</description>
+      <category>How we work</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Custom AI tool, or off the shelf</title>
-      <link>https://driftedmarketing.com/blog/custom-ai-tool-or-off-the-shelf</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/custom-ai-tool-or-off-the-shelf</guid>
+      <link>https://driftedmarketing.com/blog/custom-ai-tool-or-off-the-shelf/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/custom-ai-tool-or-off-the-shelf/</guid>
       <description>Three questions that settle the decision, an honest two-year cost comparison, and the reason buying wins more often than a studio will tell you.</description>
       <category>AI product</category>
       <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>What a custom AI app for a brand really costs</title>
-      <link>https://driftedmarketing.com/blog/what-a-custom-ai-app-costs</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-a-custom-ai-app-costs</guid>
+      <link>https://driftedmarketing.com/blog/what-a-custom-ai-app-costs/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-a-custom-ai-app-costs/</guid>
       <description>Why the same brief gets quoted at five thousand and at five hundred thousand, what actually moves the number, and the running costs nobody puts in the proposal.</description>
       <category>AI product</category>
-      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Your cost per thousand went up. Check these, in order.</title>
-      <link>https://driftedmarketing.com/blog/your-cost-per-thousand-went-up</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/your-cost-per-thousand-went-up</guid>
+      <link>https://driftedmarketing.com/blog/your-cost-per-thousand-went-up/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/your-cost-per-thousand-went-up/</guid>
       <description>A diagnostic order for a rising cost per thousand impressions, ending with the case where the right move is to do nothing.</description>
       <category>Performance media</category>
       <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Why Meta and Shopify never agree</title>
-      <link>https://driftedmarketing.com/blog/why-meta-and-shopify-disagree</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/why-meta-and-shopify-disagree</guid>
+      <link>https://driftedmarketing.com/blog/why-meta-and-shopify-disagree/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/why-meta-and-shopify-disagree/</guid>
       <description>How to read two contradictory sales numbers without believing either one, and the monthly reconciliation that tells you which to trust.</description>
       <category>Performance media</category>
-      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Hiring an offshore agency, objections answered</title>
-      <link>https://driftedmarketing.com/blog/hiring-an-offshore-agency</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/hiring-an-offshore-agency</guid>
+      <link>https://driftedmarketing.com/blog/hiring-an-offshore-agency/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/hiring-an-offshore-agency/</guid>
       <description>The four real risks of hiring an agency in another country, how to test for each one before you sign, and when the answer is simply not to.</description>
       <category>How we work</category>
       <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Marketing contract red flags</title>
-      <link>https://driftedmarketing.com/blog/marketing-contract-red-flags</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/marketing-contract-red-flags</guid>
+      <link>https://driftedmarketing.com/blog/marketing-contract-red-flags/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/marketing-contract-red-flags/</guid>
       <description>Six clauses that decide what happens when the relationship ends, read one at a time, with the ones we refuse to use named.</description>
       <category>How we work</category>
       <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Signs your agency is coasting</title>
-      <link>https://driftedmarketing.com/blog/signs-your-agency-is-coasting</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/signs-your-agency-is-coasting</guid>
+      <link>https://driftedmarketing.com/blog/signs-your-agency-is-coasting/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/signs-your-agency-is-coasting/</guid>
       <description>Five tests that tell you whether the agency on your retainer is still working on your account or merely still invoicing for it.</description>
       <category>How we work</category>
       <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Thirteen questions to ask before you sign</title>
-      <link>https://driftedmarketing.com/blog/questions-to-ask-an-ads-agency</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/questions-to-ask-an-ads-agency</guid>
+      <link>https://driftedmarketing.com/blog/questions-to-ask-an-ads-agency/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/questions-to-ask-an-ads-agency/</guid>
       <description>The thirteen questions that would hurt us most to answer badly, each one answered for Drifted, including the two answers that should end the call.</description>
       <category>How we work</category>
       <pubDate>Fri, 25 Sep 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>The minimum ad spend worth managing</title>
-      <link>https://driftedmarketing.com/blog/the-minimum-ad-spend-worth-managing</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/the-minimum-ad-spend-worth-managing</guid>
+      <link>https://driftedmarketing.com/blog/the-minimum-ad-spend-worth-managing/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/the-minimum-ad-spend-worth-managing/</guid>
       <description>Why agencies have spend floors, the platform arithmetic underneath them, and what to do with your money on either side of the line.</description>
       <category>Performance media</category>
-      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Agency, freelancer, or in-house</title>
-      <link>https://driftedmarketing.com/blog/agency-freelancer-or-in-house</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/agency-freelancer-or-in-house</guid>
+      <link>https://driftedmarketing.com/blog/agency-freelancer-or-in-house/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/agency-freelancer-or-in-house/</guid>
       <description>The fully-loaded monthly cost of all three, including the management time nobody puts in the spreadsheet, and a rule for choosing.</description>
       <category>Performance media</category>
-      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Is an ads agency worth it under ten thousand a month</title>
-      <link>https://driftedmarketing.com/blog/is-an-ads-agency-worth-it</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/is-an-ads-agency-worth-it</guid>
+      <link>https://driftedmarketing.com/blog/is-an-ads-agency-worth-it/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/is-an-ads-agency-worth-it/</guid>
       <description>The arithmetic that tells you whether a management fee can pay for itself yet — and the three cases where the honest answer is no.</description>
       <category>Performance media</category>
-      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>What a Meta ads agency actually costs</title>
-      <link>https://driftedmarketing.com/blog/what-a-meta-ads-agency-costs</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-a-meta-ads-agency-costs</guid>
+      <link>https://driftedmarketing.com/blog/what-a-meta-ads-agency-costs/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-a-meta-ads-agency-costs/</guid>
       <description>The three ways agencies charge for Meta ads, what each model quietly hides, and the market bands to measure any quote against.</description>
       <category>Performance media</category>
-      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DM-first selling, explained</title>
-      <link>https://driftedmarketing.com/blog/dm-first-selling-explained</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/dm-first-selling-explained</guid>
+      <link>https://driftedmarketing.com/blog/dm-first-selling-explained/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/dm-first-selling-explained/</guid>
       <description>Some products do not get bought. They get discussed into being bought — and selling those through a checkout is measuring the wrong door.</description>
       <category>Performance media</category>
       <pubDate>Fri, 25 Sep 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>How to brief an agency without getting robbed</title>
-      <link>https://driftedmarketing.com/blog/brief-an-agency-without-getting-robbed</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/brief-an-agency-without-getting-robbed</guid>
+      <link>https://driftedmarketing.com/blog/brief-an-agency-without-getting-robbed/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/brief-an-agency-without-getting-robbed/</guid>
       <description>Five questions that separate an agency that will move your number from one that will bill you for workshops. Written by an agency.</description>
       <category>How we work</category>
       <pubDate>Tue, 18 Aug 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Reach beats followers</title>
-      <link>https://driftedmarketing.com/blog/reach-beats-followers</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/reach-beats-followers</guid>
+      <link>https://driftedmarketing.com/blog/reach-beats-followers/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/reach-beats-followers/</guid>
       <description>The Poster Project had 811 followers at the time and did 2.2M views in ninety days. Those two numbers in one sentence are the whole lesson.</description>
       <category>Creator growth</category>
       <pubDate>Fri, 25 Sep 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>What AI-native delivery actually means</title>
-      <link>https://driftedmarketing.com/blog/what-ai-native-delivery-actually-means</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-ai-native-delivery-actually-means</guid>
+      <link>https://driftedmarketing.com/blog/what-ai-native-delivery-actually-means/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/what-ai-native-delivery-actually-means/</guid>
       <description>Not a chatbot on your website. A different shape of team, and a different set of things that are cheap.</description>
       <category>AI product</category>
       <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>How to price a creator product line</title>
-      <link>https://driftedmarketing.com/blog/price-a-creator-product-line</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/price-a-creator-product-line</guid>
+      <link>https://driftedmarketing.com/blog/price-a-creator-product-line/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/price-a-creator-product-line/</guid>
       <description>Margin first, design second. The table that decides whether a merch drop is a business or an expensive hobby.</description>
       <category>Creator growth</category>
       <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>How to read an ad account in ten minutes</title>
-      <link>https://driftedmarketing.com/blog/read-an-ad-account-in-ten-minutes</link>
-      <guid isPermaLink="true">https://driftedmarketing.com/blog/read-an-ad-account-in-ten-minutes</guid>
+      <link>https://driftedmarketing.com/blog/read-an-ad-account-in-ten-minutes/</link>
+      <guid isPermaLink="true">https://driftedmarketing.com/blog/read-an-ad-account-in-ten-minutes/</guid>
       <description>The four screens that tell you whether money is working, and the vanity numbers that will waste your afternoon.</description>
       <category>Performance media</category>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
