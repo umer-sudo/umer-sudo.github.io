@@ -313,6 +313,8 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - [The catalogue writes itself, almost](https://driftedmarketing.com/services/ai-listing-writer/) — Services · AI listing writer
 - [One page. One job.](https://driftedmarketing.com/services/landing-pages/) — Services · Landing pages
 - [A brand with a product behind it](https://driftedmarketing.com/services/brand-identity/) — Services · Brand identity
+- [Get found on Google Maps](https://driftedmarketing.com/services/local-seo/) — Services · Local search
+- [Shopify SEO for stores that sell](https://driftedmarketing.com/services/shopify-seo/) — Services · Shopify search
 - [The store, the ads, the content](https://driftedmarketing.com/for/shopify-brands/) — Who it is for · Shopify brands
 - [Turn your audience into a business](https://driftedmarketing.com/for/creators/) — Who it is for · Content creators
 - [The object is the content](https://driftedmarketing.com/for/museums/) — Who it is for · For museums
@@ -321,15 +323,18 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - [Marketing for businesses that sell in DMs](https://driftedmarketing.com/for/local-businesses-pakistan/) — Who it is for · Small business, Pakistan
 - [Nothing sells until it is described](https://driftedmarketing.com/for/collectibles-and-antique-dealers/) — Who it is for · Collectibles dealers
 - [Brand, app and launch, built together](https://driftedmarketing.com/for/apps-and-startups-pakistan/) — Who it is for · Apps and startups
+- [App development for US and European startups](https://driftedmarketing.com/for/us-startups/) — Who it is for · US and EU startups
+- [A website that sounds like you](https://driftedmarketing.com/for/coaches-and-healers/) — Who it is for · Coaches and healers
 - [A Karachi marketing agency that says the number](https://driftedmarketing.com/pakistan/marketing-agency-karachi/) — Pakistan · Karachi studio
 - [A digital marketing agency in Pakistan](https://driftedmarketing.com/pakistan/digital-marketing-agency-pakistan/) — Pakistan · Pakistan, worldwide
 - [Apps built in Karachi, priced to earn](https://driftedmarketing.com/pakistan/app-development-company-karachi/) — Pakistan · AI apps, Karachi
 - [Websites built in Karachi to convert](https://driftedmarketing.com/pakistan/website-development-karachi/) — Pakistan · Web, Karachi
 - [Facebook and Instagram ads that sell in Pakistan](https://driftedmarketing.com/pakistan/meta-ads-agency-pakistan/) — Pakistan · Meta ads, Pakistan
-- [Get found on Google in Pakistan](https://driftedmarketing.com/pakistan/seo-agency-pakistan/) — Pakistan · Search, Pakistan
+- [An SEO agency in Pakistan](https://driftedmarketing.com/pakistan/seo-agency-pakistan/) — Pakistan · SEO, Pakistan
 - [A Karachi social media agency measured by reach](https://driftedmarketing.com/pakistan/social-media-marketing-agency-karachi/) — Pakistan · Social, Karachi
 - [Ecommerce marketing for how Pakistan buys](https://driftedmarketing.com/pakistan/ecommerce-marketing-agency-pakistan/) — Pakistan · Ecommerce, Pakistan
 - [Google Ads for buyers who already search](https://driftedmarketing.com/pakistan/google-ads-agency-pakistan/) — Pakistan · Google Ads, Pakistan
+- [An SEO agency in Karachi, DHA Phase 8](https://driftedmarketing.com/pakistan/seo-agency-karachi/) — Pakistan · SEO, Karachi
 - [Agency or freelancer for your marketing](https://driftedmarketing.com/compare/agency-vs-freelancer/) — Compare · The comparison
 - [Offshore agency or a US agency](https://driftedmarketing.com/compare/offshore-vs-us-agency/) — Compare · The comparison
 - [An in-house marketer or an agency](https://driftedmarketing.com/compare/in-house-vs-agency/) — Compare · The comparison
@@ -339,6 +344,7 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - [Shopify or a custom storefront](https://driftedmarketing.com/compare/shopify-vs-custom-storefront/) — Compare · The comparison
 - [Video ads or static ads](https://driftedmarketing.com/compare/short-form-video-vs-static-ads/) — Compare · The comparison
 - [Instagram DMs or a checkout](https://driftedmarketing.com/compare/dm-first-vs-checkout-selling/) — Compare · The comparison
+- [SEO, AEO and GEO, compared plainly](https://driftedmarketing.com/compare/seo-vs-aeo-vs-geo/) — Compare · Search, compared
 - [The glossary](https://driftedmarketing.com/glossary/) — the terms a buyer searches first, in plain English, no acronyms: return on ad spend, cost per thousand impressions, cost per click, cost per acquisition, customer acquisition cost, lifetime value and more.
 - [Free tools](https://driftedmarketing.com/tools/) — calculators for the ad-spend floor, agency fee models and merch margins, plus printable checklists; no email required.
 
@@ -356,6 +362,187 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - No guaranteed results. Nobody who guarantees a result is telling you the truth.
 
 # The journal, in full — written by Umer Tariq
+
+## What a personal-brand website costs
+
+https://driftedmarketing.com/blog/what-a-personal-brand-website-costs/ · Creator growth · by Umer Tariq · published 2026-10-27
+
+What moves the price of a website for a coach, healer or creator, what you should own at the end, and the running costs nobody mentions in the quote.
+
+Quotes for a personal-brand website vary so widely that the numbers are close to useless on their own. What makes them comparable is knowing what drives the price and what you own when it is done. This piece names the drivers, so you can read any quote, ours included, line by line.
+
+**The short version.** The price is set by the number of pages, who writes the words, whether you take bookings or payments, and how custom the design is. The domain and hosting are running costs, and they must be in your name. Ask every quote what is included, what is not, and what you can change yourself afterwards.
+
+### What drives the cost of a personal-brand website?
+
+| Driver | Cheaper | Dearer |
+| --- | --- | --- |
+| Pages | A handful, one per offering | Many, with articles and events |
+| Words | You write them | Written for you from your material |
+| Bookings and payments | A contact form | A calendar, payments, courses or memberships |
+| Design | A good template, well set up | A custom look built for you |
+| Photography | Your own photographs | A shoot |
+
+### What are the running costs?
+
+- The domain, renewed every year.
+- Hosting, monthly or yearly, depending on the platform.
+- Any booking, payment or email tool, usually by subscription.
+- Changes you cannot make yourself, if the site was built without a way for you to edit it.
+
+### What should you own at the end?
+
+Everything: the domain, the hosting account, the site, the words and the photographs, in your name from the start. A site held in a designer's account is a site you rent. Ask before you pay who the domain is registered to.
+
+### How do we price it?
+
+Per build, under the Tailored tier on our pricing page, with the figure given before anything is built. Channeling with Emily, a site for a medium and healer in California, was quoted as one figure before work began, and is in final review. The studio is in Karachi and keeps New York hours, which suits clients in the United States, overlaps the afternoon for clients in the Netherlands and Europe, and puts us a short drive away for clients in Pakistan.
+
+### Do you need a website before you have an audience?
+
+You need one before the audience arrives, which can be sooner than you expect. The Poster Project, the founder's own brand, reached 2.2M views in 90 days from a small account, most of them organic. Reach comes before followers, and a visitor who arrives from a post that travelled needs somewhere to land.
+
+### When is a cheaper route better?
+
+When you are still testing what you offer. A site builder and an afternoon of writing will tell you whether people get in touch. Pay for a built site when the offerings are settled and the site is costing you clients by being unclear.
+
+## What a website for a coach or healer needs
+
+https://driftedmarketing.com/blog/website-for-a-coach-or-healer/ · Creator growth · by Umer Tariq · published 2026-10-27
+
+The pages, the words and the contact setup that turn a recommendation into a first session, for coaches, healers, mediums and anyone whose business is themselves.
+
+A coach or a healer is usually found by name. Someone hears about you from a friend, a talk or a post, and searches for you to check you are real and to see what you offer. The website's job is to answer that visitor quickly, in your own voice, and make the first contact easy. Everything else is optional.
+
+**The short version.** Four pages: who you help, what you offer, who you are, how to reach you. Write them in the words you use with clients. Give each offering its own page with what happens in a session. Use a simple contact form unless your diary is fixed. Answer the questions a first-time client is too shy to ask.
+
+### Which pages does a coach or healer need?
+
+| Page | What it must answer |
+| --- | --- |
+| Home | Who you help, with what, and how to start |
+| Each offering | What happens, how long it takes, online or in person, and how to ask |
+| About | How you came to this work, told plainly and truthfully |
+| Contact | One easy way to reach you, and when you reply |
+| Questions | What first-time clients wonder but rarely ask |
+
+### Should the site have online booking?
+
+Only if your diary is fixed enough to keep it honest. A practitioner who travels, or who prefers to speak to someone before booking them, is better served by a contact form and a prompt reply. Channeling with Emily, a website we built for a psychic medium and healer in California, uses a contact form rather than a booking calendar for exactly that reason. It is in final review.
+
+### How should the words be written?
+
+In your own voice, from your own material. Your bio, a recording of a talk, the way you explain a session to a nervous first-timer: these are better raw material than anything a template offers. Keep the claims to what you can stand behind. Say what a session involves and how clients describe feeling afterwards, rather than promising outcomes.
+
+### How do people find a coach or healer by search?
+
+Two ways. By name, which needs only a site that loads fast and says the same thing as your social profiles. And by question: what is a reading, what happens in a healing session, can it be done online. A short page answering each question in plain words is what both search engines and AI assistants quote.
+
+### What changes between the US, Europe and Pakistan?
+
+- In the United States, say plainly whether sessions are online, in person or both, and in which state.
+- In the Netherlands and the rest of the European Union, a contact form collects personal data, so publish a short privacy note saying what you keep and why.
+- In Pakistan, many clients will reach you on WhatsApp before they use a form, so put the number where they can find it.
+
+### When is hiring a studio the wrong call?
+
+When you are still finding out what you offer. A simple page on a site builder, written in your own words, is enough to test whether people book. Hire help when the offerings are settled and the site is what stands between a recommendation and a first session.
+
+## How to hire app developers for a startup
+
+https://driftedmarketing.com/blog/how-to-hire-app-developers-for-a-startup/ · AI product · by Umer Tariq · published 2026-10-27
+
+Freelancer, in-house or a studio, onshore or offshore: how to choose, what to put in the contract, and the questions that expose a bad fit before you pay for one.
+
+Most early startups do not need a development team. They need a working first version in front of real users, built so that whoever comes next can continue it. Hiring for that is a different job from hiring a team to maintain a product at scale, and most of the expensive mistakes come from confusing the two.
+
+**The short version.** Before a working first version, hire a small studio or one strong freelancer, not a team. Put the repository and every account in your name from the first day. Write the product's rules down before the screens. Ask to see a live build with the client named or described. Choose by how fast they answer and how plainly they scope, not by the length of the proposal.
+
+### Freelancer, in-house or studio?
+
+| Option | Good when | Risk |
+| --- | --- | --- |
+| One freelancer | The scope is small and you can review the code | One person is a single point of failure |
+| An in-house hire | The product works and needs a full-time owner | Slow to hire and costly to get wrong |
+| A studio | You need the product, the design and the launch together | Ownership and continuity must be written into the contract |
+
+### Does it matter where the developers are?
+
+Less than it used to, as long as the hours overlap and the contract is clear. A founder in the United States hiring offshore should ask what time the studio answers messages, not where it is. A founder in the Netherlands or elsewhere in Europe often finds a studio on New York hours overlaps the afternoon well. A founder in Pakistan has a strong local market and should hold it to the same contract terms as anyone abroad. Our own studio is in Karachi and keeps New York hours for this reason.
+
+### What should the contract say?
+
+- The repository, hosting, domains and model keys are created in your name, not transferred at the end.
+- A written scope for the first version, priced separately from the full build.
+- A knowledge base or specification that a new developer could continue from.
+- A notice period, and exactly what you keep when the work ends.
+- Who on their side writes the code, by name.
+
+### How fast can a first version be built?
+
+Faster than most proposals suggest, when the rules are written first. For ehsaan, a pre-loved fashion marketplace in Pakistan, the first build took 23 prompts with AI tooling, and the product now runs against a 19-section knowledge base that records every rule it follows. The tooling made the first version fast; the knowledge base is what lets the next developer continue it.
+
+### Questions that expose a bad fit
+
+1. Can I see a live build, and talk to the client?
+2. Whose name is the repository in today?
+3. What does the first version cost, and what does the full build cost?
+4. What happens to my product if you stop working with me?
+5. How will you tell me the scope is wrong?
+
+### When is a studio the wrong hire?
+
+When the product already works and needs one person to own it every day. At that point an in-house engineer who lives with the product is worth more than any studio, ours included. A studio is for getting to a working product, or for building the parts a small team does not have time for.
+
+## How to sell militaria online
+
+https://driftedmarketing.com/blog/how-to-sell-militaria-online/ · AI product · by Umer Tariq · published 2026-10-27
+
+Where to sell, how to write a listing a collector trusts, how to price from realised sales, and what changes between the US, the Netherlands and the rest of Europe.
+
+Militaria sells to the most exacting buyers in collecting. A collector knows the maker's marks, the period variations and the fakes better than most sellers do, and they buy on the description before they buy on the photograph. Selling online is less about finding a platform than about writing listings that survive that reader. We work with an auction house in the United States and a militaria shop in the Netherlands, and the lessons below come from both.
+
+**The short version.** Pick the channel by the value of the piece: auction for rare items, your own shop for steady stock, marketplaces only where their rules allow the category. Write every listing with the maker, the period, the marks, the condition and the provenance, in that order. Price from realised sales, not asking prices. Photograph the marks as carefully as the front. Then build a list of collectors you can write to directly.
+
+### Where should you sell militaria online?
+
+| Channel | Best for | Watch out for |
+| --- | --- | --- |
+| Specialist auction house | Rare and high-value pieces with a known market | Commission, consignment timelines, and the catalogue deadline |
+| Your own online shop | Steady stock sold between sales, repeat collectors | You bring the traffic; nobody else does |
+| General marketplaces | Lower-value pieces and wide reach | Restricted-item rules that remove listings without warning |
+| Collector forums and groups | Specialist items and trusted sellers | Trades on reputation; no buyer protection by default |
+
+Most dealers end up using two of these. An auction calendar sells the rare pieces at their best price; a shop of your own sells the rest between sales and keeps the collectors who found you at auction.
+
+### What makes a militaria listing trustworthy?
+
+Specific facts in a fixed order. A collector scans for the same things every time, and a listing that puts them where the eye expects them reads as a seller who knows the field.
+
+1. The item, the nation and the period, in the title.
+2. The maker and every mark, with a photograph of each.
+3. The condition, stated plainly, flaws first.
+4. The provenance: where it came from, and what paperwork goes with it.
+5. What you do not know, said outright. A collector trusts a seller who admits a gap more than one who fills it with guesses.
+
+### How do you price militaria?
+
+From what comparable pieces actually sold for, not what other sellers are asking. Asking prices on a marketplace tell you what people hope for; realised prices at auction tell you what collectors paid. If you have your own sales history, it is the best reference you own. The auction house we work with loaded its past items into the system that now drafts its listings, so every new lot is written and estimated against its own record.
+
+### How do you write listings faster without losing accuracy?
+
+Write from photographs and your own history, and review only what is uncertain. For the US auction house, every sale meant 1,250 lots typed by hand. We built a platform that reads the photographs, drafts each listing from a 32,000-item reference set and flags only the lots it is unsure of for a person to check. It went live for the auction of 16 August and has taken 400+ hours off the client's desk. For the shop in the Netherlands, an AI writer drafts each product listing and the dealer corrects and publishes it.
+
+### What changes between the US, the Netherlands and the rest of Europe?
+
+- In the United States, the collector market is large and auction-led, and most bidding platforms take a catalogue upload in their own template.
+- In the Netherlands and elsewhere in Europe, some countries restrict the public display or sale of certain symbols and insignia. Check the law where you sell and where you ship before you list.
+- Shipping out of the European Union, or into it from the United States, means customs paperwork. Say in the listing who pays duties.
+- Whatever the country, marketplaces apply their own restricted-item rules on top of the law, and they change them without notice.
+
+### When is hiring help the wrong call?
+
+When your stock is small enough to describe yourself in an evening. A writing system pays when the typing is the bottleneck: hundreds of lots a sale, or a back room of photographed stock waiting for words. A dealer with a dozen pieces a month should write them personally, build a list of collectors, and spend the money on better photographs.
 
 ## AI search for a Karachi business
 

@@ -190,6 +190,10 @@ Thirty minutes, no deck. You bring the number you need to hit and the date; we t
 
 ## Journal — written by Umer Tariq
 
+- [What a personal-brand website costs](https://driftedmarketing.com/blog/what-a-personal-brand-website-costs/): Creator growth, 2026-10-27. What moves the price of a website for a coach, healer or creator, what you should own when it is done, and the running costs a quote rarely mentions.
+- [What a website for a coach or healer needs](https://driftedmarketing.com/blog/website-for-a-coach-or-healer/): Creator growth, 2026-10-27. The pages, the words and the contact setup that turn a recommendation into a first session, for coaches, healers, mediums and personal brands.
+- [How to hire app developers for a startup](https://driftedmarketing.com/blog/how-to-hire-app-developers-for-a-startup/): AI product, 2026-10-27. Freelancer, in-house or studio, onshore or offshore: how a startup should hire app developers, what the contract must say, and the questions to ask first.
+- [How to sell militaria online](https://driftedmarketing.com/blog/how-to-sell-militaria-online/): AI product, 2026-10-27. Where to sell militaria online, how to write a listing a collector trusts, how to price from realised sales, and what differs in the US and in Europe.
 - [AI search for a Karachi business](https://driftedmarketing.com/blog/ai-search-for-a-karachi-business/): How we work, 2026-10-22. Fix the Google Business Profile first, keep one name and one address everywhere, and put the answers you give in DMs on pages an assistant can read.
 - [How to brief a video editor](https://driftedmarketing.com/blog/how-to-brief-a-video-editor/): Creator growth, 2026-10-22. One idea per beat, a hook in the first second, captions for the muted viewer, a publish date to cut back from, one reference, and two rounds of notes.
 - [What a website redesign costs](https://driftedmarketing.com/blog/what-a-website-redesign-costs/): AI product, 2026-10-22. What sets a redesign's price: kinds of page, systems to connect, who writes the words. Judge it on checkout, speed and findability, not the portfolio.
@@ -262,6 +266,8 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - [The catalogue writes itself, almost](https://driftedmarketing.com/services/ai-listing-writer/) — Services · AI listing writer
 - [One page. One job.](https://driftedmarketing.com/services/landing-pages/) — Services · Landing pages
 - [A brand with a product behind it](https://driftedmarketing.com/services/brand-identity/) — Services · Brand identity
+- [Get found on Google Maps](https://driftedmarketing.com/services/local-seo/) — Services · Local search
+- [Shopify SEO for stores that sell](https://driftedmarketing.com/services/shopify-seo/) — Services · Shopify search
 - [The store, the ads, the content](https://driftedmarketing.com/for/shopify-brands/) — Who it is for · Shopify brands
 - [Turn your audience into a business](https://driftedmarketing.com/for/creators/) — Who it is for · Content creators
 - [The object is the content](https://driftedmarketing.com/for/museums/) — Who it is for · For museums
@@ -270,15 +276,18 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - [Marketing for businesses that sell in DMs](https://driftedmarketing.com/for/local-businesses-pakistan/) — Who it is for · Small business, Pakistan
 - [Nothing sells until it is described](https://driftedmarketing.com/for/collectibles-and-antique-dealers/) — Who it is for · Collectibles dealers
 - [Brand, app and launch, built together](https://driftedmarketing.com/for/apps-and-startups-pakistan/) — Who it is for · Apps and startups
+- [App development for US and European startups](https://driftedmarketing.com/for/us-startups/) — Who it is for · US and EU startups
+- [A website that sounds like you](https://driftedmarketing.com/for/coaches-and-healers/) — Who it is for · Coaches and healers
 - [A Karachi marketing agency that says the number](https://driftedmarketing.com/pakistan/marketing-agency-karachi/) — Pakistan · Karachi studio
 - [A digital marketing agency in Pakistan](https://driftedmarketing.com/pakistan/digital-marketing-agency-pakistan/) — Pakistan · Pakistan, worldwide
 - [Apps built in Karachi, priced to earn](https://driftedmarketing.com/pakistan/app-development-company-karachi/) — Pakistan · AI apps, Karachi
 - [Websites built in Karachi to convert](https://driftedmarketing.com/pakistan/website-development-karachi/) — Pakistan · Web, Karachi
 - [Facebook and Instagram ads that sell in Pakistan](https://driftedmarketing.com/pakistan/meta-ads-agency-pakistan/) — Pakistan · Meta ads, Pakistan
-- [Get found on Google in Pakistan](https://driftedmarketing.com/pakistan/seo-agency-pakistan/) — Pakistan · Search, Pakistan
+- [An SEO agency in Pakistan](https://driftedmarketing.com/pakistan/seo-agency-pakistan/) — Pakistan · SEO, Pakistan
 - [A Karachi social media agency measured by reach](https://driftedmarketing.com/pakistan/social-media-marketing-agency-karachi/) — Pakistan · Social, Karachi
 - [Ecommerce marketing for how Pakistan buys](https://driftedmarketing.com/pakistan/ecommerce-marketing-agency-pakistan/) — Pakistan · Ecommerce, Pakistan
 - [Google Ads for buyers who already search](https://driftedmarketing.com/pakistan/google-ads-agency-pakistan/) — Pakistan · Google Ads, Pakistan
+- [An SEO agency in Karachi, DHA Phase 8](https://driftedmarketing.com/pakistan/seo-agency-karachi/) — Pakistan · SEO, Karachi
 - [Agency or freelancer for your marketing](https://driftedmarketing.com/compare/agency-vs-freelancer/) — Compare · The comparison
 - [Offshore agency or a US agency](https://driftedmarketing.com/compare/offshore-vs-us-agency/) — Compare · The comparison
 - [An in-house marketer or an agency](https://driftedmarketing.com/compare/in-house-vs-agency/) — Compare · The comparison
@@ -288,6 +297,7 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - [Shopify or a custom storefront](https://driftedmarketing.com/compare/shopify-vs-custom-storefront/) — Compare · The comparison
 - [Video ads or static ads](https://driftedmarketing.com/compare/short-form-video-vs-static-ads/) — Compare · The comparison
 - [Instagram DMs or a checkout](https://driftedmarketing.com/compare/dm-first-vs-checkout-selling/) — Compare · The comparison
+- [SEO, AEO and GEO, compared plainly](https://driftedmarketing.com/compare/seo-vs-aeo-vs-geo/) — Compare · Search, compared
 - [The glossary](https://driftedmarketing.com/glossary/) — the terms a buyer searches first, in plain English, no acronyms: return on ad spend, cost per thousand impressions, cost per click, cost per acquisition, customer acquisition cost, lifetime value and more.
 - [Free tools](https://driftedmarketing.com/tools/) — calculators for the ad-spend floor, agency fee models and merch margins, plus printable checklists; no email required.
 
