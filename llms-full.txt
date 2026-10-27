@@ -561,7 +561,7 @@ In four places, and they are not the four an agency usually optimises.
 - Maps and the Business Profile. For anything with a door, a cafe, a clinic, a tailor, a showroom, the search happens on the map and the decision is made on the listing: open now, how far, what it looks like, what people said.
 - Instagram search and the profile. For anything sold by post or by rider, the customer searches the product, lands on a profile, and judges it on the bio, the highlights and the pinned post before sending a message.
 - WhatsApp. The forward from a friend is the most trusted search result in the city, and it usually carries a screenshot of one of the above.
-- The assistants. ChatGPT, Google's AI answers and the rest, asked in English or in Roman Urdu: where do I get this, who does that in Clifton, is this shop genuine. The answer names a handful of businesses, and it names them from what it can read.
+- The assistants. ChatGPT, Google's AI answers and the rest, asked: where do I get this, who does that in Clifton, is this shop genuine. The answer names a handful of businesses, and it names them from what it can read.
 
 The first three a Karachi business already knows about. The fourth is new, and it is built on the same material as the first: whatever is written down about you, consistently, somewhere a machine can read it.
 
