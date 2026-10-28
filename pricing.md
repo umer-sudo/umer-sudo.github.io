@@ -16,26 +16,6 @@ Includes:
 Not included:
 - Advertising spend, which is yours and stays in your account
 
-## Standard — $4,000 a month
-
-A brand that wants the whole loop running — content, findability and counsel.
-
-Includes:
-- Eight short videos and six carousels a month
-- Four static posters a month
-- Eight page optimisations a month
-- Two researched articles a month, eight hundred to twelve hundred words each
-- Answer-engine entries, so the brand is quotable to an assistant
-- Google Business Profile maintained, with four posts a month
-- Two email campaigns a month
-- A visibility report, a written monthly report and a monthly call
-- Four consultation hours a month
-
-Not included:
-- Paid advertising management and advertising spend
-- On-site photography and videography
-- Website development
-
 ## Tailored — priced to the number
 
 Paid media at scale, a product build, a shoot — or all three at once.

@@ -16,7 +16,7 @@ Drifted Marketing (also called Drifted) is a growth agency founded in 2026 by Um
 - Services: performance media (Meta and Google ads), creator growth and content, custom AI apps.
 - Service pages: [Meta ads](https://driftedmarketing.com/services/meta-ads/) · [Google ads](https://driftedmarketing.com/services/google-ads/) · [Short-form video](https://driftedmarketing.com/services/short-form-video/) · [Social content](https://driftedmarketing.com/services/social-content/) · [Email marketing](https://driftedmarketing.com/services/email-marketing/) · [Search visibility](https://driftedmarketing.com/services/search-visibility/) · [AI search](https://driftedmarketing.com/services/ai-search/) · [AI apps](https://driftedmarketing.com/services/ai-apps/) · [App development](https://driftedmarketing.com/services/app-development/) · [Website development](https://driftedmarketing.com/services/website-development/) · [Shopify stores](https://driftedmarketing.com/services/shopify-stores/) · [AI listing writer](https://driftedmarketing.com/services/ai-listing-writer/) · [Landing pages](https://driftedmarketing.com/services/landing-pages/) · [Brand identity](https://driftedmarketing.com/services/brand-identity/) · [Local search](https://driftedmarketing.com/services/local-seo/) · [Shopify search](https://driftedmarketing.com/services/shopify-seo/)
 - Who it works with: [Shopify brands](https://driftedmarketing.com/for/shopify-brands/) · [Content creators](https://driftedmarketing.com/for/creators/) · [For museums](https://driftedmarketing.com/for/museums/) · [Auction houses](https://driftedmarketing.com/for/auction-houses/) · [Restaurants and cafes](https://driftedmarketing.com/for/restaurants-and-cafes/) · [Small business, Pakistan](https://driftedmarketing.com/for/local-businesses-pakistan/) · [Collectibles dealers](https://driftedmarketing.com/for/collectibles-and-antique-dealers/) · [Apps and startups](https://driftedmarketing.com/for/apps-and-startups-pakistan/) · [US and EU startups](https://driftedmarketing.com/for/us-startups/) · [Coaches and healers](https://driftedmarketing.com/for/coaches-and-healers/)
-- Price: Starter $2,000 a month; Standard $4,000 a month; Tailored (priced to the number). Advertising spend is separate, stays in the client's own account, and is never charged as a percentage.
+- Price: Starter $2,000 a month; Tailored (priced to the number). Advertising spend is separate, stays in the client's own account, and is never charged as a percentage.
 - First call: thirty minutes, no deck. Notice to leave: thirty days; the client keeps the accounts and the work.
 - Contact: umer@driftedmarketing.com · (346) 716-2948 · https://driftedmarketing.com/contact/
 - Instagram: https://instagram.com/drifted.marketing
@@ -32,7 +32,7 @@ Drifted Marketing (also called Drifted) is a growth agency founded in 2026 by Um
 
 ## Pricing
 
-Drifted publishes its price: $2,000 a month for one discipline, $4,000 a month for the full content and findability loop, or a tailored fee for paid media at scale and AI builds. Advertising spend is separate, stays in your own account, and we never take a percentage of it. Full page: https://driftedmarketing.com/pricing/
+Drifted publishes its starting price: from $2,000 a month for one discipline, with larger scopes, paid media at scale and AI builds priced to your number on the first call. Advertising spend is separate, stays in your own account, and we never take a percentage of it. Full page: https://driftedmarketing.com/pricing/
 
 ### Starter — $2,000 a month
 
@@ -47,26 +47,6 @@ Includes:
 
 Excludes:
 - Advertising spend, which is yours and stays in your account
-
-### Standard — $4,000 a month
-
-A brand that wants the whole loop running — content, findability and counsel.
-
-Includes:
-- Eight short videos and six carousels a month
-- Four static posters a month
-- Eight page optimisations a month
-- Two researched articles a month, eight hundred to twelve hundred words each
-- Answer-engine entries, so the brand is quotable to an assistant
-- Google Business Profile maintained, with four posts a month
-- Two email campaigns a month
-- A visibility report, a written monthly report and a monthly call
-- Four consultation hours a month
-
-Excludes:
-- Paid advertising management and advertising spend
-- On-site photography and videography
-- Website development
 
 ### Tailored — priced to the number
 
@@ -131,13 +111,13 @@ What we found: The audience was already there. Nothing had ever been sold to it 
 ### Ehsaan — https://driftedmarketing.com/work/ehsaan/
 
 Client work. A person-to-person thrift marketplace app for Pakistan; in production.
-Case study: a person-to-person thrift marketplace app for Pakistan — the app, the brand system and the launch campaign, with a first build in 23 prompts.
+Case study: a person-to-person thrift marketplace app for Pakistan — the app, brand system and launch, from first build to a 19-section knowledge base.
 
-- 23 prompts to first build.
+- Built in React, Vite, TypeScript and Supabase.
 - A 19-section knowledge base behind the build.
 
 Second-hand clothing in Pakistan moved through comment sections, WhatsApp groups and DM negotiations. No listings, no search, no trust layer, nothing built for the people actually using it.
-- Twenty-three prompts to first build: React, Vite, TypeScript and Supabase through Lovable, then moved to Claude Code against a nineteen-section knowledge base so the product keeps its own rules as it grows.
+- From first build to a written knowledge base: React, Vite, TypeScript and Supabase through Lovable, then moved to Claude Code against a nineteen-section knowledge base so the product keeps its own rules as it grows.
 - A Gen-Z-native brand: Identity, type system and product design built for the audience that already trades this way — fast, visual, unembarrassed about second-hand.
 - The launch system: Social content, video and launch assets produced alongside the build, so the product and the campaign ship as one thing.
 
@@ -206,6 +186,11 @@ Four brands, small follower counts, and a category where reach is normally bough
 
 What we found: Reach beats followers. The Poster Project reached 199,392 accounts in 90 days — up 174.5% — from what was then an 811-follower base.
 
+### Oorlogsspullen — https://driftedmarketing.com/work/oorlogsspullen/
+
+Oorlogsspullen: an AI Listing Writer for a Dutch Shop.
+A Write with AI button inside a Dutch militaria shop's WooCommerce admin: seven fields per item in Dutch and English, drafted from photos, checked by a person.
+
 ## How an engagement works
 
 1. A thirty-minute call, no deck. You bring the number you need to hit and the date; you get a yes or a no on the call.
@@ -230,7 +215,7 @@ Drifted is a growth agency for ads, content and AI apps, founded 2026 in Karachi
 
 ### How much does a performance marketing agency cost?
 
-Drifted publishes its price: $2,000 a month for one discipline, $4,000 a month for the full content and findability loop, or a tailored fee for paid media at scale and AI builds. Advertising spend is separate, stays in your own account, and we never take a percentage of it.
+Drifted publishes its starting price: from $2,000 a month for one discipline, with larger scopes, paid media at scale and AI builds priced to your number on the first call. Advertising spend is separate, stays in your own account, and we never take a percentage of it.
 
 ### Who runs Drifted?
 
@@ -250,7 +235,7 @@ Drifted Marketing built Housefly to run its own studio. Most of the team works b
 
 ### What does it actually cost?
 
-Two published monthly fees — $2,000 for one discipline, $4,000 for the full content and findability loop — or a tailored fee priced to your revenue target on the first call, out loud, before any contract exists. Advertising spend is separate. If the maths does not work for you, we will say so and point you somewhere cheaper.
+A published monthly fee from $2,000 for one discipline, with larger scopes priced to your revenue target on the first call, out loud, before any contract exists. Advertising spend is separate. If the maths does not work for you, we will say so and point you somewhere cheaper.
 
 ### How fast until we see anything?
 
@@ -286,7 +271,7 @@ Yes — it is how we work. Drifted's team is in Karachi and works the New York b
 
 ### Do you build AI apps for small businesses in Pakistan?
 
-We do. Drifted builds custom AI apps scoped to one business's real workload. Ehsaan, a person-to-person thrift marketplace app for Pakistan, reached its first build in 23 prompts; the listing platform we built for Frank Zoller Authentic History writes auction listings from photographs and has saved 400+ hours. How a tool earns is decided before any code is written.
+We do. Drifted builds custom AI apps scoped to one business's real workload. Ehsaan, a person-to-person thrift marketplace app for Pakistan, went from a first build to a 19-section knowledge base; the listing platform we built for Frank Zoller Authentic History writes auction listings from photographs and has saved 400+ hours. How a tool earns is decided before any code is written.
 
 ### Do you work with brands in the United States?
 
@@ -516,7 +501,7 @@ More than the rate. A team that sleeps through your working day turns every ques
 
 ### How do we price a build?
 
-Per build, under our Tailored tier, to the number the app is meant to produce, because a marketplace with payments and trust features is not the same project as a booking tool for one clinic. For ehsaan, a person-to-person marketplace app for Pakistan, we wrote a 19-section knowledge base before building and reached the first build in 23 prompts. The revenue model is written before the first screen, and the client keeps the code.
+Per build, under our Tailored tier, to the number the app is meant to produce, because a marketplace with payments and trust features is not the same project as a booking tool for one clinic. For ehsaan, a person-to-person marketplace app for Pakistan, we wrote a 19-section knowledge base before building and then reached the first build. The revenue model is written before the first screen, and the client keeps the code.
 
 ### When is offshore the wrong call?
 
@@ -904,7 +889,7 @@ Less than it used to, as long as the hours overlap and the contract is clear. A 
 
 ### How fast can a first version be built?
 
-Faster than most proposals suggest, when the rules are written first. For ehsaan, a pre-loved fashion marketplace in Pakistan, the first build took 23 prompts with AI tooling, and the product now runs against a 19-section knowledge base that records every rule it follows. The tooling made the first version fast; the knowledge base is what lets the next developer continue it.
+Faster than most proposals suggest, when the rules are written first. For ehsaan, a pre-loved fashion marketplace in Pakistan, the first build used AI tooling, and the product now runs against a 19-section knowledge base that records every rule it follows. The tooling made the first version fast; the knowledge base is what lets the next developer continue it.
 
 ### Questions that expose a bad fit
 
@@ -2667,7 +2652,7 @@ Second, where your data lives. If it is in one clean export, you are days from a
 
 Third, whether other people log in. The moment a stranger has an account, you have acquired password resets, permissions, abuse handling, support and obligations about their data. It is a real threshold, not a feature. Ehsaan, the person-to-person marketplace we are building, sits on the far side of it — a whole product on React, Vite, TypeScript and Supabase, where trust between two strangers is the actual thing being designed.
 
-Fourth, who owns it in six months. A build handed over with no documentation is cheaper on the invoice and considerably more expensive the first time it breaks. On Ehsaan the first build took 23 prompts, and then the work moved to a 19-section knowledge base so the product keeps its own rules as it grows. That knowledge base is a cost item that looks optional and is not.
+Fourth, who owns it in six months. A build handed over with no documentation is cheaper on the invoice and considerably more expensive the first time it breaks. On Ehsaan the first build came first, and then the work moved to a 19-section knowledge base so the product keeps its own rules as it grows. That knowledge base is a cost item that looks optional and is not.
 
 ### What scope fits a small budget?
 
