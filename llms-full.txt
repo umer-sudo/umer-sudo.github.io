@@ -2,6 +2,10 @@
 
 > Drifted — a growth agency for ads, content and AI apps, founded 2026, Karachi, working New York hours. We run Meta and Google ads, make the content that feeds them and build custom AI apps, for a published monthly fee, with one number and one date written into every contract.
 
+## Drifted Marketing in one paragraph
+
+Drifted Marketing (also called Drifted) is a growth agency founded in 2026 by Umer Tariq, with its studio at 111-C, Murtaza Commercial, DHA Phase 8, Karachi, Pakistan. The team works New York business hours from Karachi, for brands in the United States, the Netherlands, Australia and Pakistan. It runs Meta and Google ads, makes the short-form video and social content that feeds them, does search work for Google, Google Maps and AI assistants, and builds websites, Shopify stores and custom AI apps. Its monthly fees are published, advertising spend stays in the client's own account, and every contract names one number and one date. It is not Drift, the chat software company, and not drifted.com, the motorsport publisher.
+
 ## Key facts
 
 - Name: Drifted Marketing (short name: Drifted). Legal entity: a sole proprietorship registered in Pakistan; there is no US company.
@@ -10,6 +14,8 @@
 - Team: one studio in Karachi, led by the founder: Umer Tariq (Founder), Zayan (Head of Operations), Aahan (Head of Creative), Hamza (Business Development), Sana (Creative Strategist), Maham (Art Director), Khizer (Video Editor), Ali (Animator and Video Editor), Raid (Business Development). Hours: New York business hours, worked from Karachi.
 - Serves: brands in the United States, the Netherlands, Australia and Pakistan.
 - Services: performance media (Meta and Google ads), creator growth and content, custom AI apps.
+- Service pages: [Meta ads](https://driftedmarketing.com/services/meta-ads/) · [Google ads](https://driftedmarketing.com/services/google-ads/) · [Short-form video](https://driftedmarketing.com/services/short-form-video/) · [Social content](https://driftedmarketing.com/services/social-content/) · [Email marketing](https://driftedmarketing.com/services/email-marketing/) · [Search visibility](https://driftedmarketing.com/services/search-visibility/) · [AI search](https://driftedmarketing.com/services/ai-search/) · [AI apps](https://driftedmarketing.com/services/ai-apps/) · [App development](https://driftedmarketing.com/services/app-development/) · [Website development](https://driftedmarketing.com/services/website-development/) · [Shopify stores](https://driftedmarketing.com/services/shopify-stores/) · [AI listing writer](https://driftedmarketing.com/services/ai-listing-writer/) · [Landing pages](https://driftedmarketing.com/services/landing-pages/) · [Brand identity](https://driftedmarketing.com/services/brand-identity/) · [Local search](https://driftedmarketing.com/services/local-seo/) · [Shopify search](https://driftedmarketing.com/services/shopify-seo/)
+- Who it works with: [Shopify brands](https://driftedmarketing.com/for/shopify-brands/) · [Content creators](https://driftedmarketing.com/for/creators/) · [For museums](https://driftedmarketing.com/for/museums/) · [Auction houses](https://driftedmarketing.com/for/auction-houses/) · [Restaurants and cafes](https://driftedmarketing.com/for/restaurants-and-cafes/) · [Small business, Pakistan](https://driftedmarketing.com/for/local-businesses-pakistan/) · [Collectibles dealers](https://driftedmarketing.com/for/collectibles-and-antique-dealers/) · [Apps and startups](https://driftedmarketing.com/for/apps-and-startups-pakistan/) · [US and EU startups](https://driftedmarketing.com/for/us-startups/) · [Coaches and healers](https://driftedmarketing.com/for/coaches-and-healers/)
 - Price: Starter $2,000 a month; Standard $4,000 a month; Tailored (priced to the number). Advertising spend is separate, stays in the client's own account, and is never charged as a percentage.
 - First call: thirty minutes, no deck. Notice to leave: thirty days; the client keeps the accounts and the work.
 - Contact: umer@driftedmarketing.com · (346) 716-2948 · https://driftedmarketing.com/contact/
@@ -210,7 +216,7 @@ The whole method, week by week, with the rules that do not change: https://drift
 
 ## Housefly — the operating system Drifted built to run the studio
 
-Housefly is the multi-agent AI system Umer Tariq built, on his own, to run Drifted Marketing. Every teammate works beside an AI agent of their own that keeps its own memory and learns how that person works; the agents pass notes and offer tasks through a shared hive, where a note is never an order; and scheduled jobs run overnight on the studio's own machine so the work is waiting in the morning. It writes and tests the studio's own software. It multiplies the team rather than replacing it: every action that would write to a client's live account is proposed, armed with a single-use code and approved by a person, a rejection is remembered, and credentials stay out of the agent's reach. It is being prepared for a public release; there is no date. https://driftedmarketing.com/housefly/
+Housefly is the multi-agent AI system Umer Tariq built, on his own, to run Drifted Marketing. Most of the team works beside an AI agent of their own that keeps its own memory and learns how that person works; the agents pass notes and offer tasks through a shared hive, where a note is never an order; and scheduled jobs run overnight on the studio's own machine so the work is waiting in the morning. It writes and tests the studio's own software. It multiplies the team rather than replacing it: every action that would write to a client's live account is proposed, armed with a single-use code and approved by a person, a rejection is remembered, and credentials stay out of the agent's reach. It is being prepared for a public release; there is no date. https://driftedmarketing.com/housefly/
 
 ## Questions buyers ask
 
@@ -240,7 +246,7 @@ Yes. Drifted is a growth agency in Karachi that works the New York business day,
 
 ### What is Housefly by Drifted Marketing?
 
-Drifted Marketing built Housefly to run its own studio. Every teammate works beside an AI agent that keeps its own memory, the agents trade notes through a shared hive, overnight jobs run on the studio’s own machine, and anything touching a client account waits for a human yes with a single-use code.
+Drifted Marketing built Housefly to run its own studio. Most of the team works beside an AI agent that keeps its own memory, the agents trade notes through a shared hive, overnight jobs run on the studio’s own machine, and anything touching a client account waits for a human yes with a single-use code.
 
 ### What does it actually cost?
 
@@ -372,6 +378,298 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 
 # The journal, in full — written by Umer Tariq
 
+## Shopify SEO: the fixes that actually matter for a small store
+
+https://driftedmarketing.com/blog/shopify-seo-the-fixes-that-matter/ · Performance media · by Umer Tariq · published 2026-10-28
+
+What Shopify already does for search, the handful of settings and pages it leaves to you, and the app habits that quietly slow a store down.
+
+Shopify does more for search out of the box than most store owners realise, and that is part of the problem: it is easy to assume it does everything. The stores that never appear on Google usually have the same handful of gaps, none of them technical, all of them fixable in an afternoon each.
+
+**The short version.** Shopify already builds the sitemap, the robots file and canonical links for you. What it leaves to you is the words: a unique title and description for every product and collection, product descriptions written for a buyer rather than copied from a supplier, image alt text, collection pages with a paragraph of real copy, and fewer apps. Do those, connect Search Console, and most small stores are ahead of their competitors.
+
+### What does Shopify handle on its own?
+
+- A sitemap of products, collections, pages and blog posts, kept up to date at the store's own address.
+- A robots file that keeps the cart, checkout and account pages out of search.
+- Canonical links, so a product reached through several collections counts as one page.
+- Basic structured data in most current themes, so Google can read price and availability.
+
+### What does it leave to you?
+
+| Fix | Where in Shopify | Why it matters |
+| --- | --- | --- |
+| Product titles and descriptions for search | Each product's search engine listing | Shopify fills them from the product name and first lines, which rarely match what buyers type |
+| Original product descriptions | The product page | Supplier copy appears on hundreds of stores; Google shows one |
+| Image alt text | Each product image | Image search, and a description for anyone using a screen reader |
+| Collection page copy | Each collection | A grid of products with no words gives Google nothing to rank |
+| Clean handles | The URL field | Short, readable addresses, set before launch, not changed after |
+| Redirects | Navigation, URL redirects | When a product is deleted, its address should point somewhere useful |
+
+### Why are collection pages the biggest opportunity?
+
+Because buyers search for categories far more often than for a single product: "linen bedding", "newborn gift set", "leather wallet for men". The page that should rank for those is a collection. Give each one a clear title, a short paragraph at the top saying what is in it and who it suits, and a few answered questions at the bottom. That turns a grid into a page Google can understand.
+
+### How do apps hurt Shopify SEO?
+
+Each app tends to add its own scripts to every page, and an uninstalled app often leaves its code behind in the theme. The result is a slower store, and speed on a phone is both a ranking signal and a sales problem. Audit the apps every few months, remove the ones nobody uses, and check the theme for leftovers after each removal.
+
+### How do you see whether it is working?
+
+Connect Google Search Console and submit the sitemap. Within a few weeks it shows which searches the store appears for, which pages Google has indexed and which it has skipped and why. Read it once a month: the searches where you appear but nobody clicks are the titles and descriptions to rewrite first.
+
+### How do we do it?
+
+On Starter's search option, at $2,000 a month, we take four pages a month through exactly this list, write one researched article and keep the Google Business listing active if the store has a door. On Standard, at $4,000, the search work sits beside the ads and the content, so the pages the ads send people to are the same ones built to be found.
+
+### When will SEO not help a Shopify store?
+
+When nobody searches for what it sells yet. A new kind of product, or a brand people only discover by seeing it, will get more from short video and ads that create the demand. Search catches demand that already exists; it rarely creates it.
+
+## Getting a Karachi cafe or restaurant found on Google Maps
+
+https://driftedmarketing.com/blog/getting-a-karachi-cafe-found-on-google-maps/ · Performance media · by Umer Tariq · published 2026-10-28
+
+The listing settings, photographs, menus and reviews that decide whether a hungry person in Karachi finds your place or the one next door.
+
+In Karachi, a decision about where to eat tonight is usually made on a phone, on Google Maps or Instagram, in the minute before someone gets into the car. The places that win that minute are not always the best ones. They are the ones whose listing answers every question before it is asked.
+
+**The short version.** Claim and verify the Google Business Profile, pick the most exact category, and keep hours, phone and WhatsApp correct. Add a real menu, recent photographs of the food and the room, and the attributes people filter on, such as delivery, outdoor seating and family seating. Post weekly, reply to every review, and make sure the name and address match Instagram and Foodpanda exactly.
+
+### What decides which cafes show up first?
+
+Google says it ranks local results on relevance, distance and prominence. Distance you cannot change. Relevance comes from the category, the menu and the words in the listing. Prominence comes from reviews, photographs, mentions elsewhere and how active the listing is. A complete listing that posts and replies regularly will often outrank a better restaurant a street away whose listing was claimed once and forgotten.
+
+| Setting | What to do |
+| --- | --- |
+| Primary category | The most exact one: Cafe, Pizza restaurant, Barbecue restaurant, not just Restaurant |
+| Hours | Including late-night hours and Ramadan timings, changed before the day, not after |
+| Phone and WhatsApp | A number someone answers during opening hours |
+| Menu | Real items and prices, updated when they change |
+| Attributes | Delivery, takeaway, dine-in, outdoor seating, family area, parking |
+| Photographs | The food, the room, the front door at night, so people recognise it |
+
+### What should a restaurant post?
+
+One post a week is enough if it is real: a new dish, a deal for a match night, a change in timings. Short video made for Instagram can be reused here. The point is not volume; it is showing Google and the customer that the place is open, active and worth the drive.
+
+### How do you get more good reviews?
+
+Ask at the right moment: a card on the table with the bill, or a message after a delivery that arrived hot. Never buy reviews or trade them for a free dessert; Google removes them and can suspend the listing, and a suspended listing in a busy area is a disaster. Reply to every review, and to the angry ones calmly and specifically. The next customer reads the reply, not the complaint.
+
+### Why do Instagram and Foodpanda matter to Google?
+
+Because they confirm who you are. When the name, address and phone read the same on the Google listing, Instagram, Foodpanda and any food guide, both Google and the AI assistants that answer "best cafe in DHA" can be confident they are looking at one place. When they disagree, you look like two businesses, and neither is trusted.
+
+### What does this cost to have done?
+
+Claiming and filling in the listing is free and an owner can do it in an afternoon. Where we come in is keeping it alive alongside the rest: Starter's search option at $2,000 a month covers page optimisations, a researched article and Google Business posts every month, and the content option covers short videos and carousels for Instagram. Our studio is in DHA Phase 8, so the first call can be in person.
+
+### When is this not worth paying for?
+
+When the place is already full every night and the problem is the kitchen, not the queue. Search brings people to the door; it cannot bring them back a second time. Fix the food and the service first, and spend on being found when there are empty tables to fill.
+
+## What app development costs with an offshore team
+
+https://driftedmarketing.com/blog/app-development-cost-with-an-offshore-team/ · AI product · by Umer Tariq · published 2026-10-28
+
+What actually drives the price of an app built offshore, the costs that do not show up in the quote, and the contract terms that protect a startup.
+
+Founders look offshore for one reason: the same budget buys more building. That is true, and it is also where the trouble starts, because a lower day rate on a badly scoped project is still an expensive project. The cost of an app is set far more by what you ask for, and how clearly, than by where the team sits.
+
+**The short version.** An app's cost is driven by scope first: how many kinds of user, whether money moves through it, how many platforms, and what it connects to. An offshore team lowers the rate, not the scope. The hidden costs are time-zone delay, rework from a loose brief, and code you do not own. Fix all three in the contract: overlapping hours, a written scope tied to how the app earns, and the code in your own account from day one.
+
+### What drives the cost of an app?
+
+| Driver | Cheaper end | Dearer end |
+| --- | --- | --- |
+| Kinds of user | One | Buyers, sellers and an admin |
+| Money | None, or a link out | Payments, payouts, refunds |
+| Platforms | One, or a web app | iPhone, Android and web |
+| Connections | None | Maps, messaging, outside data |
+| Trust features | None | Identity checks, reviews, reporting |
+| Content | Fixed | Uploaded by users, needing moderation |
+
+### Fixed price or time and materials?
+
+A fixed price suits a narrow, well-defined first version: the builder carries the risk of overrun, and you carry the risk that the scope was wrong. Time and materials suits a product that will change as you learn, but it needs a weekly view of hours and progress or it drifts. A sensible middle path is a fixed price for a written first version and a monthly retainer after launch.
+
+### What costs do not show up in the quote?
+
+- Store accounts: Apple's developer programme charges a yearly fee and Google Play a one-time fee, both in your name.
+- Hosting, databases, email sending, maps and other paid services, billed monthly as the app grows.
+- Maintenance: operating system updates break things every year, and someone has to fix them.
+- Your own time: answering questions, testing builds and making decisions. A slow answer stalls a fast team.
+- Rework when the brief said one thing and meant another.
+
+### Does the time zone matter?
+
+More than the rate. A team that sleeps through your working day turns every question into a day's delay, and a project with many small questions loses weeks that way. Ask for a few hours of overlap at minimum, or a team that works your hours outright. Our studio is in Karachi and works New York business hours, precisely so a founder in the United States gets answers the same afternoon.
+
+### What should the contract say?
+
+1. The code, the design files and every account are yours from the first day, in repositories and stores you own.
+2. A written scope for the first version, tied to how the app earns money.
+3. What happens to bugs found after launch, and for how long.
+4. Who the named people on the project are, and that they cannot be swapped silently.
+5. Thirty days' notice either way, with a clean handover.
+
+### How do we price a build?
+
+Per build, under our Tailored tier, to the number the app is meant to produce, because a marketplace with payments and trust features is not the same project as a booking tool for one clinic. For ehsaan, a person-to-person marketplace app for Pakistan, we wrote a 19-section knowledge base before building and reached the first build in 23 prompts. The revenue model is written before the first screen, and the client keeps the code.
+
+### When is offshore the wrong call?
+
+When the founder cannot write down what the first version must do, or has no time to answer questions each week. Distance magnifies vagueness. In that case, spend first on a short paid scoping exercise, wherever the team is, and only then decide who builds it.
+
+## What is GEO, and does a small business need it?
+
+https://driftedmarketing.com/blog/what-is-geo-and-does-a-small-business-need-it/ · How we work · by Umer Tariq · published 2026-10-28
+
+Generative engine optimisation in plain English, what it shares with ordinary search work, and the short list of things a small business should actually do.
+
+Every few years search gets a new acronym and a new invoice line. Generative engine optimisation, written GEO, is the current one. The question a small business owner should ask is not what it stands for but whether it is a different job from the search work they may already be paying for. Mostly, it is not.
+
+**The short version.** Generative engine optimisation is the work of being named and cited when an AI assistant such as ChatGPT, Perplexity, Gemini or Google's AI summaries answers a question. Most of it is good search engine optimisation done to a stricter standard: pages that answer the question first, a business described the same way everywhere, and listings and reviews that back it up. A small business rarely needs it as a separate service; it needs its search work done that way.
+
+### What is generative engine optimisation?
+
+Search engines return a list of links. Assistants write an answer and, increasingly, name the sources they drew it from. Generative engine optimisation is everything that makes your business one of those sources: being easy to find, easy to understand and easy to quote, and being described consistently enough that the assistant is confident you are who you say you are.
+
+### How is it different from SEO?
+
+|  | Search engine optimisation | Generative engine optimisation |
+| --- | --- | --- |
+| What you win | A place in a list of links | A mention or a citation inside an answer |
+| What it reads | Pages, links, listings | The same, plus reviews and directory profiles |
+| What it rewards | Relevance and authority | Clear answers, consistency and corroboration |
+| How you measure it | Search Console, in Google's own data | Asking the assistants and writing down what they say |
+
+### What should a small business actually do?
+
+1. Open each important page with a direct answer to the question it exists for, in two or three plain sentences.
+2. Describe the business in one sentence, and use that same sentence on the website, the Google listing, and every directory and social profile.
+3. Keep name, address and phone identical everywhere, character for character.
+4. Publish the facts an assistant gets asked for: what you sell, where, for whom, and roughly what it costs.
+5. Earn reviews and mentions on sites the assistants already trust in your field.
+6. Every month, ask the assistants the questions a buyer would, and note who they name.
+
+### Is llms.txt worth adding?
+
+It is a plain-text file at a fixed address on a website that states, in order, who the business is, what it sells and where the proof is. It is a proposed convention, not a standard every assistant has said it reads. It takes an hour to write and costs nothing to keep, so we add one, ours included, and treat it as cheap insurance rather than a ranking lever.
+
+### Can anyone guarantee an AI citation?
+
+No. Assistants change their answers from week to week and from one way of asking to another. An agency promising that ChatGPT will recommend you is selling something it does not control. What it can promise is the work above, done well, and a monthly record of what the assistants actually say.
+
+### How do we handle it?
+
+As one piece of work with search, not three. Starter's search option is $2,000 a month: page optimisations, a researched article and Google Business posts. Standard, at $4,000, adds the answer-engine work and a monthly record of what the assistants say about you. We do not publish a figure for how often assistants cite us, because we have not measured it to a standard we would defend.
+
+### When does a small business not need it at all?
+
+When nearly all its customers come from walking past, from word of mouth or from one marketplace. A corner bakery needs a complete Google listing and good reviews, which serve both search and assistants, and very little else. Spend on this when buyers research before they buy, and ask an assistant while they do.
+
+## How to get a museum on Google Maps
+
+https://driftedmarketing.com/blog/how-to-get-a-museum-on-google-maps/ · Creator growth · by Umer Tariq · published 2026-10-28
+
+Claiming the listing, the category that matters, hours and events, photographs of the collection, and the reviews that bring visitors through the door.
+
+A visitor deciding what to do this weekend rarely starts on a museum's website. They type "museums near me" or the name of the town into Google, and the answer is a map with a few listings under it. If the museum is not there, or is there with the wrong hours, it has lost the visit before anyone read a word it wrote.
+
+**The short version.** Claim the museum's Google Business Profile, verify it, set the primary category to Museum, and fill in everything: hours including holidays, the address, the website, the phone, photographs of the building and the collection. Post events as they come, answer every review, and keep it current. Google ranks local listings on relevance, distance and prominence, and a complete, active listing wins on the two a museum controls.
+
+### How do you add or claim a museum on Google Maps?
+
+1. Search for the museum on Google Maps. If a listing exists, open it and choose the option to claim or manage it. If not, add the place from Google Business Profile.
+2. Verify ownership. Google offers a method per business, often a short video of the building and the signage, sometimes a phone call or a postcard.
+3. Set the primary category to Museum, or the more exact one if it fits, such as History museum or Art museum. Add secondary categories only where true.
+4. Fill in the rest: hours, special hours for holidays and closures, the website, a phone number answered during opening hours, and accessibility details.
+5. Give the listing to an account the museum owns, with a second manager added, so it does not leave with one person.
+
+### What does Google use to rank a museum in Maps?
+
+Google's own guidance names three things: relevance, meaning how well the listing matches the search; distance from the searcher; and prominence, meaning how well known the place is, which reviews, links and articles about it feed. A museum cannot move itself closer to a visitor, but it can make the listing complete and accurate, and it can earn reviews and mentions.
+
+| What to fill in | Why it matters for a museum |
+| --- | --- |
+| Primary category | Decides which searches the museum can appear for at all |
+| Hours and holiday hours | Wrong hours earn the worst reviews a museum gets |
+| Photographs of the collection | The object is what makes someone choose to come |
+| Event posts | Exhibitions and anniversaries give people a reason to come now |
+| Review replies | Show the listing is watched, and answer the next visitor's question |
+| Website link to a real visit page | Sends people to tickets and directions, not the home page |
+
+### What should a museum post?
+
+The collection, one object at a time, with a line on why it matters, and every event with its date. A post about a new exhibition, a lecture or an anniversary weekend gives the listing fresh activity and gives a searcher a reason to visit this week rather than someday. The same photographs and lines can feed the museum's social accounts; the object is the content everywhere.
+
+### How should a museum handle reviews?
+
+Ask for them at the moment a visit goes well: a card at the desk, a line at the end of a tour. Never pay for them or trade them for a discount; Google removes those and can penalise the listing. Answer every review, the bad ones first and calmly. A reply that explains the parking or the closing time helps the next visitor more than the person who complained.
+
+### What have we done for a museum?
+
+Our search work for the Gettysburg Museum of History in Pennsylvania included repairing the museum's listing, an event page for its October anniversary weekend and the Foundation's new site, written so people searching for the weekend landed on the museum's own page. No figure is published for it yet, and we would rather say so than invent one.
+
+### When does a museum not need outside help with this?
+
+When someone on staff has an hour a week and will keep doing it. Claiming and filling in the listing is free and needs no agency. Outside help earns its fee when the listing is part of a larger push, such as an exhibition launch with films, posts and a page built to be found, or when nobody inside has the time.
+
+## What a Shopify store costs in Pakistan
+
+https://driftedmarketing.com/blog/what-a-shopify-store-costs-in-pakistan/ · Performance media · by Umer Tariq · published 2026-10-28
+
+Every line item in a Pakistani Shopify store, which ones are fixed by Shopify and which ones a developer sets, and how to read a quote.
+
+Ask three developers in Karachi what a Shopify store costs and you will get three numbers that cannot be compared, because each one prices a different store. The honest answer is a list, not a figure: a handful of costs Shopify sets and you cannot negotiate, and a handful a developer sets that you can.
+
+**The short version.** A Shopify store in Pakistan has two kinds of cost. Running costs are set by others: Shopify's monthly plan, billed in dollars, any paid apps, a domain, and payment and courier fees. Build costs are set by whoever makes it: the theme, the setup, the product pages and the photographs. Get every quote broken into those lines, and the cheapest one usually turns out to be missing one.
+
+### What does Shopify itself charge?
+
+A monthly plan fee, billed in US dollars to a card, with a cheaper rate if you pay for the year up front. The plans and prices are on Shopify's own pricing page, and Shopify adjusts them by country, so read that page from Pakistan rather than trusting a figure in an old blog post. Most small stores start on the lowest plan and only move up when staff accounts or reporting demand it.
+
+### How do payments work for a store in Pakistan?
+
+Shopify's own card processing, Shopify Payments, is not offered to businesses in Pakistan. So a store here either connects a local payment gateway or takes cash on delivery, and most do both. Each gateway charges its own fee per transaction, and Shopify adds a small fee of its own on orders paid through an outside gateway. Cash on delivery costs nothing to switch on, but it brings returns and refused parcels, which are a real cost even if no invoice shows them.
+
+| Line item | Who sets it | Paid how |
+| --- | --- | --- |
+| Shopify plan | Shopify | Monthly, in dollars |
+| Theme | Theme maker, or free | Once |
+| Apps | Each app's maker | Mostly monthly |
+| Domain | Domain registrar | Yearly |
+| Payment gateway | The gateway | Per order |
+| Courier and returns | The courier | Per parcel |
+| Setup and product pages | Your developer | Once |
+| Photographs | Your photographer | Per shoot |
+
+### What does a developer charge for, and what is it worth?
+
+The build: choosing and setting up the theme, connecting the gateway and the courier, writing the product pages, setting shipping rules for cash on delivery, and making the checkout work on a cheap phone on a slow connection, because that is where most Pakistani orders are placed. A free theme set up well beats a paid theme set up badly. The part worth paying for is the product page: the words and pictures that make a stranger trust a store they found ten seconds ago.
+
+### Why do apps quietly double the bill?
+
+Because each one is cheap on its own and billed monthly forever. Reviews, upsells, a WhatsApp button, a size chart, a currency switcher: a store can collect a dozen in its first year, each adding to the bill and to the page's load time. Before installing one, ask whether the theme already does it. Most good themes do more than their owners know.
+
+### How do we price a store?
+
+We price a store build and its photography per project, under our Tailored tier, because a ten-product store and a store with hundreds of variants are different amounts of work. The ads that send people to it are Starter's ads option at $2,000 a month, with the spend separate and in your own account. Every account, the store, the domain and the ad account, is in your name from the first day.
+
+### What should a quote include?
+
+- Every running cost you will pay after launch, listed, not just the build fee.
+- Which apps it assumes, and what each one costs a month.
+- Who owns the store, the domain and the theme licence when the work ends. It should be you.
+- How the checkout handles cash on delivery and a local gateway together.
+- Who writes the product pages and who takes the photographs.
+
+### When is Shopify the wrong choice?
+
+When almost every sale closes in Instagram messages and is paid in cash at the door. A store then mostly serves as a catalogue, and a well-kept Instagram account with a clear order process may do the same job for less. Build the store when buyers want to check out without talking to anyone, or when the ads need a page to send people to.
+
 ## How a small agency runs AI agents safely: the human yes
 
 https://driftedmarketing.com/blog/running-ai-agents-safely-the-human-yes/ · AI product · by Umer Tariq · published 2026-10-27
@@ -426,7 +724,7 @@ Less than you would think. The agent still does the reading, the preparation and
 
 ### How do we run it?
 
-Exactly this way. Housefly, the system we built to run Drifted, gives every person an agent of their own, and every action that would touch a client's live account waits at one gate for a person's yes with a single-use code. There is no setting to turn it off. It is being prepared for a public release.
+Exactly this way. Housefly, the system we built to run Drifted, gives most of the team an agent of their own, and every action that would touch a client's live account waits at one gate for a person's yes with a single-use code. There is no setting to turn it off. It is being prepared for a public release.
 
 ### When is a gate overkill?
 
@@ -483,7 +781,7 @@ Through a shared space where they leave each other notes and offer each other ta
 
 ### What does this look like in practice?
 
-We run it. Housefly is the system we built for our own studio: every person at Drifted works beside an agent of their own, the agents pass notes through a shared hive, and overnight work runs on the studio's own machine. It was built by our founder, it is used by the whole team every day, and it is being prepared for a public release.
+We run it. Housefly is the system we built for our own studio: most people at Drifted work beside an agent of their own, the agents pass notes through a shared hive, and overnight work runs on the studio's own machine. It was built by our founder, the team uses it every day, and it is being prepared for a public release.
 
 ### When is an agent with memory not worth it?
 

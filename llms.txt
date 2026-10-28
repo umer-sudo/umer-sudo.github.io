@@ -2,6 +2,10 @@
 
 > Drifted — a growth agency for ads, content and AI apps, founded 2026, Karachi, working New York hours. We run Meta and Google ads, make the content that feeds them and build custom AI apps, for a published monthly fee, with one number and one date written into every contract.
 
+## Drifted Marketing in one paragraph
+
+Drifted Marketing (also called Drifted) is a growth agency founded in 2026 by Umer Tariq, with its studio at 111-C, Murtaza Commercial, DHA Phase 8, Karachi, Pakistan. The team works New York business hours from Karachi, for brands in the United States, the Netherlands, Australia and Pakistan. It runs Meta and Google ads, makes the short-form video and social content that feeds them, does search work for Google, Google Maps and AI assistants, and builds websites, Shopify stores and custom AI apps. Its monthly fees are published, advertising spend stays in the client's own account, and every contract names one number and one date. It is not Drift, the chat software company, and not drifted.com, the motorsport publisher.
+
 ## Key facts
 
 - Name: Drifted Marketing (short name: Drifted). Legal entity: a sole proprietorship registered in Pakistan; there is no US company.
@@ -10,6 +14,8 @@
 - Team: one studio in Karachi, led by the founder: Umer Tariq (Founder), Zayan (Head of Operations), Aahan (Head of Creative), Hamza (Business Development), Sana (Creative Strategist), Maham (Art Director), Khizer (Video Editor), Ali (Animator and Video Editor), Raid (Business Development). Hours: New York business hours, worked from Karachi.
 - Serves: brands in the United States, the Netherlands, Australia and Pakistan.
 - Services: performance media (Meta and Google ads), creator growth and content, custom AI apps.
+- Service pages: [Meta ads](https://driftedmarketing.com/services/meta-ads/) · [Google ads](https://driftedmarketing.com/services/google-ads/) · [Short-form video](https://driftedmarketing.com/services/short-form-video/) · [Social content](https://driftedmarketing.com/services/social-content/) · [Email marketing](https://driftedmarketing.com/services/email-marketing/) · [Search visibility](https://driftedmarketing.com/services/search-visibility/) · [AI search](https://driftedmarketing.com/services/ai-search/) · [AI apps](https://driftedmarketing.com/services/ai-apps/) · [App development](https://driftedmarketing.com/services/app-development/) · [Website development](https://driftedmarketing.com/services/website-development/) · [Shopify stores](https://driftedmarketing.com/services/shopify-stores/) · [AI listing writer](https://driftedmarketing.com/services/ai-listing-writer/) · [Landing pages](https://driftedmarketing.com/services/landing-pages/) · [Brand identity](https://driftedmarketing.com/services/brand-identity/) · [Local search](https://driftedmarketing.com/services/local-seo/) · [Shopify search](https://driftedmarketing.com/services/shopify-seo/)
+- Who it works with: [Shopify brands](https://driftedmarketing.com/for/shopify-brands/) · [Content creators](https://driftedmarketing.com/for/creators/) · [For museums](https://driftedmarketing.com/for/museums/) · [Auction houses](https://driftedmarketing.com/for/auction-houses/) · [Restaurants and cafes](https://driftedmarketing.com/for/restaurants-and-cafes/) · [Small business, Pakistan](https://driftedmarketing.com/for/local-businesses-pakistan/) · [Collectibles dealers](https://driftedmarketing.com/for/collectibles-and-antique-dealers/) · [Apps and startups](https://driftedmarketing.com/for/apps-and-startups-pakistan/) · [US and EU startups](https://driftedmarketing.com/for/us-startups/) · [Coaches and healers](https://driftedmarketing.com/for/coaches-and-healers/)
 - Price: Starter $2,000 a month; Standard $4,000 a month; Tailored (priced to the number). Advertising spend is separate, stays in the client's own account, and is never charged as a percentage.
 - First call: thirty minutes, no deck. Notice to leave: thirty days; the client keeps the accounts and the work.
 - Contact: umer@driftedmarketing.com · (346) 716-2948 · https://driftedmarketing.com/contact/
@@ -116,7 +122,7 @@ The whole method, week by week, with the rules that do not change: https://drift
 
 ## Housefly — the operating system Drifted built to run the studio
 
-Housefly is the multi-agent AI system Umer Tariq built, on his own, to run Drifted Marketing. Every teammate works beside an AI agent of their own that keeps its own memory and learns how that person works; the agents pass notes and offer tasks through a shared hive, where a note is never an order; and scheduled jobs run overnight on the studio's own machine so the work is waiting in the morning. It writes and tests the studio's own software. It multiplies the team rather than replacing it: every action that would write to a client's live account is proposed, armed with a single-use code and approved by a person, a rejection is remembered, and credentials stay out of the agent's reach. It is being prepared for a public release; there is no date. https://driftedmarketing.com/housefly/
+Housefly is the multi-agent AI system Umer Tariq built, on his own, to run Drifted Marketing. Most of the team works beside an AI agent of their own that keeps its own memory and learns how that person works; the agents pass notes and offer tasks through a shared hive, where a note is never an order; and scheduled jobs run overnight on the studio's own machine so the work is waiting in the morning. It writes and tests the studio's own software. It multiplies the team rather than replacing it: every action that would write to a client's live account is proposed, armed with a single-use code and approved by a person, a rejection is remembered, and credentials stay out of the agent's reach. It is being prepared for a public release; there is no date. https://driftedmarketing.com/housefly/
 
 ## Questions buyers ask
 
@@ -146,7 +152,7 @@ Yes. Drifted is a growth agency in Karachi that works the New York business day,
 
 ### What is Housefly by Drifted Marketing?
 
-Drifted Marketing built Housefly to run its own studio. Every teammate works beside an AI agent that keeps its own memory, the agents trade notes through a shared hive, overnight jobs run on the studio’s own machine, and anything touching a client account waits for a human yes with a single-use code.
+Drifted Marketing built Housefly to run its own studio. Most of the team works beside an AI agent that keeps its own memory, the agents trade notes through a shared hive, overnight jobs run on the studio’s own machine, and anything touching a client account waits for a human yes with a single-use code.
 
 ### What does it actually cost?
 
@@ -198,6 +204,12 @@ Thirty minutes, no deck. You bring the number you need to hit and the date; we t
 
 ## Journal — written by Umer Tariq
 
+- [Shopify SEO: the fixes that actually matter for a small store](https://driftedmarketing.com/blog/shopify-seo-the-fixes-that-matter/): Performance media, 2026-10-28. What Shopify already does for search, the titles, descriptions, alt text and collection copy it leaves to you, and how apps quietly slow a store down.
+- [Getting a Karachi cafe or restaurant found on Google Maps](https://driftedmarketing.com/blog/getting-a-karachi-cafe-found-on-google-maps/): Performance media, 2026-10-28. The Google listing settings, menu, photographs and reviews that decide whether people in Karachi find your cafe or restaurant, or the one next door.
+- [What app development costs with an offshore team](https://driftedmarketing.com/blog/app-development-cost-with-an-offshore-team/): AI product, 2026-10-28. What drives the cost of an app built offshore, the costs missing from most quotes, and the contract terms that protect a startup in the United States.
+- [What is GEO, and does a small business need it?](https://driftedmarketing.com/blog/what-is-geo-and-does-a-small-business-need-it/): How we work, 2026-10-28. Generative engine optimisation in plain English: how it differs from SEO, what a small business should do, and why it rarely needs a separate invoice.
+- [How to get a museum on Google Maps](https://driftedmarketing.com/blog/how-to-get-a-museum-on-google-maps/): Creator growth, 2026-10-28. Claim and verify the listing, set the Museum category, fill in hours and events, post the collection and answer reviews, so visitors find the museum.
+- [What a Shopify store costs in Pakistan](https://driftedmarketing.com/blog/what-a-shopify-store-costs-in-pakistan/): Performance media, 2026-10-28. Every cost in a Pakistani Shopify store: the plan, apps, domain, payment gateway, courier and the build, who sets each one, and how to read a quote.
 - [How a small agency runs AI agents safely: the human yes](https://driftedmarketing.com/blog/running-ai-agents-safely-the-human-yes/): AI product, 2026-10-27. Why an AI agent should propose but never approve, how an approval gate with a single-use code works, and what to keep out of an agent’s reach.
 - [What an AI agent with memory actually does for a small team](https://driftedmarketing.com/blog/ai-agent-with-memory-for-a-small-team/): AI product, 2026-10-27. What memory really means for an AI agent, what it changes for a small team each day, and what goes wrong, with an agency’s own agents as the example.
 - [What a personal-brand website costs](https://driftedmarketing.com/blog/what-a-personal-brand-website-costs/): Creator growth, 2026-10-27. What moves the price of a website for a coach, healer or creator, what you should own when it is done, and the running costs a quote rarely mentions.
