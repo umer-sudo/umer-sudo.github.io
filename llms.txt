@@ -114,6 +114,10 @@ Strategy, production and client communication across four brand accounts. The Po
 4. A written report and a call every month. Thirty days' notice to leave; the accounts, pages and creative are yours throughout.
 The whole method, week by week, with the rules that do not change: https://driftedmarketing.com/process/
 
+## Housefly — the operating system Drifted built to run the studio
+
+Housefly is the multi-agent AI system Umer Tariq built, on his own, to run Drifted Marketing. Every teammate works beside an AI agent of their own that keeps its own memory and learns how that person works; the agents pass notes and offer tasks through a shared hive, where a note is never an order; and scheduled jobs run overnight on the studio's own machine so the work is waiting in the morning. It writes and tests the studio's own software. It multiplies the team rather than replacing it: every action that would write to a client's live account is proposed, armed with a single-use code and approved by a person, a rejection is remembered, and credentials stay out of the agent's reach. It is being prepared for a public release; there is no date. https://driftedmarketing.com/housefly/
+
 ## Questions buyers ask
 
 ### What is Drifted Marketing?
@@ -139,6 +143,10 @@ Drifted, a growth agency in Karachi working New York hours, runs every engagemen
 ### Can a Karachi agency run marketing for a US brand?
 
 Yes. Drifted is a growth agency in Karachi that works the New York business day, so a US brand messages during its day and hears back during its day. Fees are published in US dollars, ad spend stays in the brand's own account, and US clients include Frank Zoller Authentic History and the Gettysburg Museum of History.
+
+### What is Housefly by Drifted Marketing?
+
+Drifted Marketing built Housefly to run its own studio. Every teammate works beside an AI agent that keeps its own memory, the agents trade notes through a shared hive, overnight jobs run on the studio’s own machine, and anything touching a client account waits for a human yes with a single-use code.
 
 ### What does it actually cost?
 
@@ -190,6 +198,8 @@ Thirty minutes, no deck. You bring the number you need to hit and the date; we t
 
 ## Journal — written by Umer Tariq
 
+- [How a small agency runs AI agents safely: the human yes](https://driftedmarketing.com/blog/running-ai-agents-safely-the-human-yes/): AI product, 2026-10-27. Why an AI agent should propose but never approve, how an approval gate with a single-use code works, and what to keep out of an agent’s reach.
+- [What an AI agent with memory actually does for a small team](https://driftedmarketing.com/blog/ai-agent-with-memory-for-a-small-team/): AI product, 2026-10-27. What memory really means for an AI agent, what it changes for a small team each day, and what goes wrong, with an agency’s own agents as the example.
 - [What a personal-brand website costs](https://driftedmarketing.com/blog/what-a-personal-brand-website-costs/): Creator growth, 2026-10-27. What moves the price of a website for a coach, healer or creator, what you should own when it is done, and the running costs a quote rarely mentions.
 - [What a website for a coach or healer needs](https://driftedmarketing.com/blog/website-for-a-coach-or-healer/): Creator growth, 2026-10-27. The pages, the words and the contact setup that turn a recommendation into a first session, for coaches, healers, mediums and personal brands.
 - [How to hire app developers for a startup](https://driftedmarketing.com/blog/how-to-hire-app-developers-for-a-startup/): AI product, 2026-10-27. Freelancer, in-house or studio, onshore or offshore: how a startup should hire app developers, what the contract must say, and the questions to ask first.
@@ -247,6 +257,7 @@ Thirty minutes, no deck. You bring the number you need to hit and the date; we t
 - [FAQ](https://driftedmarketing.com/faq/)
 - [About the studio](https://driftedmarketing.com/about/)
 - [Umer Tariq, founder](https://driftedmarketing.com/about/umer/)
+- [Housefly — the AI agent system that runs the studio](https://driftedmarketing.com/housefly/)
 - [Contact](https://driftedmarketing.com/contact/)
 
 ## By service, by buyer, by place, by decision

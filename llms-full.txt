@@ -208,6 +208,10 @@ What we found: Reach beats followers. The Poster Project reached 199,392 account
 4. A written report and a call every month. Thirty days' notice to leave; the accounts, pages and creative are yours throughout.
 The whole method, week by week, with the rules that do not change: https://driftedmarketing.com/process/
 
+## Housefly — the operating system Drifted built to run the studio
+
+Housefly is the multi-agent AI system Umer Tariq built, on his own, to run Drifted Marketing. Every teammate works beside an AI agent of their own that keeps its own memory and learns how that person works; the agents pass notes and offer tasks through a shared hive, where a note is never an order; and scheduled jobs run overnight on the studio's own machine so the work is waiting in the morning. It writes and tests the studio's own software. It multiplies the team rather than replacing it: every action that would write to a client's live account is proposed, armed with a single-use code and approved by a person, a rejection is remembered, and credentials stay out of the agent's reach. It is being prepared for a public release; there is no date. https://driftedmarketing.com/housefly/
+
 ## Questions buyers ask
 
 ### What is Drifted Marketing?
@@ -233,6 +237,10 @@ Drifted, a growth agency in Karachi working New York hours, runs every engagemen
 ### Can a Karachi agency run marketing for a US brand?
 
 Yes. Drifted is a growth agency in Karachi that works the New York business day, so a US brand messages during its day and hears back during its day. Fees are published in US dollars, ad spend stays in the brand's own account, and US clients include Frank Zoller Authentic History and the Gettysburg Museum of History.
+
+### What is Housefly by Drifted Marketing?
+
+Drifted Marketing built Housefly to run its own studio. Every teammate works beside an AI agent that keeps its own memory, the agents trade notes through a shared hive, overnight jobs run on the studio’s own machine, and anything touching a client account waits for a human yes with a single-use code.
 
 ### What does it actually cost?
 
@@ -294,6 +302,7 @@ Thirty minutes, no deck. You bring the number you need to hit and the date; we t
 - [FAQ](https://driftedmarketing.com/faq/)
 - [About the studio](https://driftedmarketing.com/about/)
 - [Umer Tariq, founder](https://driftedmarketing.com/about/umer/)
+- [Housefly — the AI agent system that runs the studio](https://driftedmarketing.com/housefly/)
 - [Contact](https://driftedmarketing.com/contact/)
 
 ## By service, by buyer, by place, by decision
@@ -362,6 +371,123 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - No guaranteed results. Nobody who guarantees a result is telling you the truth.
 
 # The journal, in full — written by Umer Tariq
+
+## How a small agency runs AI agents safely: the human yes
+
+https://driftedmarketing.com/blog/running-ai-agents-safely-the-human-yes/ · AI product · by Umer Tariq · published 2026-10-27
+
+Why an agent should propose but never approve, how an approval gate with a single-use code works, and the other rules that make an agent safe to trust with a client.
+
+The fastest way to lose a client with AI is to let an agent change their account on its own. A paused campaign, an edited order or a message sent in the wrong tone takes seconds to do and weeks to repair. The answer is not to keep agents away from real work. It is to build the pause into the system so it cannot be skipped.
+
+**The short version.** Let the agent read, prepare and propose. Never let it approve. Anything that would change a client's live account should stop at one gate, state its consequence in a plain sentence, and run only when a person approves it with a single-use code. Record who decided, remember every no, and keep credentials where the agent cannot reach them.
+
+### Why should an agent not act on its own?
+
+Because the agent that suggests an action should never be the one that signs it off. Agents are fast and confident, and they read text written by other people, some of it written to mislead an assistant. A person in the loop is not a formality. It is the part of the system that knows the client.
+
+### What is an approval gate?
+
+One chokepoint that every consequential action passes through. The list of action kinds is closed, so adding a new one is a code change a person reviews. Reading runs freely. Writing has to be armed and approved.
+
+1. The agent proposes. It can describe the action. It cannot approve it and cannot run it.
+2. The gate arms it. It writes, in one plain sentence, exactly what will happen, and issues a single-use code.
+3. A person approves. Nothing runs until the approval comes back quoting that exact code, so the pause is enforced by the software and not drawn on a screen.
+4. The decision is recorded. Every yes and every no names who made it.
+5. A no is remembered. The agent cannot reopen a rejected question by asking it again in different words.
+
+### What should never be automatic?
+
+| Kind of action | Rule | Why |
+| --- | --- | --- |
+| Reading numbers, messages and calls | Free, read-only | Looking cannot change anything |
+| Changing a client's account | Proposed, armed, approved | Mistakes reach the client |
+| Sending a call's words for summary | Its own approved action | It sends a client's words off the machine |
+| Acting on another agent's note | Only with your own person's yes | A note is information, not an order |
+
+### How do you keep credentials away from the agent?
+
+Do not rely on telling it not to look. Matching words in a command is not enough, because a path can be assembled in pieces across several harmless-looking steps. Have the operating system refuse the agent's shell access to the credential files outright, however the request is spelled. If that layer is ever missing, the system should say so out loud rather than carry on quietly.
+
+### What about instructions hidden in what the agent reads?
+
+Treat everything the agent reads as information, never instruction: a web page, a transcript, an email, a note from another agent. Any of them can carry a line written to an assistant. The approval gate is the backstop. Even if a hidden line talks an agent into proposing something, a person still has to approve it.
+
+### What other rules are worth having?
+
+- Partial success is failure. A job that finished most of its work did not finish, and the record should say what failed.
+- Filters fail closed. If a safety check cannot run, the answer is no.
+- Briefs say what they could not read. A summary built on stale data and presented as current is worse than none.
+- No setting switches the gate off. A control that can be disabled will be, on the busiest day of the year.
+
+### Does all this slow the team down?
+
+Less than you would think. The agent still does the reading, the preparation and the drafting, which is most of the time. The person spends a moment on the decision that matters. That is the right split: the agent multiplies the team, and the team keeps the judgement it was hired for.
+
+### How do we run it?
+
+Exactly this way. Housefly, the system we built to run Drifted, gives every person an agent of their own, and every action that would touch a client's live account waits at one gate for a person's yes with a single-use code. There is no setting to turn it off. It is being prepared for a public release.
+
+### When is a gate overkill?
+
+When nothing the agent touches can reach a client or cost money: drafting internal notes, tidying files, summarising your own reading. Gate the writes that leave the building, and let the rest run.
+
+## What an AI agent with memory actually does for a small team
+
+https://driftedmarketing.com/blog/ai-agent-with-memory-for-a-small-team/ · AI product · by Umer Tariq · published 2026-10-27
+
+What memory means for an AI agent, what it changes in a small team's day, why each person should have their own, and what goes wrong.
+
+Most people meet AI as a chat window that forgets them the moment it closes. That is useful for a one-off question and close to useless for running a business, where the value is in everything that happened before today. An agent with memory is the difference between a clever stranger and a colleague who was in the room last week.
+
+**The short version.** Memory turns an AI assistant from a tool you brief every time into a colleague that already knows how you work. For a small team the gain is not replacing people; it is multiplying them. The agent reads, remembers, chases and drafts, and the people keep the taste, the judgement and the client.
+
+### What does memory mean for an AI agent?
+
+It means written notes the agent reads before it answers: corrections it has been given, decisions that were made, and how its person likes the work done. It is not the model quietly retraining itself. It is closer to a well-kept notebook, which is good news, because a notebook can be read, corrected and audited by a person.
+
+|  | A chat assistant | An agent with memory |
+| --- | --- | --- |
+| Each morning | Starts from nothing | Starts from what it learned |
+| A correction | Needed every time | Given once, written down |
+| Context on a client | Pasted in by you | Already filed under that client |
+| Who it works for | Whoever is typing | One named person |
+
+### What does it change in a small team's day?
+
+The work that eats a small team is rarely the hard part. It is the reading before a call, the notes after it, the promise someone made and nobody wrote down, the report assembled by hand at the end of the month. That is exactly the work an agent with memory is good at.
+
+- Before a call: a brief from the client's recent messages, numbers and calls, saying which sources it actually managed to read.
+- After a call: the notes split into what we owe the client and what the client owes us, with each promise tracked until it is done.
+- At the end of the month: the report drafted from the numbers, with the part about what to do next left for a person.
+- Overnight: scheduled checks and tidying, so the results are waiting in the morning.
+
+### Does it replace anyone?
+
+Not in a team that is run well. The expertise in a studio is its people: the eye for what will work, the judgement on a client's account, the trust on a call. An agent cannot hold any of that. What it can do is clear the ground around it, so each person spends more of the day on the part only they can do. Think of it as multiplying the team rather than shrinking it.
+
+### Why should each person have their own agent?
+
+Because memory is personal. An editor and a salesperson want different things remembered, in different words. One shared assistant for the whole company ends up remembering everything for nobody. An agent per person learns one way of working and answers to one person, which also makes it clear who decides what it does.
+
+### How do the agents share what they know?
+
+Through a shared space where they leave each other notes and offer each other tasks. The rules matter more than the plumbing. A note from another agent is information, never an order. A task is an offer that waits until its person accepts it in their own words. And only what a person marks as shared ever leaves their machine.
+
+### What goes wrong with agent memory?
+
+- Stale notes. A ruling from last month can outlive the decision that reversed it. The fix is a plain rule: when two notes disagree, the later date wins, and the agent says which one it followed.
+- Confident errors. An agent that remembers a wrong fact repeats it with conviction. Notes must be easy for a person to read and correct.
+- Leaks between clients. A note about one client must never reach another client's brief. File memory by client and by project from the start.
+- Secrets in memory. Passwords and keys never belong in notes. Scan anything shared before it travels, and refuse to send if the scan cannot run.
+
+### What does this look like in practice?
+
+We run it. Housefly is the system we built for our own studio: every person at Drifted works beside an agent of their own, the agents pass notes through a shared hive, and overnight work runs on the studio's own machine. It was built by our founder, it is used by the whole team every day, and it is being prepared for a public release.
+
+### When is an agent with memory not worth it?
+
+When the work does not repeat. If every week is genuinely different and nothing carries over, memory has little to hold, and a good chat assistant used well is enough. It earns its keep where the same clients, the same reports and the same kinds of call come round again and again.
 
 ## What a personal-brand website costs
 
