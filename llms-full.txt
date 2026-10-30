@@ -363,6 +363,603 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 
 # The journal, in full — written by Umer Tariq
 
+## Landing pages that convert: what to put on the page, in order
+
+https://driftedmarketing.com/blog/landing-pages-that-convert/ · Performance media · by Umer Tariq · published 2026-10-30
+
+The parts of a landing page that turn a visitor into a lead or a sale, the order they belong in, and the habits that quietly cost a page its customers.
+
+A landing page has one job, which is why it is usually easier to fix than a whole website. Somebody arrived because of an ad, an email or a search. They have a question in mind and a few seconds of patience. The page either answers the question and offers the next step, or it does not, and most of what makes the difference can be seen in the first screen.
+
+**The short version.** A landing page converts when it matches the promise that brought the visitor, says what is offered and for whom in the first screen, shows proof, removes doubts, and asks for one action. Cut the navigation, keep the form short, load fast on a phone, and test one change at a time.
+
+### What has to be in the first screen?
+
+- A headline that repeats the promise of the ad or email that sent the visitor, in the same words where possible.
+- One line underneath that says what you offer and who it is for.
+- A picture of the actual product, service or result, not a stock photo of people smiling at a laptop.
+- The one button, saying what happens when it is pressed: Book a call, Get the price list, Order now.
+
+Most visitors on a phone never scroll past the first screen. If they cannot tell what the page is and what to do in that space, the rest of the page is written for nobody.
+
+### What order should the rest of the page follow?
+
+1. The promise and the one action, as above.
+2. Proof: real work, real reviews, named clients where you are allowed to name them.
+3. How it works, in a few plain steps, so the visitor can picture what happens after they press the button.
+4. What it costs, or at least what it starts from. Hiding the price sends people away to find it somewhere else.
+5. The doubts, answered: the questions people ask before they buy, each with a short, honest answer.
+6. The action again, for the visitor who read everything first.
+
+### What quietly costs a page its customers?
+
+| Habit | Why it hurts | What to do instead |
+| --- | --- | --- |
+| Full site navigation at the top | Every link is a way off the page | Logo and the one action only |
+| A long form | Each field is a reason to stop | Ask only what you need to reply |
+| Several different buttons | The visitor has to choose, and often chooses neither | One action, repeated |
+| A headline about you | The visitor came with their own question | A headline about their result |
+| Slow loading on a phone | People leave before it appears | Compress images, cut scripts and pop-ups |
+| Claims with no proof | Nobody believes them | Show the work or a review |
+
+### What does proof look like when you are new?
+
+You do not need a wall of logos. A photo of the real product, a short explanation of how you work, the name and face of the person who will do the job, and a clear guarantee or refund policy all do the work proof does: they make the page believable. What does not work is inventing it. A made-up testimonial or an unearned badge is easy to spot and costs far more trust than an empty space.
+
+We hold our own pages to that rule. We name a client only where the client has agreed to be named, which is why the Gettysburg Museum of History appears on this site and others are described by their trade, and we print a result only when it has been checked. It makes for fewer numbers on the page, and every one that remains can be believed.
+
+### How do you know whether a change worked?
+
+Change one thing at a time, and give it long enough to see a difference beyond normal ups and downs: the headline, then the picture, then the form. Watch the share of visitors who take the action, not page views. If you change the headline, the photo and the price on the same day and sales go up, you will never know which one did it, and you may keep the change that hurt. Our pieces on reading an ad account, at /blog/read-an-ad-account-in-ten-minutes, and on site speed, at /blog/website-speed-in-plain-english, cover what to look at before you start changing words.
+
+### Does every ad need its own landing page?
+
+Not every ad, but every promise. If two ads say different things, offer different products or speak to different people, each should land on a page that continues its own sentence. Sending every ad to the homepage is the most common reason a good ad looks like it failed: the visitor clicked on one promise and arrived at a page about everything.
+
+This is where a landing page earns its keep over a whole website. It can be built quickly, changed without touching the rest of the site, and matched word for word to the ad that sends people to it. When you write a new ad, write the first screen of its page at the same time, so the two are planned as one conversation.
+
+### When is a new landing page the wrong fix?
+
+When the traffic is wrong. A perfect page will not convert visitors who were never going to buy, and if an ad is reaching the wrong people, the fix is the ad. And when the offer is the problem: if nobody wants the thing at that price, a better page only shows them more clearly that they do not want it. Fix the audience and the offer first. When those are right and the page is the weak link, our landing page work is described at /services/landing-pages.
+
+### Questions we get asked
+
+#### Should a landing page have a menu?
+
+Usually not. A landing page made for one action works better without links leading elsewhere. Keep the logo, and let it link home if you must.
+
+#### How long should a landing page be?
+
+As long as it takes to answer the visitor's doubts. A simple, cheap offer needs little. A considered purchase needs proof, steps, price and answers.
+
+#### Should I put the price on the page?
+
+Where you can, yes, or at least a starting price. Visitors who cannot find a price often leave to look for one and do not come back.
+
+#### How many form fields should I ask for?
+
+Only the ones you need to reply. Everything else can be asked on the call or after the sale.
+
+## How to choose a marketing agency without regretting it
+
+https://driftedmarketing.com/blog/how-to-choose-a-marketing-agency/ · How we work · by Umer Tariq · published 2026-10-30
+
+What to decide before you contact anyone, how to read a proposal, the questions that separate a real team from a good pitch, and when not to hire an agency at all.
+
+Most bad agency relationships were visible at the start. The proposal promised outcomes nobody could promise, the person on the sales call was never seen again, or the business never decided what it wanted, so the agency decided for it. Choosing well is less about finding the best agency and more about ruling out the wrong ones early.
+
+**The short version.** To choose a marketing agency, decide first what one result you need and what you can spend, then shortlist agencies that have done that exact work, ask who will actually do it, read the contract's exit terms, and start small. Distrust guaranteed results, hidden fees and anyone who cannot say plainly what they will do in the first month.
+
+### What should you decide before you contact anyone?
+
+- The one result that would make this worth it: more booked calls, more online orders, a launched store, a working ad account.
+- What you can spend, in total, for at least a few months, including any ad budget on top of the fee.
+- Who on your side will answer questions, approve work and supply photos, products or access.
+- What you will not hand over: your ad accounts, your domain and your customer list should stay in your name.
+
+An agency that receives a clear version of this can tell you quickly whether it is a fit. One that receives "we need more marketing" will sell you whatever it sells most.
+
+### How do you build a shortlist?
+
+Look for agencies that have done your kind of work for your kind of business, and can show it. A studio that builds Shopify stores well is not necessarily good at Google ads. A team that makes beautiful brand films may not know how to sell a product through a phone screen. Ask for examples close to your situation, and if the examples are all logos with no explanation, ask what exactly they did for each one.
+
+| Good sign | Warning sign |
+| --- | --- |
+| Prices published, or a clear range given early | No price until after several calls |
+| Names the people who will do the work | A senior pitch team you will never hear from again |
+| Explains what the first month delivers | Talks only about long-term growth |
+| Says what it does not do | Says yes to everything |
+| You own every account and file | Accounts set up in the agency's name |
+| Short notice period, clear exit | Long lock-in with fees for leaving |
+
+### What should you ask on the first call?
+
+1. Who will actually do the work each week, and can I speak to them?
+2. What will you deliver in the first month, specifically?
+3. How will you report, and who writes the part that explains what the numbers mean?
+4. What happens to my accounts, files and data if we stop working together?
+5. When would you tell a client they do not need you?
+
+The last question is the most revealing. An agency with a real answer has turned work away. We keep the full list as a free tool at /tools/questions-to-ask-an-agency, with what a good answer sounds like for each.
+
+Listen for how they talk about the work they turned down or lost. An agency that can describe a client it was wrong for, and why, has a clear idea of what it is good at. One that has never lost a client either has not had many, or is not telling you. Neither answer rules it out, but the second should make you check its references with more care, by speaking to a past client on a live call rather than reading a quote on its site.
+
+### How do you read a proposal and contract?
+
+Check three things before the scope. First, the exit: how much notice you must give and whether anything is owed for leaving. Second, ownership: whether the ad accounts, website, content and designs belong to you during and after. Third, the fee: whether it is flat, a percentage of ad spend, or a mix, and what is not included. A percentage fee is not wrong in itself, but it pays the agency more when you spend more, whether or not spending more is good for you. Our checklist of contract red flags is at /blog/marketing-contract-red-flags.
+
+### How should the first month be set up?
+
+Treat it as a trial for both sides. Agree in writing what will be delivered, by when, and how you will judge it, and keep the first piece of work small enough that a disappointment is cheap. Give the agency the access it needs on day one, in your name, and put one person on your side in charge of answers so the work does not stall waiting on you.
+
+At the end of the month, ask three questions. Did they deliver what they said, when they said? Did they tell you something about your business you did not already know? Did anything arrive that you had to chase? A good agency passes all three in the first month, because the first month is when it is trying hardest. If it struggles then, it will not improve once the novelty wears off.
+
+### When should you not hire an agency at all?
+
+When the business does not yet know what it sells or to whom; an agency will spend your money finding out. When the budget only covers the fee and leaves nothing to spend on ads or production. And when the work is small and steady enough for one good freelancer or a part-time hire, which is often cheaper and closer. Our comparison of agencies, freelancers and in-house hires is at /compare/agency-vs-freelancer. We publish our own prices at /pricing so that this decision can be made before a call, not after.
+
+### Questions we get asked
+
+#### How many agencies should I talk to?
+
+A few, all chosen because they have done your kind of work. More than that and the calls start blurring together.
+
+#### Is a cheap agency ever the right choice?
+
+Sometimes, for a narrow, well-defined job. Be wary when a low price covers a broad promise, because the gap is usually filled by junior staff or missing work.
+
+#### Should I sign a long contract to get a lower fee?
+
+Start with a short term or a single project. If the work is good, you will stay anyway, and if it is not, you are not stuck.
+
+#### Can an agency guarantee results?
+
+An honest one will not. It can promise the work, the effort and how it reports. Results depend on the offer, the market and the budget too.
+
+## Getting your business cited by ChatGPT and Perplexity
+
+https://driftedmarketing.com/blog/getting-cited-by-chatgpt-and-perplexity/ · AI product · by Umer Tariq · published 2026-10-30
+
+How AI assistants choose which websites to quote, why a small business can be chosen over a bigger one, and the changes to make on your own site first.
+
+More buyers now ask an assistant before they search. They type a whole question into ChatGPT or Perplexity, read a written answer, and click one or two of the sources it names. Being one of those sources is a different job from ranking first on Google, and a small business with a clear, honest page can win it against a much bigger one.
+
+**The short version.** ChatGPT and Perplexity search the web when they answer, then quote pages that state a clear answer, show who wrote it and when, and agree with what other sources say. To get cited, let their crawlers in, open each page with a direct answer, keep facts about your business identical everywhere, and earn mentions on other sites.
+
+### How do ChatGPT and Perplexity choose what to cite?
+
+When either assistant answers a question that needs current information, it runs its own searches in the background, often several related ones, reads the pages it finds and writes an answer from them. Perplexity shows its sources for nearly every answer. ChatGPT shows them when it searches. Both prefer passages they can lift cleanly: a paragraph that answers the question on its own, a table that compares options, a list of steps. Both lean on pages that are recent, signed by a real author and consistent with what other sites say about the same subject.
+
+That last point matters most for a small business. An assistant is reluctant to state a fact about you that only you have published. When your name, address, services and prices say the same thing on your site, your Google Business Profile, your directory listings and other people's articles, the assistant can repeat them with confidence.
+
+### What should you change on your own site first?
+
+1. Check your robots file allows the assistants' crawlers: OAI-SearchBot and GPTBot for OpenAI, PerplexityBot for Perplexity. Many sites block them by accident through a security setting.
+2. Open every important page with a short, direct answer to the question it targets, before any story or sales copy.
+3. Use headings written as the questions people actually ask.
+4. Put the author's name and the date published or updated on the page, not only in the code.
+5. Publish the facts an assistant would need to recommend you: what you do, where, for whom, and what it costs.
+6. Add structured data that describes your business and your articles, so machines read the same facts people do.
+
+This site is built on those rules. Every piece in our journal opens with a boxed short version, carries question headings and a dated byline, and the studio publishes a plain-text summary of itself for assistants at /llms.txt. Our prices are on /pricing as text, not hidden behind a form, because an assistant cannot recommend what it cannot read.
+
+### What does a citable page look like?
+
+| Gets cited | Gets skipped |
+| --- | --- |
+| Answers the question in the first paragraph | Opens with a long story or a sales pitch |
+| States facts plainly, with the source named | Makes claims with no source and no date |
+| Compares options in a table | Buries the comparison in long paragraphs |
+| Signed by a named person, with a date | Anonymous and undated |
+| Admits when another option is better | Recommends itself for everything |
+
+The last row is worth dwelling on. Assistants are asked comparison questions constantly, and a page that only ever recommends its own author reads as an advertisement. A page that says plainly when the reader should choose someone else reads as advice, and advice is what gets quoted. Every article we publish has a section on when hiring us is the wrong call for exactly that reason, and because it is true.
+
+### Why do other sites matter so much?
+
+Because assistants draw a large share of their answers from places other than a business's own site: review platforms, directories, industry publications, forum threads and video descriptions. A mention of your business in a trade publication, an honest review on a directory such as Clutch, or a useful answer you wrote in a community forum each gives an assistant a second source that agrees with the first.
+
+### How do you keep your facts consistent?
+
+Write them down once, in one place, and copy from there every time. The list is short: your business name exactly as you want it said, your address, your phone number, what you do in one sentence, where you work, who runs the business, and what it costs. Then check each place your business appears against it: your site, your Google Business Profile, directory listings, social profiles and any article that mentions you.
+
+Small differences matter more than they look. A different legal form, an old address or a service you no longer offer gives an assistant two versions of the truth, and it may pick the wrong one or neither. We learned this ourselves: for a time our site described the studio as an American company, which it is not. Drifted is a sole proprietorship in Pakistan, and the site now says so in every place a machine reads it, with a test that fails if the wrong wording ever returns.
+
+### When is this not worth doing yet?
+
+If your site is not yet found on Google at all, start there. Assistants that search the web use search indexes, so a page Google and Bing cannot find is a page no assistant will cite. Our comparison of search, answer-engine and generative search work at /compare/seo-vs-aeo-vs-geo explains the order to do things in, and our earlier piece at /blog/how-to-get-your-brand-cited-by-ai-search goes deeper on brand mentions. When the basics are done and you still are not named, our AI search work is at /services/ai-search.
+
+### Questions we get asked
+
+#### Can I pay to be cited by ChatGPT?
+
+No. There is no paid placement in the sources these assistants cite. Anyone selling guaranteed citations is selling something they do not control.
+
+#### Does ranking on Google help me get cited?
+
+Yes. Pages that rank well are more likely to be found when an assistant searches, though a clear, well-structured page can be cited without ranking first.
+
+#### How do I know if an assistant is citing me?
+
+Ask it the questions your buyers ask, several times each, and note whether you appear. Answers vary between runs, so look for a pattern, not a single result.
+
+#### Do I need an llms.txt file?
+
+It is not required by any assistant, and Google says it does not use it. It is cheap to add, and some tools do read it, so we publish one.
+
+## Shopify SEO basics for a store that has just opened
+
+https://driftedmarketing.com/blog/shopify-seo-basics-for-a-new-store/ · Performance media · by Umer Tariq · published 2026-10-30
+
+What to set before a new Shopify store goes live so search engines can find and understand it, in the order that matters, and what to ignore for now.
+
+A new Shopify store is invisible to search for a while however good it is, because Google has not yet found it, read it or decided what it is for. The basics are about shortening that wait and making sure that when Google does read the store, it reads the right thing. None of it is clever. Most of it is filling in boxes Shopify already gives you.
+
+**The short version.** Shopify SEO basics come down to five things: connect the store to Google Search Console and submit its sitemap, write a unique title and description for every product and collection, describe every image, write real collection copy, and keep the theme fast. Shopify handles the technical plumbing. The words are your job.
+
+### What does Shopify already handle for you?
+
+More than most owners realise. Every Shopify store gets a sitemap generated automatically, a secure connection, a canonical tag on each page so duplicate addresses are not counted twice, a robots file that keeps the checkout and cart out of search, and product markup in most modern themes so Google can read prices and stock. You do not need an app for any of these, and installing one that claims to add them often adds a second, conflicting copy.
+
+### What should you do on the first day?
+
+1. Remove the storefront password once the store is ready. A password page blocks every search engine.
+2. Add the store to Google Search Console, verify it, and submit the sitemap, which lives at your domain followed by sitemap.xml.
+3. Set the homepage title and description under Online Store, Preferences. Say what you sell and where, in plain words.
+4. Connect your own domain and make it the primary one, so the myshopify address redirects to it.
+5. Add the store to Bing Webmaster Tools too; it can import straight from Search Console, and Bing feeds several AI assistants.
+
+Our guide to reading Search Console, at /blog/read-your-own-search-console-in-ten-minutes, covers what to look at once data starts arriving.
+
+### How should product pages be written for search?
+
+Each product page should answer the search a buyer would type for it. That means a title that names the thing the way a customer would, not your internal code; a search title and description, set under the search engine listing section at the bottom of the product editor, that are unique to that product; and a description written for a person deciding whether to buy, covering what it is, what it is made of, how it fits or is used, and how it ships.
+
+| Field | What to write | Common mistake |
+| --- | --- | --- |
+| Product title | The plain name a customer would search for | Internal codes or the brand's own nickname |
+| Search title | Product name, the key detail, and your store name | Left blank, so every page reads the same |
+| Search description | One or two sentences that make someone want to click | Copied from the supplier, word for word |
+| Image alt text | What the photo actually shows | Blank, or the file name |
+| Handle | Short, readable words | Changed after launch without a redirect |
+
+### Why do collection pages matter more than people think?
+
+Because collections match the broad searches. Someone looking for one product types its name. Someone shopping types the category: linen bedsheets, kids' party dresses, leather wallets for men. Those searches land on collection pages, and most collection pages carry nothing but a grid of products and a title. Add a short paragraph that says what is in the collection, who it suits and what to look for, written for a shopper, and give the collection its own search title and description.
+
+### What should you ignore for now?
+
+- Search apps that promise automatic results. Most add scripts that slow the store and change nothing Google cares about.
+- Publishing dozens of blog posts in the first month. A few that answer real buyer questions beat many that do not.
+- Chasing links from directories. A handful of real mentions from people in your trade are worth more.
+- Checking rankings daily. A new store moves slowly, and daily checking only produces worry.
+
+Speed is the one technical thing worth watching from the start. Every app you install can add code to every page, and a theme stuffed with sliders and pop-ups loads slowly on a phone. Our plain-English piece on speed is at /blog/website-speed-in-plain-english, and once the store is live, the next step is our list of fixes that matter for a running store, at /blog/shopify-seo-the-fixes-that-matter.
+
+### What about a store in more than one country?
+
+If you sell in more than one country or language, set that up through Shopify Markets rather than by copying the store. Markets gives each country its own address, currency and, if you translate, its own language version of every page, and it adds the tags that tell Google which version to show to whom. A copied second store splits your reputation in two and competes with itself in search.
+
+Keep the plan simple at first. Start with the country where most of your buyers are, get the basics right there, and add a second market only when there is demand for it, not because the setting exists. A store that does one country well is found more often than one that does three badly.
+
+### When do you not need help with this?
+
+For a store with a few dozen products and an owner willing to spend a weekend filling in fields, everything above is doable alone, and we would rather you did it than paid for it. Help earns its fee on a large catalogue, a migration from another platform where old addresses must redirect, or a store where the basics are done and sales from search still are not coming. That work is described at /services/shopify-seo.
+
+### Questions we get asked
+
+#### Is Shopify good for SEO?
+
+Yes, for most small stores. It handles the technical basics well. What it cannot do is write your titles, descriptions and collection copy.
+
+#### How long until a new Shopify store shows up on Google?
+
+Submitting the sitemap in Search Console usually gets pages found within days. Ranking for competitive searches takes much longer and depends on the words on the page and the store's reputation.
+
+#### Do I need an SEO app?
+
+Usually not at the start. The built-in fields cover the basics, and many apps add code that slows the store down.
+
+#### Should every product have its own description?
+
+Yes. Supplier text copied across many stores gives Google no reason to choose yours. Write your own, even if it is short.
+
+## How a Karachi studio works with US businesses across timezones
+
+https://driftedmarketing.com/blog/working-across-timezones-karachi-and-the-us/ · How we work · by Umer Tariq · published 2026-10-30
+
+The time difference between Karachi and the United States, what it costs a client, what it quietly gives them, and the working rules that make it hold.
+
+The first question an American business owner asks us is rarely about price. It is about the clock. If the studio is in Karachi, who answers when something breaks at two in the afternoon in Ohio? It is the right question, and the honest answer has a cost side and a benefit side.
+
+**The short version.** Drifted is a studio in Karachi, Pakistan, working with small businesses in the United States. Karachi runs ahead of every US timezone, so the team works while clients sleep and the founder keeps New York hours. Clients send a brief in the evening and wake up to the work. Live chat in the US afternoon is the trade-off.
+
+### How far apart are Karachi and the United States?
+
+Pakistan keeps one time all year and does not move its clocks. The United States does. So the gap to New York is nine hours in summer and ten in winter, and it grows by another three hours to the West Coast. In practice, the Karachi working day runs through the American night and finishes as the East Coast is starting its morning.
+
+| When it is morning in New York | In Karachi | Who is working |
+| --- | --- | --- |
+| Early morning | Late afternoon | The Karachi team is finishing the day's work |
+| Mid-morning | Evening | The founder takes client calls; the team has handed over |
+| US afternoon | Night | The founder is reachable; production is paused |
+| US evening and night | Next working day | The team builds, edits and ships |
+
+### What does the time difference cost a client?
+
+Instant back-and-forth during the American afternoon. If your way of working is to message an editor, see a change ten minutes later and message again, a studio on the other side of the world will feel slow for exactly that kind of work. A small fix asked for at three in the afternoon in Chicago will usually be done when you wake up, not before you leave the office.
+
+It also costs a little discipline. A brief that would be fine in a hallway conversation has to be written down, because the person doing the work cannot lean over and ask what you meant.
+
+### What does it give a client?
+
+A working day that happens while you are not working. Send the brief, the photos or the feedback before dinner, and the edit, the page or the revised ad is waiting in the morning. For a small business whose owner reviews marketing between other jobs, that rhythm suits how they already live: decide in the evening, review over coffee.
+
+And it gives a founder who keeps your clock. Umer, who founded the studio and sets the plan on every account, works from Karachi on New York time, so the calls happen in your working morning and the person on the call is the person responsible for the work.
+
+### What are the working rules that make it hold?
+
+1. Every request is written down, in one place, with what done looks like. Voice notes are fine; they get written up.
+2. A handover note closes each Karachi day: what shipped, what is waiting on the client, and what is next.
+3. Every client has one named person who answers for the account, so nothing waits on a team deciding whose turn it is.
+4. Calls are booked in the client's timezone, never ours, and every date we give is in the client's timezone too.
+5. Anything urgent goes to the founder, who is awake on your clock.
+
+The team behind those rules is small and named on /about: Zayan runs operations, Aahan heads creative, Sana sets content strategy, Maham art directs, Khizer and Ali edit and animate, and Hamza leads business development. The studio is at Murtaza Commercial, DHA, Karachi, and the address is on /contact.
+
+### What does a normal week look like?
+
+A client in New York sends feedback on a set of ad edits on Monday evening. While they sleep, Khizer recuts the edits in Karachi, Aahan reviews them against the brief, and Zayan checks they match what was agreed before anything goes out. On Tuesday morning, New York time, the client finds the revised edits, a short note of what changed and why, and one question that needs their answer. If the answer is quick, it goes back the same morning and the final versions arrive on Wednesday morning.
+
+Nothing about that week needed a call. When one is needed, it is booked for the client's morning with Umer, who has the whole account in front of him. The pattern holds because the handover note is written every day, whether or not anything went wrong.
+
+The thing a client notices most after a month is not the time difference. It is that work arrives in the morning, already reviewed, with the decision that needs them written at the top.
+
+### When is a studio on the other side of the world the wrong choice?
+
+When your work needs someone physically there: a shoot at your shop, an event on the day, a person at the trade-show booth. Or when your marketing runs on live reaction during your afternoon, such as a support inbox or a fast-moving launch day. For those, hire locally and use a distant studio, if at all, for the slower, heavier work behind it. Our page for American businesses, at /us-brands, says what we take on and what we do not.
+
+### Questions we get asked
+
+#### What time is it in Karachi when it is morning in New York?
+
+Late afternoon or early evening, depending on the season, since Pakistan does not change its clocks and the United States does.
+
+#### Will I ever have to take calls at night?
+
+No. Calls are booked in your working hours. The founder keeps New York time for exactly that reason.
+
+#### How quickly do you reply?
+
+Within your working day for anything that needs a person, and urgent problems go straight to the founder. Production work is usually ready the next morning, your time.
+
+#### Is Drifted a US company?
+
+No. Drifted is a sole proprietorship registered in Pakistan, working with clients in the United States and elsewhere.
+
+## What a texted AI concierge is, and how Housefly does it
+
+https://driftedmarketing.com/blog/what-is-a-texted-ai-concierge/ · AI product · by Umer Tariq · published 2026-10-30
+
+An assistant you reach by text message instead of an app: what it is good for, what it should never be allowed to do, and how we are building ours.
+
+Most people already have a chat assistant. Few use it for the small, constant jobs of running a business, because opening an app, finding the right conversation and explaining the background again takes longer than the job. A texted concierge removes those steps. You send a message the way you would to a capable assistant, and it already knows who you are and what you were doing.
+
+**The short version.** A texted AI concierge is an assistant you message by text instead of opening an app. It remembers your business, your preferences and your earlier conversations, and replies like a person who knows you. Housefly Concierge, which we are building at Drifted, keeps each member's memory sealed from every other member's.
+
+### What makes a concierge different from a chatbot?
+
+A chatbot answers the message in front of it. A concierge carries the relationship. Three things make the difference, and a product that lacks any of them is a chatbot with a nicer name.
+
+|  | Chatbot | Concierge |
+| --- | --- | --- |
+| Where you reach it | Its own app or website | Text messages, where you already are |
+| What it knows | This conversation | You, your business and what you have asked before |
+| What it learns | Nothing that lasts | Your taste: how you like things written, chosen and decided |
+| Who else it serves | Often everyone, from one shared setup | Only you, with your memory kept apart |
+
+### What is a texted concierge actually good for?
+
+- Drafting the reply you have been putting off, in your own voice, ready for you to send.
+- Remembering what you promised a customer on a call and reminding you before it is late.
+- Turning a photo of a receipt, a menu or a whiteboard into something usable.
+- Answering the question you would otherwise ask a colleague, at any hour.
+- Keeping a running list of decisions so you do not have to.
+
+The common thread is that each job is small, frequent and needs context. That is where a phone message beats an app: the friction of starting is close to nothing, so the job actually gets handed over.
+
+### What should a concierge never be allowed to do?
+
+Act on your accounts without your yes. A concierge that can draft is useful. One that can send, pay, delete or post on its own is a risk you carry every time it misreads a message. In Housefly, the software we run the studio on, anything that would change a client's account goes through an approval step: it proposes, a person reads exactly what will happen, and only then does it happen. The concierge is built to the same rule. It replies to you. It does not reach into the world on your behalf.
+
+It should also never mix you up with someone else. The easy way to build a texted assistant is one brain for everyone, which means one member's business can surface in another member's answer. We rejected that design. Each Housefly Concierge member has a sealed memory of their own, and the model only ever sees that member's memory when it answers that member.
+
+### How is Housefly Concierge being built?
+
+Housefly started as our own in-house assistant: it prepares briefs before client calls, splits call notes into what we owe and what the client owes us, and drafts monthly reports with the judgement section left for a person. The concierge takes the part people liked most, being able to text it and be understood, and builds it as its own product for members outside the studio.
+
+1. Access is by invitation. A number that is not a member gets no reply and nothing it sends is kept.
+2. Each member gets a sealed space holding their memory, their taste notes and their conversation history.
+3. When a message arrives, the model sees only that member's space, with no studio memory and no other member's data.
+4. It replies by text. It has no tool for sending email, spending money or changing an account.
+
+It is not open to the public yet. Founding members are being invited first, and the place to read about it and ask for a seat is https://heyhousefly.com. We would rather open it slowly to people who will tell us what is wrong than widely to people who will not.
+
+### Why text, and not another app?
+
+Because the hardest part of handing over a small job is starting. A new app asks you to install it, sign in, learn where things are and remember to open it. A text thread is already on your home screen, already the place you talk to the people who help you, and it works the same on any phone. It also sets a useful limit on the assistant: a text conversation is short, plain and personal, which pushes the replies to be the same.
+
+Text has costs too. It is not the place for a long document or a spreadsheet, and messages can be read by anyone holding your unlocked phone. A good concierge treats the thread as the front door, not the filing cabinet: it keeps the record in the member's sealed memory and replies with only what the moment needs.
+
+### Who should not use one?
+
+If your work is mostly in one tool that already has a good assistant built in, a texted concierge adds a second place to look. If you cannot accept any business information leaving your own devices, any assistant built on a hosted model is the wrong fit, ours included. And if what you need is a person to make decisions, a concierge will not do it. It is built to take the remembering and the first drafts, so that the decisions stay with you.
+
+### Questions we get asked
+
+#### Is a texted AI concierge the same as a virtual assistant?
+
+It covers part of the same ground: drafting, reminding, organising. It does not replace a person who can make calls on your behalf or use judgement in a room.
+
+#### Can other members see what I tell Housefly Concierge?
+
+No. Each member's memory is sealed, and the model sees only that member's space when it answers. That separation is the reason the product exists in the form it does.
+
+#### Can it send emails or make purchases for me?
+
+No. It drafts and replies to you. Sending, paying and posting stay with you.
+
+#### How do I join?
+
+Read about it and request a founding seat at https://heyhousefly.com. Our studio software is described at /housefly.
+
+## How to warm up a sending domain before cold outreach
+
+https://driftedmarketing.com/blog/how-to-warm-up-a-sending-domain/ · Performance media · by Umer Tariq · published 2026-10-30
+
+Why a brand-new domain cannot send cold email on its first day, what a warm-up actually does, and the slow, boring schedule that keeps a domain out of spam.
+
+A new domain has no reputation, and to an inbox provider no reputation looks a lot like bad reputation. Spammers register fresh domains every day, burn them in a week and move on. So when a domain registered on Monday sends a few hundred cold emails on Tuesday, it looks exactly like them. Warming up is the process of looking like something else.
+
+**The short version.** Warming up a sending domain means building its reputation slowly before cold outreach. Set SPF, DKIM and DMARC first, then send a small number of real, plain-text emails a day that get opened and answered, and raise the number gradually over several weeks. Rushing it is the most common way a new outreach domain ends up in spam.
+
+### Why does a new domain need warming at all?
+
+Gmail, Outlook and Yahoo judge a sender largely by history: how much it sends, how steadily, and how recipients react. A domain with no history gives them nothing to go on, so they are cautious with it. Every message you send in the first weeks is evidence. Opens, replies and messages rescued from the spam folder count for you. Bounces, deletions without opening and spam reports count against you.
+
+The goal of a warm-up is to build a short history that looks like a real person starting to use a real mailbox: a few messages, mostly to people who answer, growing as the conversations grow.
+
+### What has to be in place before the first email?
+
+- The three records: SPF, DKIM and DMARC, all passing. Our piece on why cold email lands in spam, at /blog/why-cold-email-lands-in-spam, covers how to check them.
+- A real mailbox with a real name, a profile photo and a signature, not a no-reply address.
+- A simple website on the domain, or a redirect to your main site, so anyone who checks the domain finds a business.
+- A custom tracking domain in your outreach tool if you track opens or clicks, so your links do not share a reputation with every other customer of that tool.
+
+We bought hellodrifted.com, at https://hellodrifted.com, for exactly this reason: so that our cold outreach builds, and if it goes wrong spends, its own reputation instead of the one driftedmarketing.com carries for our clients. It went through every step on this list before it sent a single cold message.
+
+### What does a sensible warm-up schedule look like?
+
+There is no official number, and anyone who quotes one as a rule is guessing. What every inbox provider rewards is the shape: small, steady, rising slowly, with good reactions throughout. The plan below is the shape we follow, expressed in stages rather than counts, because the right count depends on how many mailboxes you run and how your early messages are received.
+
+| Stage | What you send | Move on when |
+| --- | --- | --- |
+| First week | A handful a day per mailbox, to people you know who will reply | Nothing bounces and replies come back |
+| Second and third weeks | Gradually more each day, still mostly warm contacts, plain text, no links | Messages keep landing in the inbox, not promotions or spam |
+| From the fourth week | The first small cold sends, mixed in with ongoing warm traffic | Reply rate holds and no spam complaints arrive |
+| After that | Raise volume slowly; never jump from a quiet day to a big one | Keep watching placement every week |
+
+Most outreach tools include an automatic warm-up feature that trades emails between thousands of mailboxes and marks them as important. It helps with volume and is worth switching on, but it is not a substitute for real replies from real people. Treat it as background noise that keeps the mailbox active, not as the reputation itself.
+
+### What kills a warm-up?
+
+- Sending to a bought or scraped list with dead addresses. A bounce tells the provider you do not know who you are writing to.
+- Links, images and attachments in early messages. Plain text from a person looks like a person.
+- The same message sent word for word to everyone. Inbox providers notice identical content at volume.
+- Big jumps. A quiet week followed by a busy day undoes the steadiness you were building.
+- Ignoring replies. A conversation is the best signal there is, and leaving it unanswered wastes it.
+
+### How do you know it is working?
+
+Send a test message every few days to inboxes you control on Gmail and Outlook and look at where it lands. Watch your bounce rate and your reply rate in the outreach tool. Register the domain with Google Postmaster Tools, which shows Google's own view of your domain reputation once you send enough mail for it to report. If messages start sliding into spam, stop raising volume, go back a stage, and look at the list and the copy before you look at the settings.
+
+### When is warming up the wrong thing to spend time on?
+
+If you only send a few personal emails a week from your normal business address, you do not need any of this. Warming up matters when you plan to contact people who have not heard of you, in volume, over months. And if the offer is weak, a perfectly warmed domain will still get no replies. In that case the work is the offer and the first line, not the domain. We write about choosing what to say at /services/email-marketing.
+
+### Questions we get asked
+
+#### How long does it take to warm up a domain?
+
+Plan on several weeks before the first real cold send, and keep warming after that. Slower is safer. A domain burned in a hurry usually has to be replaced, not repaired.
+
+#### Can I warm up my main domain instead?
+
+You can, but if cold outreach then damages its reputation, your invoices and client emails suffer with it. A separate outreach domain keeps that risk away from the business.
+
+#### Do warm-up tools work?
+
+They help keep a mailbox active and are worth using. They do not replace real replies, and a provider can tell the difference over time.
+
+#### Should I buy several domains?
+
+Only if your volume truly needs it. Every domain needs its own records, mailboxes and warm-up, so more domains means more to look after.
+
+## Why cold email lands in spam, and how SPF, DKIM and DMARC fix it
+
+https://driftedmarketing.com/blog/why-cold-email-lands-in-spam/ · Performance media · by Umer Tariq · published 2026-10-30
+
+What the three email records actually prove to Gmail and Outlook, how to tell which one you are missing, and why a good record still cannot save a bad list.
+
+Most cold email that lands in spam was never read by a spam filter's idea of a person. It was judged before anyone opened it, on two questions: can this sender prove it is who it says it is, and do people who get mail from it seem to want it. The first question is answered by three records in your domain's settings. The second is answered by your list and your writing.
+
+**The short version.** Cold email lands in spam when the receiving server cannot verify the sender, or when recipients ignore or report it. SPF lists who may send for your domain, DKIM signs each message, and DMARC tells servers what to do when either check fails. Set all three, then send less, to fewer, better-chosen people.
+
+### What does a mail server check before it shows your email?
+
+When your message arrives at Gmail or Outlook, the receiving server looks up your domain and asks it a series of questions. Is the server that handed over this message one the domain says it uses? Does the message carry a signature that only the domain's real key could have made? Has the domain published a policy for what to do when those answers come back wrong? Only after that does it look at the content, the links and the history of how people have treated your mail before.
+
+Google and Yahoo now require bulk senders to pass these checks and to offer a one-click unsubscribe, and Microsoft has followed. A domain that skips them is not breaking a law. It is simply asking to be trusted without showing any identification, and the inbox treats it the way a bouncer treats a guest with no name on the list.
+
+### What is SPF, in plain words?
+
+SPF, the Sender Policy Framework, is a single text record on your domain that lists the services allowed to send mail as you: your Google Workspace or Microsoft account, your newsletter tool, your outreach tool. If a message claims to come from your domain but arrives from a server not on the list, it fails.
+
+The common mistakes are small. A domain ends up with two SPF records instead of one, which counts as broken. A new sending tool is added without being added to the record. Or the record lists so many services, each of which lists more, that it passes the lookup limit receiving servers will follow. Each of those fails quietly. Nothing bounces. Your mail just starts arriving in junk.
+
+### What is DKIM, and why is it the one people miss?
+
+DKIM, DomainKeys Identified Mail, signs every message with a private key your mail provider holds, and publishes the matching public key on your domain. The receiving server checks the signature against the key. If it matches, the message really came through your provider and was not altered on the way.
+
+It is the one people miss because nothing forces you to switch it on. Google Workspace sends mail perfectly well without it. You have to generate the key in the admin console, add it to your domain as a text record, and then press the button that starts signing. We found exactly this on our own main domain in October: the SPF record was right, a DMARC policy was in place and asking servers to quarantine anything that failed, and there was no DKIM key at all. So our own policy was telling Gmail to put our own mail in junk. We added the key the same day and the admin console now reports that it is authenticating.
+
+### What does DMARC add?
+
+DMARC, Domain-based Message Authentication, Reporting and Conformance, is the rule that ties the other two together. It says what a receiving server should do when a message fails: nothing, send it to junk, or reject it. It also asks that the domain in the visible From line matches the domain that passed SPF or DKIM, which is what stops someone sending as you from a lookalike setup. And it names an address where servers send reports of what they saw.
+
+Start with the policy set to none and read the reports for a couple of weeks. They will show you every service sending as your domain, including ones you forgot. Move to quarantine once your own mail passes, and to reject when you are sure. Point the reports at an inbox someone actually reads. Ours were going to an address at the old domain registrar that nobody checked, which is how a missing signature went unnoticed.
+
+| Record | What it proves | What breaks it |
+| --- | --- | --- |
+| SPF | The sending server is allowed to send for you | Two records, a missing tool, too many lookups |
+| DKIM | The message was signed by your provider and not altered | Never switched on, key not published, tool signs with its own domain |
+| DMARC | The From line matches a passing check, and what to do if not | No record, reports going nowhere, policy too strict too soon |
+
+### How do you check which records you have?
+
+1. Send a message from your domain to a Gmail address you control.
+2. Open it, choose Show original from the message menu, and read the three lines at the top: SPF, DKIM and DMARC, each marked pass or fail.
+3. For any fail, look up your domain in a free record checker such as MXToolbox or Google's own Admin Toolbox, which will show the record or its absence.
+4. Fix the record with your domain registrar, wait for it to spread, and send the test again.
+
+### Why can mail still land in spam with all three set?
+
+Because the records prove identity, not welcome. Once Gmail knows who you are, it judges you by how its users treat your mail: whether they open it, reply, move it out of spam, or mark it as spam. A cold list bought from a broker, a first email with three links and an image, or a sudden jump from nothing to hundreds of sends a day will sink a perfectly authenticated domain.
+
+This is why we send our own outreach from a separate domain, hellodrifted.com, at https://hellodrifted.com, rather than from driftedmarketing.com. If cold outreach ever earns a bad reputation, it earns it for the outreach domain, and the domain our clients and invoices come from stays clean. The outreach domain gets its own records and its own warm-up, which is the subject of the next piece.
+
+### When is this not worth paying an agency for?
+
+Setting the three records is an afternoon's work for anyone comfortable in a domain registrar, and the steps above are the whole job. You do not need us for it. Where it is worth help is when mail is landing in spam and the records already pass, because then the problem is the list, the copy or the sending pattern, and that takes judgement rather than settings. Our email work is described at /services/email-marketing.
+
+### Questions we get asked
+
+#### Do I need SPF, DKIM and DMARC if I only send a few emails?
+
+Yes. The records cost nothing, and without them even a handful of messages can be judged as unverified. A small sender with no records is easier to junk, not harder.
+
+#### Will DMARC on its own fix spam?
+
+No. DMARC is a policy about the other two checks. With no DKIM and a strict DMARC policy, it can make things worse, which is what happened on our own domain.
+
+#### Should cold email go from my main domain?
+
+We would not. Use a separate, similar domain for outreach, set its records, warm it up, and keep your main domain for customers and invoices.
+
+#### How long does a record change take?
+
+Usually minutes to a few hours, depending on your registrar. Test again the same day, and if it still fails, check for a second conflicting record.
+
 ## Shopify SEO: the fixes that actually matter for a small store
 
 https://driftedmarketing.com/blog/shopify-seo-the-fixes-that-matter/ · Performance media · by Umer Tariq · published 2026-10-28
