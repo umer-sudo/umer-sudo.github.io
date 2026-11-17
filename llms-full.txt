@@ -11,7 +11,7 @@ Drifted Marketing (also called Drifted) is a growth agency founded in 2026 by Um
 - Name: Drifted Marketing (short name: Drifted). Legal entity: a sole proprietorship registered in Pakistan; there is no US company.
 - Founded: 2026, in Karachi, Pakistan. Founder: Umer Tariq, who sets the plan and signs off every number.
 - Studio: 111-C, Murtaza Commercial, DHA Phase 8, Karachi, Pakistan.
-- Team: one studio in Karachi, led by the founder: Umer Tariq (Founder), Zayan (Head of Operations), Aahan (Head of Creative), Hamza (Business Development), Sana (Creative Strategist), Maham (Art Director), Khizer (Video Editor), Ali (Animator and Video Editor), Raid (Business Development). Hours: New York business hours, worked from Karachi.
+- Team: one studio in Karachi, led by the founder: Umer Tariq (Founder), Zayan (Head of Operations), Aahan (Head of Creative), Hamza (Business Development), Sana (Creative Strategist), Maham (Art Director), Khizer (Video Editor), Raid (Business Development). Hours: New York business hours, worked from Karachi.
 - Serves: brands in the United States, the Netherlands, Australia and Pakistan.
 - Services: performance media (Meta and Google ads), creator growth and content, custom AI apps.
 - Service pages: [Meta ads](https://driftedmarketing.com/services/meta-ads/) · [Google ads](https://driftedmarketing.com/services/google-ads/) · [Short-form video](https://driftedmarketing.com/services/short-form-video/) · [Social content](https://driftedmarketing.com/services/social-content/) · [Email marketing](https://driftedmarketing.com/services/email-marketing/) · [Search visibility](https://driftedmarketing.com/services/search-visibility/) · [AI search](https://driftedmarketing.com/services/ai-search/) · [AI apps](https://driftedmarketing.com/services/ai-apps/) · [App development](https://driftedmarketing.com/services/app-development/) · [Website development](https://driftedmarketing.com/services/website-development/) · [Shopify stores](https://driftedmarketing.com/services/shopify-stores/) · [AI listing writer](https://driftedmarketing.com/services/ai-listing-writer/) · [Landing pages](https://driftedmarketing.com/services/landing-pages/) · [Brand identity](https://driftedmarketing.com/services/brand-identity/) · [Local search](https://driftedmarketing.com/services/local-seo/) · [Shopify search](https://driftedmarketing.com/services/shopify-seo/)
@@ -326,6 +326,8 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - [App development for US and European startups](https://driftedmarketing.com/for/us-startups/) — Who it is for · US and EU startups
 - [A website that sounds like you](https://driftedmarketing.com/for/coaches-and-healers/) — Who it is for · Coaches and healers
 - [A Karachi marketing agency that says the number](https://driftedmarketing.com/pakistan/marketing-agency-karachi/) — Pakistan · Karachi studio
+- [A Karachi advertising agency judged on orders](https://driftedmarketing.com/pakistan/advertising-agency-karachi/) — Pakistan · Karachi advertising
+- [Shopify stores for Pakistani brands](https://driftedmarketing.com/pakistan/shopify-agency-karachi/) — Pakistan · Shopify, Karachi
 - [A digital marketing agency in Pakistan](https://driftedmarketing.com/pakistan/digital-marketing-agency-pakistan/) — Pakistan · Pakistan, worldwide
 - [Apps built in Karachi, priced to earn](https://driftedmarketing.com/pakistan/app-development-company-karachi/) — Pakistan · AI apps, Karachi
 - [Websites built in Karachi to convert](https://driftedmarketing.com/pakistan/website-development-karachi/) — Pakistan · Web, Karachi
@@ -362,6 +364,338 @@ One page per thing we sell, per kind of buyer, per Pakistan query and per decisi
 - No guaranteed results. Nobody who guarantees a result is telling you the truth.
 
 # The journal, in full — written by Umer Tariq
+
+## How to market a US small business on a small budget
+
+https://driftedmarketing.com/blog/marketing-a-us-small-business-on-a-small-budget/ · Performance media · by Umer Tariq · published 2026-11-17
+
+Where a small American business should spend its first marketing money, in what order, and what to leave alone until the basics are paying for themselves.
+
+A small business with a small budget cannot do everything, and the advice it finds usually assumes it can: post daily on five platforms, start a podcast, run ads everywhere, hire an agency. The businesses that grow on little money do the opposite. They pick the few places their customers already look, get those right, and add a channel only when the last one is working.
+
+**The short version.** Start where buyers already search: a complete Google Business Profile, a fast website that says what you do and what it costs, and reviews from real customers. Then pick one social platform your customers use and post useful, real content there. Only then put a small, measured budget into ads, and judge them on sales.
+
+### What should a small business do first?
+
+1. Claim and complete your Google Business Profile: the right category, hours, photos, and a description in your customers' words.
+2. Make sure your website loads fast on a phone and answers three questions on the first screen: what you do, for whom, and how to start.
+3. Ask every happy customer for a review, with a direct link, the same day the job is done.
+4. Put your prices, or at least a starting price, where people can find them.
+5. Answer every message and missed call quickly. A fast reply wins work from slower competitors.
+
+None of this costs much money. It costs attention, and it compounds: every review and every improved page keeps working without a monthly bill. Our pieces on local search, at /services/local-seo, and on landing pages, at /blog/landing-pages-that-convert, go deeper.
+
+### Which social platform should you pick?
+
+| If your customers are | Start with | Post |
+| --- | --- | --- |
+| Local households | Facebook and Instagram | Your work, your team, before and after, offers for neighbours |
+| Younger consumers | Instagram and TikTok | Short videos made for strangers, not followers |
+| Other businesses | LinkedIn | What you learned doing the work, written plainly |
+| People searching how to do something | YouTube | Answers to the questions customers ask you |
+
+One platform done well beats four done badly. Post what a stranger would find useful or interesting, show the real work and the real people, and keep going long enough to learn what lands. Our piece on reach, at /blog/reach-beats-followers, explains why the stranger matters more than the follower.
+
+### When should a small business start paying for ads?
+
+When the basics are in place and you know what you are selling to whom. Then start small: one offer, one audience, a few creative versions, and a budget you can afford to lose while you learn. Judge ads on sales or booked calls, not on clicks or likes, and turn off what does not work quickly. Search ads suit businesses people look for when they need them, such as plumbers or clinics; Meta ads suit products people do not know they want until they see them.
+
+If you are not sure whether your budget is big enough for ads to learn anything, our piece at /blog/is-an-ads-agency-worth-it and the calculator at /tools/ad-spend-floor give an honest answer.
+
+### What can a small business safely ignore?
+
+- Being on every platform. Pick one or two.
+- Follower counts. Count enquiries and sales.
+- Expensive software before you have a process for it to run.
+- Long-term contracts with anyone, including agencies.
+- Trends that do not fit what you sell.
+
+### When should you hire help, and when not?
+
+Do the basics yourself first; they are cheap and you learn your customers doing them. Hire help when the work needs skills you do not have, such as making video or running ads at a level that makes money, and when your time is worth more spent on the business than on the marketing. We work with American small businesses from Karachi on New York hours, with published fees on /pricing. If your budget is still small enough that a freelancer or your own evenings would do, that is the better choice for now.
+
+### Questions we get asked
+
+#### What is the cheapest way to market a small business?
+
+A complete Google Business Profile, steady reviews from real customers, and a clear website. All three cost little and keep working without a monthly bill.
+
+#### How much should a small business spend on marketing?
+
+Enough to test one channel properly, and no more until it pays back. Start with the free basics, then add a small ad budget you can afford to learn with.
+
+#### Is social media enough to market a small business?
+
+Rarely on its own. Most local buyers search Google first, so your profile, reviews and website matter as much as your posts.
+
+#### Should a small business hire a marketing agency?
+
+When the work needs several skills at once and the budget can carry a fee as well as the ad spend. Before that, a freelancer or doing it yourself is usually better value.
+
+## Daraz or your own Shopify store: where a Pakistani brand should sell
+
+https://driftedmarketing.com/blog/daraz-or-your-own-shopify-store/ · Performance media · by Umer Tariq · published 2026-11-17
+
+What a marketplace gives you and what it takes, what your own store costs to run each month, and why most growing brands in Pakistan end up using both.
+
+Every Pakistani brand that starts selling online meets the same choice. Daraz has the buyers already: people who open the app to shop, trust its delivery and returns, and pay the way they like. Your own store, on Shopify or something like it, has none of that on day one, but it keeps the customer, the margin and the brand. The answer is rarely one or the other forever. It is which comes first, and what each is for.
+
+**The short version.** Sell on Daraz when you need buyers now and your product can compete on price and reviews there. Build your own store when you want to own the customer, the brand and the margin, and you can bring your own traffic with Instagram, Facebook and search. Most growing brands use Daraz for reach and their own store for repeat buyers.
+
+### What does each one cost?
+
+| Cost | Daraz | Your own Shopify store |
+| --- | --- | --- |
+| To start | Seller registration; little or no upfront cost | A monthly Shopify plan, a theme, a domain |
+| Per sale | Commission by category, payment and handling fees | Payment gateway fees on card and wallet orders |
+| To get buyers | Marketplace ads and campaigns, optional but often needed | Your own ads, content and search work |
+| Running costs | Promotions the platform asks sellers to join | Apps, the courier integration, someone to run it |
+| Who owns the customer | The marketplace | You |
+
+Daraz publishes its commission rates by category inside Seller Center, and they change, so read the current table for your category rather than a blog's figure. Shopify's plans are priced in dollars and billed monthly; on top of the plan, budget for the apps you add, a Pakistani payment gateway or wallet, and the courier connection. Our piece at /blog/what-a-shopify-store-costs-in-pakistan breaks that down line by line.
+
+### When does Daraz make more sense?
+
+- You are testing whether a product sells at all and do not want to build a store first.
+- Your product is a known category that people search for by name, where price and reviews decide.
+- You do not yet have the content or ad budget to bring buyers to a store of your own.
+- You want the marketplace's delivery and returns to handle trust for you.
+
+### When does your own store make more sense?
+
+- Your brand, look and story are part of what people pay for.
+- You sell through Instagram and Facebook already and want somewhere better to send buyers than a direct message.
+- You want the customer's details so you can sell to them again by message or email.
+- Your margin cannot carry a marketplace commission plus a discount campaign.
+- You plan to sell abroad as well as in Pakistan.
+
+A store does not bring buyers by itself. If you build one, plan how people will find it: ads, content made for the people scrolling past, and the search basics in /blog/shopify-seo-basics-for-a-new-store. A beautiful store with no traffic is a shop on an empty street.
+
+### Can a brand use both?
+
+Most successful ones do. The marketplace brings first-time buyers who would never have found the brand, and the packaging, the insert card and the follow-up message invite them to buy next time from the brand's own store or Instagram. Keep prices consistent, so neither channel undercuts the other, and keep stock counts in one place so you do not sell the same item twice.
+
+### When is neither the answer?
+
+For some small sellers, selling directly through Instagram and WhatsApp is the right place to stay for a while: no commission, no monthly plan, and a direct conversation with each buyer. It stops working when the messages become too many to answer and orders get lost, which is the moment a store earns its keep. We build stores for brands at that point; if you are not there yet, you do not need us.
+
+### Questions we get asked
+
+#### How much does Shopify cost per month in Pakistan?
+
+Shopify bills its plans monthly in dollars. Add the apps you install, a local payment gateway's fees and your courier integration to get the real monthly cost.
+
+#### Is Daraz commission the same for every product?
+
+No. It varies by category and changes over time. Check the current rates in Daraz Seller Center for your category before you price.
+
+#### Can I accept cash on delivery on Shopify in Pakistan?
+
+Yes. Cash on delivery can be offered as a payment method, and Pakistani couriers connect to Shopify through apps or their own integrations.
+
+#### Should I start on Daraz and move to my own store later?
+
+That is a sensible order for many brands: prove the product sells, then build a store once you have content and a way to bring buyers to it.
+
+## White Friday and Black Friday ads for Pakistani brands
+
+https://driftedmarketing.com/blog/white-friday-ads-for-pakistani-brands/ · Performance media · by Umer Tariq · published 2026-11-17
+
+How to plan Meta ads, content and the store for Pakistan's November sale season, what to change in the last week, and the mistakes that make a sale cost more than it earns.
+
+In Pakistan the November sale goes by several names. Some platforms call it White Friday, some Big Friday, some keep Black Friday, and many brands run their own sale across the last weekend of the month, close to the American Black Friday. Whatever it is called, it is the busiest and most expensive week of the year to advertise, and the brands that do well are the ones that planned before the auction got crowded.
+
+**The short version.** Build your audience and test your creative in the weeks before the sale, when ads cost less. Launch the offer to warm audiences first, keep one clear deal per ad, check that delivery and cash on delivery can cope with the volume, and stop or change ads quickly when the cost per order climbs past your margin.
+
+### When should a Pakistani brand start planning?
+
+Earlier than feels necessary. In the sale week itself many advertisers chase the same buyers at once, so the price of reaching each person rises. The cheap part of the season is the run-up: the weeks when you can show content to new people, collect video viewers and page visitors, and find out which product and which message people respond to. Those warm audiences are who you sell to when the sale opens.
+
+On the day we wrote this, the big platforms had not announced their dates for this year. Plan around the last weekend of November and adjust when they do. Your own sale does not have to match theirs to the hour; it has to be ready when the buyers are looking.
+
+### What should the plan include?
+
+| Stage | What to do | Why |
+| --- | --- | --- |
+| Run-up | Post and boost content, test products and hooks, grow warm audiences | Learning is cheaper before the auction is crowded |
+| Teaser | Announce the date and the offer to followers and past buyers | The people most likely to buy hear first |
+| Sale | One clear deal per ad, sent to warm audiences first, then wider | Clarity sells; warm buyers convert at lower cost |
+| Last day | Honest reminder that the sale ends, to people who visited | A real deadline is a reason to decide |
+| After | Thank buyers, follow up on delivery, ask for a review | The next sale starts with these customers |
+
+### What kind of creative works in the sale week?
+
+Plain beats clever. The buyer is scrolling past dozens of sale ads, so the ones that work say what the product is, what the deal is and when it ends inside the first second or two. Real product in real hands, the price before and after, and a reason to choose you, such as fast delivery in Karachi or Lahore or a size guide that removes doubt, do more than a polished banner that could belong to anyone.
+
+Make several versions before the sale, not during it. In the sale week you want to be choosing between ads that already work, not discovering that your one ad does not.
+
+### What breaks during a Pakistani sale?
+
+- Delivery. Couriers are busy across the country; promise times you can keep, and say them in the ad.
+- Cash on delivery refusals. Confirm orders by message or call before dispatch, especially large ones.
+- Stock. An ad that keeps running after the product sells out wastes money and annoys buyers.
+- The store. A slow page on a phone loses the buyer you paid to bring. Test it on mobile data, not office wifi.
+- Replies. Buyers message on Instagram and WhatsApp before they buy; slow replies lose sales.
+
+### How do you know if the sale made money?
+
+Count orders that were delivered and paid for, not orders placed, then subtract the discount, the ad spend, delivery and returns. A sale that doubles orders but halves margin and fills the week with refusals may have cost money. Compare it with a normal week, and keep the list of new buyers: they are worth more than the sale week's profit if you can bring them back. Our piece on reading an ad account, at /blog/read-an-ad-account-in-ten-minutes, covers what to look at.
+
+### When should a brand skip the sale?
+
+When the margin cannot carry a real discount, when stock or delivery cannot handle a spike, or when the brand depends on never being cheap. A small gift with purchase, early access for past buyers or simply better content that week can do more for those brands than a discount that trains customers to wait.
+
+### Questions we get asked
+
+#### What is White Friday in Pakistan?
+
+It is the name several Pakistani retailers use for their November sale, held around the same weekend as the American Black Friday. Other platforms call it Big Friday or keep the Black Friday name.
+
+#### When should I start running sale ads?
+
+Start building audiences and testing creative several weeks before. Launch the offer itself a few days ahead to followers and past buyers, then widen when the sale opens.
+
+#### Should I offer cash on delivery during the sale?
+
+Most Pakistani buyers expect it. Keep it, but confirm larger orders before dispatch and watch the refusal rate so the sale does not fill up with parcels that come back.
+
+#### Do Meta ads cost more in the sale week?
+
+Usually, because many advertisers compete for the same buyers at once. That is why the cheaper weeks before the sale should be used to find the ads and audiences that work.
+
+## How agency retainer fees work: flat fee, share of spend or both
+
+https://driftedmarketing.com/blog/how-agency-retainer-fees-work/ · Performance media · by Umer Tariq · published 2026-11-17
+
+The three ways marketing agencies charge each month, what each one rewards, how to calculate a fair retainer, and the clauses that turn a reasonable fee into an expensive one.
+
+An agency retainer is a fee you pay every month for an agreed amount of work, whatever happens in that month. It sounds simple until you put three proposals side by side and find that one is a flat fee, one is a share of your ad spend and one is a smaller flat fee plus a share. They are not comparable until you turn each into the same thing: what you would actually pay in a normal month, and what you get for it.
+
+**The short version.** Agencies charge a flat monthly fee, a percentage of your ad spend, or a mix of the two. A flat fee is predictable and does not reward spending more; a percentage grows with your budget whether or not results do. To compare, calculate each proposal's cost at your real monthly spend, then divide by what it delivers.
+
+### What are the three retainer structures?
+
+| Structure | How it works | What it rewards |
+| --- | --- | --- |
+| Flat retainer | One fee each month for a defined scope of work | Doing the agreed work well; neutral on how much you spend |
+| Percentage of ad spend | A share of whatever you spend on ads that month | Spending more, whether or not it sells more |
+| Hybrid | A smaller flat fee plus a smaller percentage, or whichever is higher | Some of each; read the thresholds carefully |
+| Performance fee | Paid per sale, lead or target reached | Hitting the measured number, sometimes at the cost of everything unmeasured |
+
+Published market guides put the percentage model at roughly ten to twenty per cent of monthly spend, usually falling as budgets grow; Stackmatix's 2026 guide to Facebook ads agency pricing gives that band and puts flat retainers from roughly $500 to past $5,000 a month. Treat any range as a map, not a price list: scope, market and seniority move the number more than the model does.
+
+### How do you calculate what a retainer really costs?
+
+1. Write down what you expect to spend on ads in a typical month, not your best month.
+2. For each proposal, work out the fee at that spend. A percentage is the spend times the rate; a hybrid is the flat part plus the percentage part, or whichever rule the contract states.
+3. Add any extras the proposal lists separately: shoots, reports, set-up fees, software.
+4. List what you get for that total each month: videos, posts, ad variations, pages, hours of senior time.
+5. Divide the total by what it delivers, and ask what happens to the fee if your spend doubles.
+
+The last step is the one that separates the proposals. A flat fee stays flat when you scale. A percentage doubles with your budget even if the work does not change. That can be fair, because more spend can mean more testing and more creative, but it should be written down as more work, not just more fee. The calculator at /tools/agency-fee-comparison does this arithmetic for you.
+
+### Which structure should a small business choose?
+
+For most small brands a flat fee is the safest start, because it makes the cost of the experiment known in advance and keeps the agency's advice about your budget honest. A percentage begins to make sense when spend is large and changes a lot month to month, and a hybrid when both sides want the fee to move a little with the work. A pure performance fee suits businesses where the result is clean and quick to measure, which is rarer than it sounds.
+
+Our own fees are flat and published on /pricing, and we never take a percentage of ad spend, which stays in the client's own account. We chose that because a percentage would pay us more for telling you to spend more, and that is the one piece of advice you need to be able to trust.
+
+### What clauses make a reasonable retainer expensive?
+
+- A minimum term with an automatic renewal you must cancel inside a narrow window.
+- A notice period much longer than the agency's own, or notice that must be served on paper.
+- Ad accounts, pages or creative held in the agency's name.
+- Set-up fees for work that is really the first month of the retainer.
+- Scope written as a list of activities with no deliverables or dates attached.
+
+Our checklist of contract clauses, at /tools/agency-contract-checklist, covers each one with the wording to ask for instead.
+
+### When is a retainer the wrong deal?
+
+When the work is a one-off. A website, a brand identity or a single campaign should be priced as a project with an end date, not dressed as a monthly fee. A retainer earns its keep when the work is continuous, such as ads that need new creative every week, and when the same people learning your business month after month is worth paying for.
+
+### Questions we get asked
+
+#### What is a typical agency retainer fee?
+
+It depends on scope and market. Published guides put flat retainers for ads management from a few hundred dollars to several thousand a month. Compare proposals on what each delivers, not on the headline fee.
+
+#### Is a percentage of ad spend fair?
+
+It can be at large budgets, but it pays the agency more when you spend more, whatever the result. If you accept it, cap it, or tie extra fee to extra work written into the contract.
+
+#### How do I calculate a monthly retainer fee?
+
+Take your normal monthly ad spend, apply each proposal's rule to it, add the extras, then divide by the deliverables. That gives a cost per piece of work you can compare.
+
+#### Can I cancel a retainer at any time?
+
+Only if the contract says so. Look for a short notice period, notice accepted by email, and no minimum term. Ours is thirty days, in writing, at any time.
+
+## How to choose an advertising agency in Karachi
+
+https://driftedmarketing.com/blog/how-to-choose-an-advertising-agency-in-karachi/ · How we work · by Umer Tariq · published 2026-11-17
+
+What separates the Karachi agencies worth a meeting from the ones that will waste a quarter, the questions that tell them apart, and what each kind is actually good at.
+
+Karachi has more advertising agencies than any other city in Pakistan, and the range runs from the networks that make television campaigns for banks and telecoms to two-person studios that run Instagram ads for a clothing label. Searching for the best one is the wrong question. The useful question is which kind of agency fits what you are trying to sell, and then which of that kind will actually do the work.
+
+**The short version.** Decide first whether you need brand advertising (television, outdoor, a campaign idea) or performance work (ads that are judged on sales). Then shortlist two or three agencies of that kind, ask who will touch your account every week, ask to see an account they run today, and choose the one that names a number and a date in writing.
+
+### What kinds of advertising agency are there in Karachi?
+
+| Kind | Good at | Watch for |
+| --- | --- | --- |
+| Network and full-service agencies | Television, outdoor, large campaign ideas, media buying at national scale | Senior people pitch, junior people run the account; long contracts |
+| Digital and social agencies | Instagram, Facebook and TikTok content calendars, community management | Reporting likes and reach instead of sales |
+| Performance agencies | Meta and Google ads judged on orders and cost per order | A fee taken as a share of your ad spend, which rewards spending more |
+| Creative and production studios | Shoots, reels, brand films, design | Beautiful work with no plan for where it runs or what it should sell |
+| Freelancers | One skill, cheaply, quickly | No cover when they are ill, busy or gone |
+
+Most small and medium brands do not need a network agency. They need someone who can make content that stops a thumb and then run the ads that put it in front of buyers, measured on what sold. That combination is rarer than the agency lists suggest, because content shops and ad shops are often different companies that blame each other when the month goes badly.
+
+### What should you ask before you sign?
+
+1. Who will work on my account every week, by name, and how many other accounts do they carry?
+2. Can I see an ad account you run today, with the client's permission, and what you changed in it last month?
+3. Whose name is on the ad account and the page: mine or yours? If we part, what do I keep?
+4. How are you paid: a flat fee, a share of my ad spend, or both? What happens to your fee if my spend doubles?
+5. What number will you be judged on, and by what date?
+6. What is the notice period, and can I give it by email at any time?
+
+The answers that should worry you are vague ones. An agency that cannot name the person on your account usually has not decided who it will be. An agency that wants the ad account in its own name is building a reason for you never to leave. And an agency that will not name a number is telling you, politely, that it does not expect to be held to one. Our longer list of questions is at /tools/questions-to-ask-an-agency, and the contract clauses to check are at /tools/agency-contract-checklist.
+
+### Does it matter whether the agency is in Karachi?
+
+For a Karachi shop, restaurant or clinic, it helps. Someone who can visit, shoot on site and understands which neighbourhoods buy what will make better local ads than someone who has never been to Clifton or Tariq Road. For a brand selling across Pakistan or abroad, the address matters much less than the hours, the language of the team and whether they have run ads in your market before.
+
+We are a Karachi studio that works New York business hours, so we answer that question from both sides. Local brands get people who can be in the room; American and European brands get a team awake in their working day. The full picture is on /pakistan/marketing-agency-karachi and /us-brands.
+
+### How much does an advertising agency in Karachi cost?
+
+Prices vary more than the work does, because agencies price in different ways: a monthly retainer, a share of ad spend, a fee per post or per video, or a project price for a campaign. Compare them on the same footing by adding up what you would pay in a typical month, including the ad spend itself, and asking what you get for it in deliverables and hours. Our piece on how retainers are structured, at /blog/how-agency-retainer-fees-work, walks through the arithmetic, and our own monthly fees are published on /pricing.
+
+### When is an agency the wrong answer?
+
+When you have nothing to sell yet, or nothing to say. An agency cannot fix a product nobody wants or a price that does not work, and it will happily take a fee while it tries. It is also the wrong answer when one good freelancer could do the job: a single channel, a small budget and an owner who can review the work every week. Hire an agency when the work needs several skills at once and someone accountable for the result.
+
+### Questions we get asked
+
+#### What is the best advertising agency in Karachi?
+
+There is no single best one, because the agencies do different jobs. The best one for you is the one that does the kind of work you need, names who will do it, and agrees in writing what it will be judged on.
+
+#### Should I choose a big agency or a small one?
+
+Choose by who does the work. A big agency gives you depth and process; a small one usually gives you the senior people every week. Ask each who touches your account and how often.
+
+#### Can a Karachi agency run ads for a business abroad?
+
+Yes. Meta and Google ads are run from anywhere. What matters is that the team has run ads in your market, works hours that overlap with yours, and keeps the ad account in your name.
+
+#### Who should own the ad account?
+
+You should. The account, the page and the data belong to the business. A good agency works inside your account with access you can remove.
 
 ## Landing pages that convert: what to put on the page, in order
 
@@ -705,7 +1039,7 @@ And it gives a founder who keeps your clock. Umer, who founded the studio and se
 4. Calls are booked in the client's timezone, never ours, and every date we give is in the client's timezone too.
 5. Anything urgent goes to the founder, who is awake on your clock.
 
-The team behind those rules is small and named on /about: Zayan runs operations, Aahan heads creative, Sana sets content strategy, Maham art directs, Khizer and Ali edit and animate, and Hamza leads business development. The studio is at Murtaza Commercial, DHA, Karachi, and the address is on /contact.
+The team behind those rules is small and named on /about: Zayan runs operations, Aahan heads creative, Sana sets content strategy, Maham art directs, Khizer edits, and Hamza leads business development. The studio is at Murtaza Commercial, DHA, Karachi, and the address is on /contact.
 
 ### What does a normal week look like?
 
@@ -815,7 +1149,7 @@ Read about it and request a founding seat at https://heyhousefly.com. Our studio
 
 ## How to warm up a sending domain before cold outreach
 
-https://driftedmarketing.com/blog/how-to-warm-up-a-sending-domain/ · Performance media · by Umer Tariq · published 2026-10-30
+https://driftedmarketing.com/blog/how-to-warm-up-a-sending-domain/ · Performance media · by Umer Tariq · published 2026-10-30 · updated 2026-11-17
 
 Why a brand-new domain cannot send cold email on its first day, what a warm-up actually does, and the slow, boring schedule that keeps a domain out of spam.
 
@@ -863,6 +1197,12 @@ Most outreach tools include an automatic warm-up feature that trades emails betw
 
 Send a test message every few days to inboxes you control on Gmail and Outlook and look at where it lands. Watch your bounce rate and your reply rate in the outreach tool. Register the domain with Google Postmaster Tools, which shows Google's own view of your domain reputation once you send enough mail for it to report. If messages start sliding into spam, stop raising volume, go back a stage, and look at the list and the copy before you look at the settings.
 
+### How early should you warm up before Black Friday?
+
+Start weeks before the sale, not days. Black Friday and Cyber Monday are the busiest sending days of the year, inbox providers are at their strictest, and every brand that went quiet since summer suddenly sends to its whole list at once. A domain that has been sending small, steady volumes to people who open and reply will get through. A new domain, or an old one waking up, that jumps straight to sale-week volume is exactly what filters are built to catch.
+
+In practice: finish the records first, begin the slow ramp described above as early in the autumn as you can, send your most engaged subscribers the first sale emails, and only widen to the rest of the list once those land well. If the warm-up started late, send less in sale week rather than more. A smaller send that reaches the inbox earns more than a big one that lands in junk, and it does not leave the domain damaged for December.
+
 ### When is warming up the wrong thing to spend time on?
 
 If you only send a few personal emails a week from your normal business address, you do not need any of this. Warming up matters when you plan to contact people who have not heard of you, in volume, over months. And if the offer is weak, a perfectly warmed domain will still get no replies. In that case the work is the offer and the first line, not the domain. We write about choosing what to say at /services/email-marketing.
@@ -872,6 +1212,10 @@ If you only send a few personal emails a week from your normal business address,
 #### How long does it take to warm up a domain?
 
 Plan on several weeks before the first real cold send, and keep warming after that. Slower is safer. A domain burned in a hurry usually has to be replaced, not repaired.
+
+#### Is it too late to warm up a domain before Black Friday?
+
+Not entirely, but cut the plan to fit. Warm with your most engaged contacts only, keep sale-week volume modest, and leave the cold list until after the sale.
 
 #### Can I warm up my main domain instead?
 
@@ -3223,7 +3567,7 @@ Ask four studios to build the same artificial intelligence tool and the quotes w
 
 For scale, GoodFirms’ custom software development cost survey puts most small and medium custom software projects between $30,000 and $100,000 — and adding a model to a product does not so much add a line to that budget as change which parts of it are hard.
 
-### Why do quotes vary by ten times?
+### Why do quotes vary so widely?
 
 Because “an artificial intelligence app” describes at least three unrelated products, and a brief that does not distinguish them gets priced by whichever one the studio assumed.
 
@@ -3285,7 +3629,7 @@ Build when the process is genuinely yours — when the reason it works is knowle
 
 It is worth knowing how often this goes wrong at much larger companies. MIT’s Project NANDA reported in its 2025 “GenAI Divide” study that around 95% of enterprise generative artificial intelligence pilots produced no measurable return, with the failures attributed to workflow integration and undefined outcomes rather than to the models themselves. Those organisations were not short of budget. They were short of a decision about what the thing was for.
 
-So the question to answer before asking anyone for a price is not what it costs. It is what it replaces, measured in hours or in money, and who will still be responsible for it a year from now. Bring those two answers and the quotes stop varying by ten times, because everyone is finally pricing the same thing.
+So the question to answer before asking anyone for a price is not what it costs. It is what it replaces, measured in hours or in money, and who will still be responsible for it a year from now. Bring those two answers and the quotes stop varying so wildly, because everyone is finally pricing the same thing.
 
 > Software without a price is a hobby with a repo. Decide how it pays before deciding what it costs.
 
@@ -3393,7 +3737,7 @@ A window is how long a platform is willing to take credit for something after th
 
 Your store keeps a longer memory but a stricter rule. Shopify’s own marketing reports documentation describes crediting an order to the most recent non-direct click within the past thirty days, with no setting to change that period. So the store looks back further and still hands the whole sale to one link.
 
-Read those two rules together and the overlap gets ugly. A person who clicks an ad, leaves, and returns eleven days later through an email is a Meta sale for six of those days and an email sale in your store forever. Same money. Two owners.
+Read those two rules together and the overlap gets ugly. A person who clicks an ad, leaves, and returns six days later through an email is a Meta sale, because the click still sits inside Meta's default seven-day window, and an email sale in your store, because the email was the last link. Same money. Two owners.
 
 ### Does a view really count as a sale?
 
@@ -3452,7 +3796,7 @@ https://driftedmarketing.com/blog/hiring-an-offshore-agency/ · How we work · b
 
 The four real risks of hiring an agency in another country, how to test for each one before you sign, and when the answer is simply not to.
 
-We are in Karachi. A large share of the people who read this page are in the United States. That gap is the first thing on the mind of anyone considering us, and pretending otherwise would be a strange way to start a relationship built on saying the number.
+We are in Karachi. A large share of the people who read this page are in the United States. That gap is the first thing on the mind of anyone considering us, and pretending otherwise would be a strange way to start working together.
 
 **The short version.** Four risks are real: overlap hours, turnover, cultural fluency in the copy, and accountability across borders. Each one is testable before you sign. Test them on us as hard as on anyone. If your work needs same-hour presence all day, hire locally.
 
@@ -3510,7 +3854,7 @@ If none of those describe you, the geography is a logistics question rather than
 
 > We’re not the cheap option and we don’t pretend to be.
 
-Being in Karachi is not the argument for hiring us, and it is not the argument against. The argument is the same one we would make from anywhere: tell us the number, and we will tell you if we can.
+Being in Karachi is not the argument for hiring us, and it is not the argument against. The argument is the same one we would make from anywhere: bring the result you need and the date you need it by, and we will tell you plainly whether we can get you there.
 
 ## Marketing contract red flags
 
@@ -3526,7 +3870,7 @@ What follows is each of the six, what a fair version looks like, and where we si
 
 ### How long is the notice period, really?
 
-Notice periods hide in two places. There is the stated length, and there is the form the notice has to take. A ninety-day notice period that also requires written notice served before the anniversary date is, in practice, a single week each year in which you are permitted to leave.
+Notice periods hide in two places. There is the stated length, and there is the form the notice has to take. A ninety-day notice period that can only be served in a fixed window before the anniversary date means one missed deadline signs you up for another full year.
 
 Check three things: the length, the accepted method, and whether notice can be served at any point or only in a defined window. If email is not explicitly accepted, assume it is not accepted. Then check whether the agency’s own notice period matches yours. Asymmetric notice, where they can leave in thirty days and you need ninety, tells you exactly how the relationship is valued.
 
@@ -3773,7 +4117,7 @@ There is a softer version of the threshold worth knowing. You do not need fifty 
 
 ### So what is the practical floor?
 
-Around $5,000 a month of media is where most of the arithmetic starts working, and there is a second reason for that number beyond the learning phase. Stackmatix's 2026 guide puts market fees at 10 to 20 per cent of spend, or flat retainers from roughly $1,500 upward. At $5,000 of media a $1,500 fee is already 30 per cent of the total. Below that, you are paying more to manage the money than the money can plausibly return.
+Around $5,000 a month of media is where most of the arithmetic starts working, and there is a second reason for that number beyond the learning phase. Stackmatix's 2026 guide puts market fees at 10 to 20 per cent of spend, or flat retainers from roughly $500 to past $5,000, with small-business engagements more often between $1,000 and $2,500. At $5,000 of media a $1,500 fee is already 30 per cent of the total. Below that, you are paying more to manage the money than the money can plausibly return.
 
 Add the cost trend and the case gets sharper. The same LocaliQ and WordStream analysis found the average Facebook cost per lead at $27.66, up 20.94 per cent year on year. Small budgets get squeezed hardest by rising costs, because they have the least room to absorb a worse month before the whole test becomes unreadable.
 
@@ -3829,7 +4173,7 @@ In our experience the freelancer arrangement fails in one specific way. It works
 
 ### What does an agency actually cost?
 
-Stackmatix's 2026 guide to Facebook ads agency pricing puts flat retainers in a band that runs from roughly $1,500 to $10,000 a month, with percentage-of-spend arrangements at 10 to 20 per cent. The 2026 Agency Pricing Survey reported by Ryze found roughly 42 per cent of agencies on flat fees, 31 per cent on a percentage of spend, and 27 per cent on a hybrid.
+Stackmatix's 2026 guide to Facebook ads agency pricing puts flat retainers in a band that runs from roughly $500 to past $5,000 a month, with percentage-of-spend arrangements at 10 to 20 per cent. The 2026 Agency Pricing Survey reported by Ryze found roughly 42 per cent of agencies on flat fees, 31 per cent on a percentage of spend, and 27 per cent on a hybrid.
 
 What you are buying at that price is not hours. It is a bench: someone who buys media, someone who makes the creative, someone who has seen your category fail before. What you give up is exclusivity of attention — you are one of several accounts, and on a bad month you will feel it.
 
@@ -3839,7 +4183,7 @@ The hidden cost is the approval loop. Every agency arrangement has one, and a sl
 
 Here is where the spreadsheet usually lies. Glassdoor's 2026 United States figures put the average paid media specialist at $70,850 a year and the average performance marketing manager at $108,179, with a typical range of $81,676 to $144,900. Those are salaries, not costs.
 
-As a planning rule, add roughly a quarter to a third on top for employer taxes, benefits, equipment, software and the share of recruitment cost the hire has to carry. Then add the ramp: a new hire is not fully productive for a quarter, and a bad hire costs you two before you know. Then remember that one person in-house is still one person, so you have bought the freelancer's single-point risk at four times the price — with the added feature that it takes months to replace rather than a week.
+As a planning rule, add roughly 25 to 30 per cent on top for employer taxes, benefits, equipment, software and the share of recruitment cost the hire has to carry. Then add the ramp: a new hire is not fully productive for a quarter, and a bad hire costs you two before you know. Then remember that one person in-house is still one person, so you have bought the freelancer's single-point risk at four times the price — with the added feature that it takes months to replace rather than a week.
 
 What in-house genuinely buys is context. Someone who sits in your business learns your customers, your margins and your seasonality in a way no external party does. That is worth a great deal. It is worth it later than most founders think.
 
@@ -3931,7 +4275,7 @@ Somewhere around $5,000 to $10,000 a month of spend, three things change at once
 2. The fee becomes a smaller share of total media, so a modest percentage improvement in efficiency can actually cover it.
 3. The number of decisions per week exceeds what a founder can make well between everything else — which is the point where expertise starts saving money rather than costing it.
 
-Against Stackmatix's 2026 market bands — 10 to 20 per cent of spend, or flat retainers running from roughly $1,500 to $10,000 a month — a $10,000 media budget carrying a $2,000 fee means the operator has to find a fifth more efficiency to be free. That is a plausible ask on a neglected account. On a $2,000 budget carrying the same fee, it is not.
+Against Stackmatix's 2026 market bands — 10 to 20 per cent of spend, or flat retainers running from roughly $500 to past $5,000 a month — a $10,000 media budget carrying a $2,000 fee means the operator has to find a fifth more efficiency to be free. That is a plausible ask on a neglected account. On a $2,000 budget carrying the same fee, it is not.
 
 The cost trend matters too. LocaliQ and WordStream's analysis of 1,180 United States campaigns run between April 2024 and June 2025 found the average Facebook cost per lead at $27.66, up 20.94 per cent year on year. Standing still gets more expensive every year. Below the threshold that trend is a reason to be careful; above it, it is a reason to have someone whose job is fighting it.
 
