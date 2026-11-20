@@ -21,6 +21,11 @@ Redirect 301 /services/performance /services
 Redirect 301 /services/creators /services
 Redirect 301 /services/ai-product /services
 
+# Site 60: the dropped client's case and film move; the social page became The Poster Project.
+Redirect 301 /work/noted/film /work/gettysburg/film
+Redirect 301 /work/noted /work
+Redirect 301 /work/social /work/poster-project
+
 # --- Security headers --------------------------------------------------------
 # Mirrors netlify.toml and vercel.json.
 <IfModule mod_headers.c>
