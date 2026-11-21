@@ -7,7 +7,7 @@
 <link rel="canonical" href="https://driftedmarketing.com/">
 <meta property="og:title" content="Drifted Marketing — under wraps">
 <meta property="og:description" content="Our own site is under construction. Judge us by the client work.">
-<meta property="og:image" content="https://driftedmarketing.com/wraps/hoarding.jpg">
+<meta property="og:image" content="https://driftedmarketing.com/wraps/crew8.jpg">
 <meta property="og:url" content="https://driftedmarketing.com/">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.ico">
@@ -73,6 +73,11 @@ img{display:block}
 #cover::after{content:'';position:absolute;inset:0;pointer-events:none;opacity:.16;mix-blend-mode:overlay;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>")}
 #cover .grade{background:linear-gradient(180deg,rgba(4,10,30,.22) 0%,transparent 22%,transparent 58%,rgba(2,4,12,.86) 100%),radial-gradient(120% 90% at 50% 45%,transparent 50%,rgba(0,4,20,.55)),linear-gradient(0deg,rgba(20,40,110,.12),rgba(20,40,110,.12))!important}
 html.still #cover video{display:none}
+#cover .poster,#cover .cut{transform-origin:55% 38%;animation:coverdrift 26s ease-in-out infinite alternate}
+#cover .mast{animation:mastdrift 26s ease-in-out infinite alternate}
+@keyframes coverdrift{from{transform:scale(1.02) translate3d(0,0,0)}to{transform:scale(1.09) translate3d(-1.2%,-.8%,0)}}
+@keyframes mastdrift{from{transform:translate3d(0,0,0)}to{transform:translate3d(.6%,0,0)}}
+@media (prefers-reduced-motion:reduce){#cover .poster,#cover .cut,#cover .mast{animation:none}}
 #cutv{display:none}html.live #cutv{display:block}html.live #cuti{display:none}
 #cover .grade{position:absolute;inset:0;background:
   linear-gradient(180deg,rgba(5,10,30,.25) 0%,rgba(5,10,30,0) 22%,rgba(5,10,30,0) 62%,rgba(3,5,12,.82) 100%),
@@ -296,13 +301,25 @@ html.still #cover video{display:none}
   <div class="topbar"><img src="/wraps/logo.svg" alt="Drifted"><span>Karachi · New York</span></div>
   <div class="splash-ui">
     <span>Rebuilding our own site. <b>The client work is finished.</b></span>
-    <a class="enter" href="#w-ai"><i></i>Push the door</a>
+    <a class="enter" href="#cover"><i></i>Push the door</a>
     <span class="clock">Rain · Karachi</span>
   </div>
 </section>
 
 <!-- ================= COVER ================= -->
-
+<section id="cover">
+  <img class="poster" src="/wraps/crew8.jpg" alt="The Drifted crew in black, on the blue wall at the office">
+  <div class="mast"><span>DRIFTED</span></div>
+  <img class="cut" id="cuti" src="/wraps/crew8-cut.png" alt="">
+  <div class="grade"></div>
+  <div class="issue"><span>Issue 03</span><span>Under construction</span><span>Karachi / New York</span></div>
+  <div class="lines">
+    <div class="lead">A design-first studio that <em>builds</em> what it designs, from the logo to the app.</div>
+    <p><b>Founded at 17</b>Umer started Drifted at 17. He is 21 now and has closed 29 contracts across three agencies.</p>
+    <p><b>Inside this issue</b>ehsaan · Gettysburg Museum of History · Oorlogsspullen · The Gallery · Housefly</p>
+  </div>
+  <div class="cred">The crew, photographed at the office, 19 October 2026</div>
+</section>
 
 <!-- ================= WORLDS: one per service, each its own layout ================= -->
 <section class="world2 l-theatre" id="w-ai">
@@ -415,8 +432,8 @@ d.y+=d.v*devicePixelRatio;d.x-=d.v*.18;if(d.y>H){d.y=-20;d.x=Math.random()*W*1.1
 if(matchMedia('(prefers-reduced-motion: reduce)').matches){f()}else f();
 const sw=document.getElementById('sweep');
 const st=document.getElementById('stage');st.classList.add('splash-go');
-document.querySelector('.enter').addEventListener('click',e=>{e.preventDefault();if(matchMedia('(prefers-reduced-motion: reduce)').matches){document.getElementById('w-ai').scrollIntoView();return}
- st.classList.add('opened');setTimeout(()=>st.classList.add('in'),480);setTimeout(()=>{document.getElementById('w-ai').scrollIntoView({behavior:'instant'});setTimeout(()=>st.classList.remove('in','opened'),500)},1450)});
+document.querySelector('.enter').addEventListener('click',e=>{e.preventDefault();if(matchMedia('(prefers-reduced-motion: reduce)').matches){document.getElementById('cover').scrollIntoView();return}
+ st.classList.add('opened');setTimeout(()=>st.classList.add('in'),480);setTimeout(()=>{document.getElementById('cover').scrollIntoView({behavior:'instant'});setTimeout(()=>st.classList.remove('in','opened'),500)},1450)});
 document.getElementById('pno').textContent=String(1000+Math.floor(Math.random()*9000));
 if(still){sw.classList.add('hold')}else if(!matchMedia('(prefers-reduced-motion: reduce)').matches){const go=()=>{sw.classList.remove('go');void sw.offsetWidth;sw.classList.add('go')};setTimeout(go,1600);setInterval(go,9000)}
 })();
