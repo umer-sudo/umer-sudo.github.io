@@ -7,7 +7,7 @@
 <link rel="canonical" href="https://driftedmarketing.com/">
 <meta property="og:title" content="Drifted Marketing — under wraps">
 <meta property="og:description" content="Our own site is under construction. Judge us by the client work.">
-<meta property="og:image" content="https://driftedmarketing.com/wraps/crew.jpg">
+<meta property="og:image" content="https://driftedmarketing.com/wraps/hoarding.jpg">
 <meta property="og:url" content="https://driftedmarketing.com/">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.ico">
@@ -296,27 +296,13 @@ html.still #cover video{display:none}
   <div class="topbar"><img src="/wraps/logo.svg" alt="Drifted"><span>Karachi · New York</span></div>
   <div class="splash-ui">
     <span>Rebuilding our own site. <b>The client work is finished.</b></span>
-    <a class="enter" href="#cover"><i></i>Push the door</a>
+    <a class="enter" href="#w-ai"><i></i>Push the door</a>
     <span class="clock">Rain · Karachi</span>
   </div>
 </section>
 
 <!-- ================= COVER ================= -->
-<section id="cover">
-  <img class="poster" src="/wraps/crew.jpg" alt="The Drifted crew in black, on the blue wall at the office">
-  <video id="crewv" src="/wraps/crew-1600.mp4" autoplay muted loop playsinline poster="/wraps/crew.jpg"></video>
-  <div class="mast"><span>DRIFTED</span></div>
-  <img class="cut" id="cuti" src="/wraps/crew-cut.png" alt="">
-  <video class="cut" id="cutv" src="/wraps/crew-cut.webm" muted loop playsinline preload="auto"></video>
-  <div class="grade"></div>
-  <div class="issue"><span>Issue 03</span><span>Under construction</span><span>Karachi / New York</span></div>
-  <div class="lines">
-    <div class="lead">A design-first studio that <em>builds</em> what it designs, from the logo to the app.</div>
-    <p><b>Founded at 17</b>Umer started Drifted at 17. He is 21 now and has closed 29 contracts across three agencies.</p>
-    <p><b>Inside this issue</b>ehsaan · Gettysburg Museum of History · Oorlogsspullen · The Gallery · Housefly</p>
-  </div>
-  <div class="cred">The crew, photographed at the office, 19 October 2026</div>
-</section>
+
 
 <!-- ================= WORLDS: one per service, each its own layout ================= -->
 <section class="world2 l-theatre" id="w-ai">
@@ -429,14 +415,14 @@ d.y+=d.v*devicePixelRatio;d.x-=d.v*.18;if(d.y>H){d.y=-20;d.x=Math.random()*W*1.1
 if(matchMedia('(prefers-reduced-motion: reduce)').matches){f()}else f();
 const sw=document.getElementById('sweep');
 const st=document.getElementById('stage');st.classList.add('splash-go');
-document.querySelector('.enter').addEventListener('click',e=>{e.preventDefault();if(matchMedia('(prefers-reduced-motion: reduce)').matches){document.getElementById('cover').scrollIntoView();return}
- st.classList.add('opened');setTimeout(()=>st.classList.add('in'),480);setTimeout(()=>{document.getElementById('cover').scrollIntoView({behavior:'instant'});setTimeout(()=>st.classList.remove('in','opened'),500)},1450)});
+document.querySelector('.enter').addEventListener('click',e=>{e.preventDefault();if(matchMedia('(prefers-reduced-motion: reduce)').matches){document.getElementById('w-ai').scrollIntoView();return}
+ st.classList.add('opened');setTimeout(()=>st.classList.add('in'),480);setTimeout(()=>{document.getElementById('w-ai').scrollIntoView({behavior:'instant'});setTimeout(()=>st.classList.remove('in','opened'),500)},1450)});
 document.getElementById('pno').textContent=String(1000+Math.floor(Math.random()*9000));
 if(still){sw.classList.add('hold')}else if(!matchMedia('(prefers-reduced-motion: reduce)').matches){const go=()=>{sw.classList.remove('go');void sw.offsetWidth;sw.classList.add('go')};setTimeout(go,1600);setInterval(go,9000)}
 })();
 </script>
 <script>
-(function(){const b=document.getElementById('crewv'),c=document.getElementById('cutv');
+(function(){const b=document.getElementById('crewv'),c=document.getElementById('cutv');if(!b||!c)return;
 const safari=/^((?!chrome|android|crios|fxios).)*safari/i.test(navigator.userAgent);
 const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
 if(document.documentElement.classList.contains('still')||reduce){b.pause();b.style.display='none';return}
