@@ -116,6 +116,12 @@ The whole method, week by week, with the rules that do not change: https://drift
 
 Housefly is the multi-agent AI system Umer Tariq built, on his own, to run Drifted Marketing. Most of the team works beside an AI agent of their own that keeps its own memory and learns how that person works; the agents pass notes and offer tasks through a shared hive, where a note is never an order; and scheduled jobs run overnight on the studio's own machine so the work is waiting in the morning. It writes and tests the studio's own software. It multiplies the team rather than replacing it: every action that would write to a client's live account is proposed, armed with a single-use code and approved by a person, a rejection is remembered, and credentials stay out of the agent's reach. It is being prepared for a public release; there is no date. https://driftedmarketing.com/housefly/
 
+## Software Drifted makes and sells
+
+- Kubrix (https://kubrix.app/): a browser design workstation for architects, interior designers and restaurant fit-out. It turns a typed client brief into a building set out inside the plot's legal limits, checks it against a loaded city rule pack and exports a one-page sheet.
+- Spekka (https://spekka.app/): a 3D eyewear configurator for eyewear brands and frame makers. Customers pull a frame apart, paint each part from the brand's colour chart and set the fit in millimetres; the build's link is the order. No camera or face scan, no cut of sales.
+- Housefly Concierge (https://heyhousefly.com/): a private assistant members text.
+
 ## Questions buyers ask
 
 ### What is Drifted Marketing?
